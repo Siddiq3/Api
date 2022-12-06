@@ -1,23 +1,24 @@
 {
     "results": [
         {
-            "question": "1.మానవుని గుండెలో గదులు a",
-            "correct_answer": "2 కర్ణికలు, 2 జఠరికలు",
+            "question": "1.కొన్ని పూర్ణాంకం n కోసం, బేసి పూర్ణాంకం రూపంలో సూచించబడుతుంది (OR) For some integer n, the odd integer is represented in the form of:",
+            "correct_answer": "2n+1",
             "incorrect_answers": [
-                "1 కర్ణిక, 1 జఠరిక",
-                "2 కర్ణికలు, 1 జఠరిక",
-                "1 కర్ణిక, 3 జఠరికలు"
+                "n",
+                "n+1",
+              "2n"
             ]
         },
         {
-            "question": "PM OF INDIA",
-            "correct_answer": "MODI",
+            "question": "2.22/7 యొక్క దశాంశ విస్తరణ (OR) The decimal expansion of 22/7  is",
+            "correct_answer": "Non-terminating and repeating",
             "incorrect_answers": [
-                "JAGAN",
-                "CHANDRA BABU",
-              "PSPK"
+                "Terminating",
+                "Non-terminating and Non-repeating",
+                "None of the above"
             ]
         }
+        
         
     ]
 }
