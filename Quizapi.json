@@ -3,11 +3,11 @@
         
          {
             "question": "Which of the following is not irrational(అహేతుకం)",
-            "correct_answer": "Non-terminating and repeating",
+            "correct_answer": "(3 + √7) (3 – √7) ",
             "incorrect_answers": [
                 "(3 + √7)",
                 "(3 – √7)",
-                "(3 + √7) (3 – √7)"
+                " 3√7"
             ]
         },
         
