@@ -2,22 +2,22 @@
     "results": [
         
          {
-            "question": "Which of the following is not irrational(అహేతుకం)",
-            "correct_answer": "(3 + √7) (3 – √7) ",
+            "question": "The multiplication of two irrational numbers is:",
+            "correct_answer": "Maybe rational or irrational",
             "incorrect_answers": [
-                "(3 + √7)",
-                "(3 – √7)",
-                " 3√7"
+                "irrational number",
+                "rational number",
+                "None"
             ]
         },
         
         {
-            "question": "26 మరియు 91 యొక్క HCF: (OR) HCF of 26 and 91 is:",
-            "correct_answer": "13",
+            "question": "Using Euclid’s division algorithm, the HCF of 231 and 396 is",
+            "correct_answer": "33",
             "incorrect_answers": [
-                "15",
-                "19",
-              "11"
+                "32",
+                " 21",
+              "13"
             ]
         }
         
