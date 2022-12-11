@@ -1,22 +1,22 @@
 {
     "results": [
        {
-            "question": "1.HCF of 8, 9, 25 is",
+            "question": "1.‘స, భ, ర, న, మ, య, వ’ ఏ పద్యానికి చెందిన గణాలు? (March 2017)",
             "incorrect_answers": [
-                "8",
-                "9",
-                "25"
+                "శార్దూలం",
+                "ఉత్పలమాల",
+                "చంపకమాల"
             ],
-            "correct_answer": "1"
+            "correct_answer": "మత్తేభం"
         },
         {
-            "question": "2.Which of the following is not irrational?",
+            "question": "2.ఎప్పుడూ అమ్మను కష్టపెట్టకూడదు. (ప్రకృతి గుర్తించండి) (S.A. I – 2018-19)",
             "incorrect_answers": [
-                "(2 – √3)2",
-                "(√2 + √3)2",
-              "2√7/3 "
+                "అంభ",
+                "అమ్మమ్మ",
+              "అమ్మవారు"
             ],
-            "correct_answer": " (√2 -√3)(√2 + √3)"
+            "correct_answer": "అంబ"
         }
       
     ]
