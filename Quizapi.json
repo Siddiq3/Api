@@ -1,22 +1,58 @@
 {
     "results": [
        {
-            "question": "1.శత్రర్థక క్రియను గుర్తించండి.?",
+            "question": "1.Lakshadweep islands are located in one of the following (OR)లక్షద్వీప్ ద్వీపాలు కింది వాటిలో ఒకదానిలో ఉన్నాయి?",
             "incorrect_answers": [
-                "చేసి",
-                "చేయక",
-                " చేస్తే"
+                "Bay of Bengal(OR)బంగాళాఖాతం",
+                "Pacific Ocean(OR)పసిఫిక్ మహాసముద్రం",
+                " Indian Ocean(OR)హిందు మహా సముద్రం"
             ],
-            "correct_answer": "చేయుచున్"
+            "correct_answer": "Arabian Sea(OR)అరేబియా సముద్రం"
         },
         {
-            "question": "2.‘చూడాకర్ణుడు, వీణాకర్ణుడు అను సన్యాసులు కలరు’ – ఇది ఏ వాక్యం?",
+            "question": "2.The Shivaliks in Assom are known as(OR)అస్సోమ్‌లోని శివాలికులు ఏమంటారు?",
             "incorrect_answers": [
-                "సంక్లిష్ట వాక్యం",
-                "సామాన్య వాక్యం",
-              "కర్తరి వాక్యం"
+                "Mizo(OR)మిజో",
+                "Jammu hills(OR)జమ్మూ కొండలు",
+              "Mishmi hills(OR)మిష్మి కొండలు"
             ],
-            "correct_answer": "సంయుక్త వాక్యం"
+            "correct_answer": "Cachar(OR)క్యాచర్యం"
+        },
+        {
+            "question": "3.Calorimetry is the measurement of(OR)క్యాలరీమెట్రీ అనేది కొలతు?",
+            "incorrect_answers": [
+                "temperature(OR)ఉష్ణోగ్రత",
+                "evaporation(OR)బాష్పీభవనం",
+              "boiling(OR)ఉడకబెట్టడం"
+            ],
+            "correct_answer": "heat(OR)ఉష్ణ"
+        },
+        {
+            "question": "4.Three bodies A, B and C are in thermal equilibrium, the temperature of B is 45°C, then the temperature of C is(OR)A, B మరియు C అనే మూడు శరీరాలు ఉష్ణ సమతుల్యతలో ఉంటాయి, B యొక్క ఉష్ణోగ్రత 45 ° C, అప్పుడు C యొక్క ఉష్ణోగ్రత?",
+            "incorrect_answers": [
+                "50° C",
+                "40°C",
+              "any temperature"
+            ],
+            "correct_answer": "45° C"
+        },
+        {
+            "question": "5.If A ⊂ B, then A ∩ B=?(OR)A ⊂ B అయితే, A ∩ B=?",
+            "incorrect_answers": [
+                "B",
+                "Φ",
+              "µ"
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "question": "6.Number of subsets of the set A = {1, 2, 3, 4} is (OR)A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య?",
+            "incorrect_answers": [
+                "4",
+                "8",
+              "12"
+            ],
+            "correct_answer": "16"
         }
       
     ]
