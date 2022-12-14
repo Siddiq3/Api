@@ -1,58 +1,58 @@
 {
     "results": [
        {
-            "question": "1.Lakshadweep islands are located in one of the following (OR)లక్షద్వీప్ ద్వీపాలు కింది వాటిలో ఒకదానిలో ఉన్నాయి?",
+            "question": "1.If A ⊆ B, then which one of following is false ? (OR)A ⊆ B అయితే, కింది వాటిలో ఏది తప్పు ?",
             "incorrect_answers": [
-                "Bay of Bengal(OR)బంగాళాఖాతం",
-                "Pacific Ocean(OR)పసిఫిక్ మహాసముద్రం",
-                " Indian Ocean(OR)హిందు మహా సముద్రం"
+                "A – B = A",
+                "A ∪ B = B",
+                "A ∩ B = A"
             ],
-            "correct_answer": "Arabian Sea(OR)అరేబియా సముద్రం"
+            "correct_answer": "B – A ≠ Φ"
         },
         {
-            "question": "2.The Shivaliks in Assom are known as(OR)అస్సోమ్‌లోని శివాలికులు ఏమంటారు?",
+            "question": "2.If n(A) = 15, n(B) = 10, n(A ∩ B) = 5, then n(A ∪ B) =(OR)n(A) = 15, n(B) = 10, n(A ∩ B) = 5, అప్పుడు n(A ∪ B) =",
             "incorrect_answers": [
-                "Mizo(OR)మిజో",
-                "Jammu hills(OR)జమ్మూ కొండలు",
-              "Mishmi hills(OR)మిష్మి కొండలు"
+                "5",
+                "10",
+              "25"
             ],
-            "correct_answer": "Cachar(OR)క్యాచర్యం"
+            "correct_answer": "20"
         },
         {
-            "question": "3.Calorimetry is the measurement of(OR)క్యాలరీమెట్రీ అనేది కొలతు?",
+            "question": "3.In autotrophs the energy is stored as(OR)ఆటోట్రోఫ్స్‌లో శక్తి ఎలా నిల్వ చేయబడుతుంది?",
             "incorrect_answers": [
-                "temperature(OR)ఉష్ణోగ్రత",
-                "evaporation(OR)బాష్పీభవనం",
-              "boiling(OR)ఉడకబెట్టడం"
+                "Fats(OR)కొవ్వులు",
+                "Proteins(OR)ప్రొటీన్ల",
+              "Glycogen(OR)గ్లైకోజెన్"
             ],
-            "correct_answer": "heat(OR)ఉష్ణ"
+            "correct_answer": "Carbohydrates(OR)కార్బోహైడ్రేట్లు"
         },
         {
-            "question": "4.Three bodies A, B and C are in thermal equilibrium, the temperature of B is 45°C, then the temperature of C is(OR)A, B మరియు C అనే మూడు శరీరాలు ఉష్ణ సమతుల్యతలో ఉంటాయి, B యొక్క ఉష్ణోగ్రత 45 ° C, అప్పుడు C యొక్క ఉష్ణోగ్రత?",
+            "question": "4.To test the importance of CO2 Mohl used……………… solution(OR)CO2 మోల్ యొక్క ప్రాముఖ్యతను పరీక్షించడానికి ……… ద్రావణాన్ని ఉపయోగిస్తారు?",
             "incorrect_answers": [
-                "50° C",
-                "40°C",
-              "any temperature"
+                "O2",
+                "COOH",
+              "K2SO4"
             ],
-            "correct_answer": "45° C"
+            "correct_answer": " KOH"
         },
         {
-            "question": "5.If A ⊂ B, then A ∩ B=?(OR)A ⊂ B అయితే, A ∩ B=?",
+            "question": "5.udankulam Power Project is generating electricity from(OR)కూడంకుళం పవర్ ప్రాజెక్ట్ నుంచి విద్యుత్ ఉత్పత్తి జరుగుతోంది",
             "incorrect_answers": [
-                "B",
-                "Φ",
-              "µ"
+                "Hydro Power Project(OR)హైడ్రో పవర్ ప్రాజెక్ట్",
+                "Thermal Power Project(OR)థర్మల్ పవర్ ప్రాజెక్ట్",
+              "Solar Power(OR)సౌర శక్తి"
             ],
-            "correct_answer": "A"
+            "correct_answer": "Nuclear Power(OR)అణు విద్యుత్"
         },
         {
-            "question": "6.Number of subsets of the set A = {1, 2, 3, 4} is (OR)A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య?",
+            "question": "6.The Human Development Index was proposed by(OR)మానవాభివృద్ధి సూచికను ప్రతిపాదించారు?",
             "incorrect_answers": [
-                "4",
-                "8",
-              "12"
+                "Manshall",
+                " J. M. Keynes",
+              "Recardo"
             ],
-            "correct_answer": "16"
+            "correct_answer": "Amartya Sen"
         }
       
     ]
