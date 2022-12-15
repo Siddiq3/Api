@@ -1,58 +1,58 @@
 {
     "results": [
        {
-            "question": "1.If A ⊆ B, then which one of following is false ? (OR)A ⊆ B అయితే, కింది వాటిలో ఏది తప్పు ?",
+            "question": "1.If α, β, are the roots of 5x2 + 5x + 6 = 0, then (1 + α) (1 + β) = ?(OR)α, β, 5x2 + 5x + 6 = 0 యొక్క మూలాలు అయితే, అప్పుడు (1 + α) (1 + β) =?",
             "incorrect_answers": [
-                "A – B = A",
-                "A ∪ B = B",
-                "A ∩ B = A"
+                "–4/3",
+                "3/5",
+                "–6/5"
             ],
-            "correct_answer": "B – A ≠ Φ"
+            "correct_answer": " 6/5"
         },
         {
-            "question": "2.If n(A) = 15, n(B) = 10, n(A ∩ B) = 5, then n(A ∪ B) =(OR)n(A) = 15, n(B) = 10, n(A ∩ B) = 5, అప్పుడు n(A ∪ B) =",
+            "question": "2.If ‘4’ is one of the zeroes of p(x) = x2 + kx – 8, then the value of k =(OR)p(x) = x2 + kx – 8 యొక్క సున్నాలలో ‘4’ ఒకటి అయితే, k = విలువ",
             "incorrect_answers": [
-                "5",
-                "10",
-              "25"
+                "1",
+                "-1",
+              "2"
             ],
-            "correct_answer": "20"
+            "correct_answer": "-2"
         },
         {
-            "question": "3.In autotrophs the energy is stored as(OR)ఆటోట్రోఫ్స్‌లో శక్తి ఎలా నిల్వ చేయబడుతుంది?",
+            "question": "3.Famous photosynthesis equation was proposed by which scientist?(OR)ప్రసిద్ధ కిరణజన్య సంయోగక్రియ సమీకరణాన్ని ఏ శాస్త్రవేత్త ప్రతిపాదించారు?",
             "incorrect_answers": [
-                "Fats(OR)కొవ్వులు",
-                "Proteins(OR)ప్రొటీన్ల",
-              "Glycogen(OR)గ్లైకోజెన్"
+                " Arnon",
+                "Hill",
+              "Jackson"
             ],
-            "correct_answer": "Carbohydrates(OR)కార్బోహైడ్రేట్లు"
+            "correct_answer": "C.B.Van Neil"
         },
         {
-            "question": "4.To test the importance of CO2 Mohl used……………… solution(OR)CO2 మోల్ యొక్క ప్రాముఖ్యతను పరీక్షించడానికి ……… ద్రావణాన్ని ఉపయోగిస్తారు?",
+            "question": "4………detected the point of maximum rate of photosynthesis.(OR)……కిరణజన్య సంయోగక్రియ యొక్క గరిష్ట రేటు పాయింట్‌ను గుర్తించింది?",
             "incorrect_answers": [
-                "O2",
-                "COOH",
-              "K2SO4"
+                "Neils Bohr",
+                "Eastman",
+              "Arnon"
             ],
-            "correct_answer": " KOH"
+            "correct_answer": "Engelman"
         },
         {
-            "question": "5.udankulam Power Project is generating electricity from(OR)కూడంకుళం పవర్ ప్రాజెక్ట్ నుంచి విద్యుత్ ఉత్పత్తి జరుగుతోంది",
+            "question": "5.This is not a public facility(OR)ఇది ప్రజా సౌకర్యం కాదు?",
             "incorrect_answers": [
-                "Hydro Power Project(OR)హైడ్రో పవర్ ప్రాజెక్ట్",
-                "Thermal Power Project(OR)థర్మల్ పవర్ ప్రాజెక్ట్",
-              "Solar Power(OR)సౌర శక్తి"
+                "Government School(OR)ప్రభుత్వ పాఠశాల",
+                "Primary Health Centre",
+              "Public Distribution System"
             ],
-            "correct_answer": "Nuclear Power(OR)అణు విద్యుత్"
+            "correct_answer": "Sharing Auto"
         },
         {
-            "question": "6.The Human Development Index was proposed by(OR)మానవాభివృద్ధి సూచికను ప్రతిపాదించారు?",
+            "question": "6.Which of the following is a correct one regarding developmental goals?(OR)అభివృద్ధి లక్ష్యాలకు సంబంధించి కింది వాటిలో సరైనది ఏది?",
             "incorrect_answers": [
-                "Manshall",
-                " J. M. Keynes",
-              "Recardo"
+                "Only rich people have goals(OR)ధనవంతులకే లక్ష్యాలు ఉంటాయి",
+                "Goals are same to all the people(OR)ప్రజలందరి లక్ష్యం ఒక్కటే",
+              "One’s goals are always destructive for others(OR)ఒకరి లక్ష్యాలు ఎల్లప్పుడూ ఇతరులకు విధ్వంసకరమే"
             ],
-            "correct_answer": "Amartya Sen"
+            "correct_answer": "Goals and the ways of attaining them may be in conflict(OR)లక్ష్యాలు మరియు వాటిని సాధించే మార్గాలు వైరుధ్యంలో ఉండవచ్చు"
         }
       
     ]
