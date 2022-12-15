@@ -46,13 +46,13 @@
             "correct_answer": "Sharing Auto"
         },
         {
-            "question": "6.Which of the following is a correct one regarding developmental goals?(OR)అభివృద్ధి లక్ష్యాలకు సంబంధించి కింది వాటిలో సరైనది ఏది?",
+            "question": "6.What rank has India got in HDI?(OR)హెచ్‌డిఐలో భారత్‌కు ఏ ర్యాంక్ వచ్చింది?",
             "incorrect_answers": [
-                "Only rich people have goals(OR)ధనవంతులకే లక్ష్యాలు ఉంటాయి",
-                "Goals are same to all the people(OR)ప్రజలందరి లక్ష్యం ఒక్కటే",
-              "One’s goals are always destructive for others(OR)ఒకరి లక్ష్యాలు ఎల్లప్పుడూ ఇతరులకు విధ్వంసకరమే"
+                "92",
+                "146",
+              "157"
             ],
-            "correct_answer": "Goals and the ways of attaining them may be in conflict(OR)లక్ష్యాలు మరియు వాటిని సాధించే మార్గాలు వైరుధ్యంలో ఉండవచ్చు"
+            "correct_answer": "136"
         }
       
     ]
