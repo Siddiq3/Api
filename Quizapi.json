@@ -1,58 +1,58 @@
 {
     "results": [
        {
-            "question": "1.If α, β, are the roots of 5x2 + 5x + 6 = 0, then (1 + α) (1 + β) = ?(OR)α, β, 5x2 + 5x + 6 = 0 యొక్క మూలాలు అయితే, అప్పుడు (1 + α) (1 + β) =?",
+            "question": "1.The degree of the polynomial(బహుపది యొక్క డిగ్రీ) √2 X2– 3X + 1 =?",
             "incorrect_answers": [
-                "–4/3",
-                "3/5",
-                "–6/5"
+                "√2",
+                "1",
+                "3"
             ],
-            "correct_answer": " 6/5"
+            "correct_answer": "2"
         },
         {
-            "question": "2.If ‘4’ is one of the zeroes of p(x) = x2 + kx – 8, then the value of k =(OR)p(x) = x2 + kx – 8 యొక్క సున్నాలలో ‘4’ ఒకటి అయితే, k = విలువ",
+            "question": "2.Sum of zeroes of a polynomial x3 – 2x2 + 3x – 4 is(OR)బహుపది x3 – 2x2 + 3x – 4 సున్నాల మొత్తం",
             "incorrect_answers": [
                 "1",
-                "-1",
-              "2"
+                "-2",
+              "4"
             ],
-            "correct_answer": "-2"
+            "correct_answer": "2"
         },
         {
-            "question": "3.Famous photosynthesis equation was proposed by which scientist?(OR)ప్రసిద్ధ కిరణజన్య సంయోగక్రియ సమీకరణాన్ని ఏ శాస్త్రవేత్త ప్రతిపాదించారు?",
+            "question": "3.The colour of turmeric in basic solutions is?(OR)ప్రాథమిక పరిష్కారాలలో పసుపు రంగుు?",
             "incorrect_answers": [
-                " Arnon",
-                "Hill",
-              "Jackson"
+                "blue",
+                "green",
+              "orange"
             ],
-            "correct_answer": "C.B.Van Neil"
+            "correct_answer": "red"
         },
         {
-            "question": "4………detected the point of maximum rate of photosynthesis.(OR)……కిరణజన్య సంయోగక్రియ యొక్క గరిష్ట రేటు పాయింట్‌ను గుర్తించింది?",
+            "question": "4Acids turn methyl orange into (OR)ఆమ్లాలు మిథైల్ ఆరెంజ్‌గా మారుతాయి?",
             "incorrect_answers": [
-                "Neils Bohr",
-                "Eastman",
-              "Arnon"
+                "blue",
+                "yellow",
+              "pink"
             ],
-            "correct_answer": "Engelman"
+            "correct_answer": "red"
         },
         {
-            "question": "5.This is not a public facility(OR)ఇది ప్రజా సౌకర్యం కాదు?",
+            "question": "5.The percentage of workers found in organised sector in India(OR)భారతదేశంలో సంఘటిత రంగంలో ఉన్న కార్మికుల శాతం?",
             "incorrect_answers": [
-                "Government School(OR)ప్రభుత్వ పాఠశాల",
-                "Primary Health Centre",
-              "Public Distribution System"
+                "8%",
+                "29%",
+              "17%"
             ],
-            "correct_answer": "Sharing Auto"
+            "correct_answer": "92%"
         },
         {
-            "question": "6.What rank has India got in HDI?(OR)హెచ్‌డిఐలో భారత్‌కు ఏ ర్యాంక్ వచ్చింది?",
+            "question": "6.Paid leave is the provision of this sector(OR)తనంతో కూడిన సెలవు ఈ రంగం యొక్క నిబంధన?",
             "incorrect_answers": [
-                "92",
-                "146",
-              "157"
+                "Rural private(or)గ్రామీణ ప్రైవేట్",
+                "Unorganised(or)అసంఘటితమైనది",
+              "Urban private(or)పట్టణ ప్రైవేట్"
             ],
-            "correct_answer": "136"
+            "correct_answer": "Organised(or)సంఘటితమైనది"
         }
       
     ]
