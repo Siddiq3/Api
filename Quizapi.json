@@ -30,11 +30,11 @@
         {
             "question": "4.Acids turn ……… litmus to …….litmus(OR)ఆమ్లాలు ……… లిట్మస్‌గా ………..లిట్మస్‌గా మారుతాయి?",
             "incorrect_answers": [
-                "red, red",
-                "Red, blue",
-              "blue, blue"
+                "red,red",
+                "Red,blue",
+              "blue,blue"
             ],
-            "correct_answer": "blue,red"
+            "correct_answer": "blue,Red"
         },
         {
             "question": "5.The percentage of workers found in organised sector in India(OR)భారతదేశంలో సంఘటిత రంగంలో ఉన్న కార్మికుల శాతం?",
