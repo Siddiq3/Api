@@ -28,13 +28,13 @@
             "correct_answer": "red"
         },
         {
-            "question": "4Acids turn methyl orange into (OR)ఆమ్లాలు మిథైల్ ఆరెంజ్‌గా మారుతాయి?",
+            "question": "4.Acids turn ……… litmus to …….litmus(OR)ఆమ్లాలు ……… లిట్మస్‌గా ………..లిట్మస్‌గా మారుతాయి?",
             "incorrect_answers": [
-                "blue",
-                "yellow",
-              "pink"
+                " red, red",
+                "Red, blue",
+              "blue, blue"
             ],
-            "correct_answer": "red"
+            "correct_answer": "blue, red"
         },
         {
             "question": "5.The percentage of workers found in organised sector in India(OR)భారతదేశంలో సంఘటిత రంగంలో ఉన్న కార్మికుల శాతం?",
