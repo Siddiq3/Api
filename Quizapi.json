@@ -1,4 +1,4 @@
-{
+ {
     "results": [
        {
             "question": "1.The degree of the polynomial(బహుపది యొక్క డిగ్రీ) √2 X2– 3X + 1 =?",
@@ -10,13 +10,13 @@
             "correct_answer": "2"
         },
         {
-            "question": "2.Sum of zeroes of a polynomial x3 – 2x2 + 3x – 4 is(OR)బహుపది x3 – 2x2 + 3x – 4 సున్నాల మొత్తం",
+            "question": "2.If the roots of x2 + 6x + 5 = 0 are α and β, then α + β =(OR)x2 + 6x + 5 = 0 మూలాలు α మరియు β అయితే, α + β =తం",
             "incorrect_answers": [
-                "1",
-                "-2",
-              "4"
+                "5",
+                "6",
+              "1"
             ],
-            "correct_answer": "2"
+            "correct_answer": "-6"
         },
         {
             "question": "3.The colour of turmeric in basic solutions is?(OR)ప్రాథమిక పరిష్కారాలలో పసుపు రంగుు?",
@@ -30,20 +30,20 @@
         {
             "question": "4.Acids turn ……… litmus to …….litmus(OR)ఆమ్లాలు ……… లిట్మస్‌గా ………..లిట్మస్‌గా మారుతాయి?",
             "incorrect_answers": [
-                " red, red",
+                "red, red",
                 "Red, blue",
               "blue, blue"
             ],
-            "correct_answer": "blue, red"
+            "correct_answer": "blue,red"
         },
         {
             "question": "5.The percentage of workers found in organised sector in India(OR)భారతదేశంలో సంఘటిత రంగంలో ఉన్న కార్మికుల శాతం?",
             "incorrect_answers": [
-                "8%",
-                "29%",
-              "17%"
+                "8percent",
+                "29percent",
+              "17percent"
             ],
-            "correct_answer": "92%"
+            "correct_answer": "92percent"
         },
         {
             "question": "6.Paid leave is the provision of this sector(OR)తనంతో కూడిన సెలవు ఈ రంగం యొక్క నిబంధన?",
