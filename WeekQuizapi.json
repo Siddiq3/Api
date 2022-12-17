@@ -1,140 +1,140 @@
 {
     "results": [
        {
-            "question": "1.HCF of 8, 9, 25 is",
+            "question": "1.‘బాగా చదివితే, మార్కులు బాగా వస్తాయి’ – ఇది ఏ రకమైన సంక్లిష్ట వాక్యం?",
             "incorrect_answers": [
-                "8",
-                "9",
-                "25"
+                "శత్రర్థకం",
+                "విధ్యర్థక వాక్యం",
+                "అష్యర్థక వాక్యం"
             ],
-            "correct_answer": "1"
+            "correct_answer": "చేదర్థక వాక్యం"
         },
         {
-            "question": "2.Which of the following is not irrational?",
+            "question": "2.మీరంతా ఉదయాన్నే లేవండి – ఇది ఏ రకమైన సామాన్య వాక్యం?",
             "incorrect_answers": [
-                "(2 – √3)2",
-                "(√2 + √3)2",
-              "2√7/3 "
+                "శత్రర్థక",
+                "అష్యర్థక వాక్",
+              "చేదర్థక వాక్"
             ],
-            "correct_answer": " (√2 -√3)(√2 + √3)"
+            "correct_answer": "విధ్యర్థక "
         },
         {
-            "question": "3.The product of a rational and irrational number is (OR)హేతుబద్ధమైన మరియు అకరణీయ సంఖ్య యొక్క ఉత్పత్తి",
+            "question": "3.మీరు లోపలికి రావచ్చు – ఇది ఏ రకమైన సామాన్య వాక్యం?తి",
             "incorrect_answers": [
-                "rational",
-                "both of above",
-                "none of above"
+                "విధ్యర్థక",
+                "సందేహార్ధకం",
+                "ఆత్మార్థకం"
                 
             ],
-            "correct_answer": "irrational"
+            "correct_answer": "అనుమత్యర్థకం"
         },
         {
-            "question": "4.The sum of a rational and irrational number is (OR) హేతుబద్ధమైన మరియు అకరణీయ సంఖ్య యొక్క మొత్తం",
+            "question": "4.సీత సంగీతం, నృత్యం నేర్చుకుంటున్నది – ఇది ఏ రకమైన వాక్యం?తం",
             "incorrect_answers": [
-                "rational",
-                "both of above",
-                "none of above"
+                "సామాన్య వాక్యం",
+                " సంక్లిష్ట వాక్యం",
+                "మహావాక్యం"
             ],
-            "correct_answer": "irrational"
+            "correct_answer": "సంయుక్త వాక్యం"
         },
         {
-            "question": "5.If b = 3, then any integer can be expressed as a =",
+            "question": "5.‘ఏం? ఎప్పుడొచ్చావ్?” ఇది ఏ రకమైన సామాన్య వాక్యం?",
             "incorrect_answers": [
-                "3q",
-                "none of above",
-                " 3q+1"
+                "అనుమత్యర్థకం",
+                "సంభావనార్థకం",
+                "హేత్వర్ధకం"
             ],
-            "correct_answer": "3q, 3q+ 1, 3q + 2"
+            "correct_answer": " ప్రశ్నార్థక వాక్యం"
         },
         {
-            "question": "6.The set A = {0,1, 2, 3, 4, …} represents the set of",
+            "question": "6.తనకు పల్లెలంటే ఇష్టమని సోము అన్నాడు. (ప్రత్యక్ష కథనం గుర్తించండి.) (June 2017 )",
             "incorrect_answers": [
-                "integers",
-                "natural numbers",
-                "even numbers"
+                "నాకు పల్లెలంటే ఇష్టం అని సోము అన్నాడు.",
+                " నేను పల్లెలంటే ఇష్టపడతాను అని సోము అన్నాడు.",
+                "వానికి పల్లెలంటే ఇష్టం అని సోము అన్నాడు."
             ],
-            "correct_answer": "whole numbers"
+            "correct_answer": "“నాకు పల్లెలంటే ఇష్టం” అని సోము అన్నాడు."
         },
         {
-            "question": "7.Which number is divisible by 11?",
+            "question": "7.నేను తిరుపతికి వెళతాను అని అమ్మ అన్నది – దీనికి పరోక్ష కథనం గుర్తించండి. (March 2017)?",
             "incorrect_answers": [
-                "1516",
-                "1011",
-                "1121"
+                "తాను తిరుపతికి వెళ్ళనని అమ్మ అన్నది.",
+                "నేను తిరుపతికి వెళ్ళను అని అమ్మ అన్నది.",
+                "నేను తిరుపతికి వెళతాను అని అమ్మ అనలేదు."
             ],
-            "correct_answer": "1452"
+            "correct_answer": " తాను తిరుపతికి వెళతానని అమ్మ అన్నది."
         },
         {
-            "question": "8.Express 98 as a product of its primes",
+            "question": "8.జాతి, గుణ, క్రియాదులను ఉన్నది ఉన్నట్లు వర్ణించినచో అది ఏ అలంకారమో గుర్తించండి. (S.A. I – 2018-19)",
             "incorrect_answers": [
-                "2² × 7",
-                "2² × 7²",
-                " 23 × 7"
+                "సమాసోక్తి",
+                "శ్లేష",
+                "రూపకము"
             ],
-            "correct_answer": "2 × 7²"
+            "correct_answer": "సమాసోక్తి   "
         },
         {
-            "question": "9.When a number is divided by 7, its remainder is always:",
+            "question": "9.చంపకమాల పద్యపాదంలో యతి స్థానం (S.A. I – 2018-19)",
             "incorrect_answers": [
-                "greater than 7",
-                "at least 7",
-                "at most 7"
-            ],
-            "correct_answer": "less than 7"
-        },
-        {
-            "question": "10.(6 + 5 √3) – (4 – 3 √3) is",
-            "incorrect_answers": [
-                "a rational number",
-                "a natural number",
-                "an integer"
-            ],
-            "correct_answer": "an irrational number"
-        },
-        {
-            "question": "11.If HCF (16, y) = 8 and LCM (16, y) = 48, then the value of y is",
-            "incorrect_answers": [
-                "16",
-                "8",
-                "48"
-            ],
-            "correct_answer": " 24"
-        },
-        {
-            "question": "12.The number ‘π’ is",
-            "incorrect_answers": [
-                "natural number",
-                " rational number",
-                "rational or irrational"
-            ],
-            "correct_answer": "irrational number"
-        },
-        {
-            "question": "13.If LCM (77, 99) = 693, then HCF (77, 99) is",
-            "incorrect_answers": [
-                "7",
-                "9",
-                "22"
+                "10",
+                "13",
+                "14"
             ],
             "correct_answer": "11"
         },
         {
-            "question": "14.The ratio between the LCM and HCF of 5, 15, 20 is:",
+            "question": "10.మాతా ! తప్పు సైరింపుమీ – ఆధునిక వచన వాక్యాన్ని గుర్తించండి. (June 2018)",
             "incorrect_answers": [
-                "9 : 1",
-                "4:3",
-                "11:1"
+                "తల్లీ ! తప్పును సైరింపకుము.",
+                "తల్లీ ! ఈ దోషమును సైరింపుము.",
+                "తల్లీ ! అందరి దోషంబులు సైరింపుము."
             ],
-            "correct_answer": "12:1"
+            "correct_answer": "తల్లీ ! తప్పును క్షమించుమమ్మా !"
         },
         {
-            "question": "15.HCF of 52 x 32 and 35 x 53 is",
+            "question": "11.శివాజీ యవనదేశ స్త్రీని తల్లిగా భావించాడు – దీనికి కర్మణి వాక్యం గుర్తించండి. (March 2011)",
             "incorrect_answers": [
-                "53 x 35",
-                "5 x 3",
-                "53 x 32"
+                " శివాజీ యవన స్త్రీని తల్లిగా భావించలేదు.",
+                "శివాజీచే యవన దేశ స్త్రీ తల్లిగా భావించబడలేదు.",
+                "యవన దేశ స్త్రీ శివాజీ తల్లిగా భావించబడింది."
             ],
-            "correct_answer": " 52 x 32"
+            "correct_answer": "శివాజీచే యవన దేశ స్త్రీ తల్లిగా భావించబడింది."
+        },
+        {
+            "question": "12. మా యాజ్ఞన్ గమనింపవో? (ఆధునిక వచన వాక్యాన్ని గుర్తించండి) (S.I. I – 2018-19)",
+            "incorrect_answers": [
+                "మా యాజ్ఞ గమనింపవే?",
+                "  మా యాజ్ఞను గమనింపుమా !",
+                "మా యాజ్ఞ గమనింపుడు !"
+            ],
+            "correct_answer": " మా ఆజ్ఞని గమనింపవా?"
+        },
+        {
+            "question": "13. క్రింది వానిలో ‘శత్రర్థకం’ గుర్తించండి.",
+            "incorrect_answers": [
+                "విని",
+                "వినగలడు",
+                "వినక"
+            ],
+            "correct_answer": "వింటూ"
+        },
+        {
+            "question": "14. ఆ యేమీ యొక రాణివాసమును …….. అనే పద్యపాదంలో గీత గీసిన పదం ఏ గణమో గుర్తించండి. (June 2018)",
+            "incorrect_answers": [
+                "న గణం",
+                "భ గణం",
+                "త గణం"
+            ],
+            "correct_answer": "మ గణం"
+        },
+        {
+            "question": "15. రామారావు మెట్లు ఎక్కుతూ, దిక్కులు చూస్తున్నాడు. (ఏ వాక్యమో గుర్తించండి.) (June 2017)",
+            "incorrect_answers": [
+                "కర్మణీ వాక్యం",
+                "సంయుక్త వాక్యం",
+                "సామాన్య వాక్యం"
+            ],
+            "correct_answer": "సంక్లిష్ట వాక్యం"
         }
     ]
 }
