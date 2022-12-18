@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The degree of the polynomial(బహుపది యొక్క డిగ్రీ) √2 X2– 3X + 1 =?",
+            "question": "1.If n(A) = 12 and n(A ∩ B) = 5, then find n(A – B) =?",
             "incorrect_answers": [
-                "√2",
-                "1",
-                "3"
+                "4",
+                "17",
+                "0"
             ],
-            "correct_answer": "2"
+            "correct_answer": "7"
         },
         {
-            "question": "2.If the roots of x2 + 6x + 5 = 0 are α and β, then α + β =(OR)x2 + 6x + 5 = 0 మూలాలు α మరియు β అయితే, α + β =తం",
+            "question": "2.If A ⊂ B and B ⊂ C then ?",
             "incorrect_answers": [
-                "5",
-                "6",
-              "1"
+                "C ⊂ A",
+                "A = C",
+              "B = A"
             ],
-            "correct_answer": "-6"
+            "correct_answer": "A ⊂ C"
         },
         {
-            "question": "3.The colour of turmeric in basic solutions is?(OR)ప్రాథమిక పరిష్కారాలలో పసుపు రంగుు?",
+            "question": "3.Synthetic indicator among these?(OR)వీటిలో సింథటిక్ సూచిక?",
             "incorrect_answers": [
+                "Methyl red",
+                "Phenolphthalein",
+              "Methyl orange"
+            ],
+            "correct_answer": "All of these"
+        },
+        {
+            "question": "4.Bases turn methyl orange into(OR)స్థావరాలు మిథైల్ ఆరెంజ్‌గా మారుతాయి?",
+            "incorrect_answers": [
+                "red",
                 "blue",
-                "green",
               "orange"
             ],
-            "correct_answer": "red"
+            "correct_answer": "yellow"
         },
         {
-            "question": "4.Acids turn ……… litmus to …….litmus(OR)ఆమ్లాలు ……… లిట్మస్‌గా ………..లిట్మస్‌గా మారుతాయి?",
+            "question": "5.Gender bias means(OR)లింగ పక్షపాతం అంటేం?",
             "incorrect_answers": [
-                "red,red",
-                "Red,blue",
-              "blue,blue"
+                "menandwomen(OR(పురుషులు మరియు స్త్రీలు",
+                "only women",
+              "only men"
             ],
-            "correct_answer": "blue,Red"
+            "correct_answer": "discrimination on women(OR)మహిళలపై వివక్ష"
         },
         {
-            "question": "5.The percentage of workers found in organised sector in India(OR)భారతదేశంలో సంఘటిత రంగంలో ఉన్న కార్మికుల శాతం?",
+            "question": "6.The state which is spending more from the state budget on education(OR)విద్యారంగానికి రాష్ట్ర బడ్జెట్ నుండి ఎక్కువ ఖర్చు చేస్తున్న రాష్ట్రం?",
             "incorrect_answers": [
-                "8percent",
-                "29percent",
-              "17percent"
+                "Bihar",
+                "Gujarat",
+              "Karnataka"
             ],
-            "correct_answer": "92percent"
-        },
-        {
-            "question": "6.Paid leave is the provision of this sector(OR)తనంతో కూడిన సెలవు ఈ రంగం యొక్క నిబంధన?",
-            "incorrect_answers": [
-                "Rural private(or)గ్రామీణ ప్రైవేట్",
-                "Unorganised(or)అసంఘటితమైనది",
-              "Urban private(or)పట్టణ ప్రైవేట్"
-            ],
-            "correct_answer": "Organised(or)సంఘటితమైనది"
+            "correct_answer": "Himachal Pradesh"
         }
       
     ]
