@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "The period of retreating monsoons in India is(or) భారతదేశంలో రుతుపవనాలు తిరోగమన కాలం?",
+            "question": "The slope of the line passing through (2, 3) and (4, 7) is (OR)(2, 3) మరియు (4, 7) గుండా వెళుతున్న రేఖ యొక్క వాలు?",
             "incorrect_answers": [
-                "Mid June – Mid September",
-                "Mid May – Mid August",
-                "April – June"
+                "5/6",
+                "4",
+                "1"
             ],
-            "correct_answer": "November – December"
+            "correct_answer": "2"
         },
         {
-            "question": "2.Monsoon burst takes place in(or)? రుతుపవనాల విస్ఫోటనం జరుగుతుంది",
+            "question": "2.If 9x + 11y = 51 and 11x + 9y = 49, then x =(or)? 9x + 11y = 51 మరియు 11x + 9y = 49 అయితే, x =",
             "incorrect_answers": [
-                "Goa",
-                "Chennai",
-              "Karnataka"
+                "-1",
+                "-2",
+              "1"
             ],
-            "correct_answer": "Kerala "
+            "correct_answer": "2"
         },
         {
-            "question": "3. The word Excretion belongs to ……….. language.?(OR) విసర్జన అనే పదం ……………….. భాషకు చెందినది.?",
+            "question": "3.Which of the following is Snell’s law ?(OR)కింది వాటిలో స్నెల్ చట్టం ఏది?",
             "incorrect_answers": [
-                "Greek",
-                "English",
-              "French"
+                "n1 sin i = sin r/n2",
+                "n2/n1 = sin r/sin i",
+              " n2 sin i = constant"
             ],
-            "correct_answer": "Latin"
+            "correct_answer": "n1/n2 = sin r/sin i"
         },
         {
-            "question": "4. Find the odd one different from the other three.(OR)? మిగిలిన మూడింటికి భిన్నమైన బేసిని కనుగొనండి.",
+            "question": "4.The refractive index of diamond is?(OR) విసర్జన అనే పదం ……………….. భాషకు చెందినది.??",
             "incorrect_answers": [
-                "Carbohydrates",
-                "Fats",
-              "Proteins"
+                " 24.2",
+                "1.42",
+              "1"
             ],
-            "correct_answer": "Pyrethroids"
+            "correct_answer": " 2.42"
         },
         {
-            "question": "5. The speed of light in vacuum is (OR) శూన్యంలో కాంతి వేగం?",
+            "question": "5.In newborn babies the heart beat rate is ……. /min.?(OR)నవజాత శిశువులలో హృదయ స్పందన రేటు ……. /నిమి.?",
             "incorrect_answers": [
-                "3, 00, 000 kms-1",
-                "3 × 108 ms-1",
-              "3 × 105 kms-1"
+                "90 – 120",
+                "80 – 120",
+              "70 – 100"
             ],
-            "correct_answer": "All"
+            "correct_answer": "100 – 150"
         },
         {
-            "question": "6. Absolute refractive index n =(Or) సంపూర్ణ వక్రీభవన సూచిక n =",
+            "question": "6.Pulse rate equals to(Or)పల్స్ రేటు..... సమానం",
             "incorrect_answers": [
-                "c * v",
-                "c + v",
-              "v/c"
+                "Blood pressure(OR)రక్తపోటు",
+                " Muscules movement(OR)కండరాల కదలిక",
+              "Rate of respiration(OR)శ్వాసక్రియ రేటు"
             ],
-            "correct_answer": "c/v"
+            "correct_answer": "Heart beat(OR)గుండె చప్పుడు"
         }
       
     ]
