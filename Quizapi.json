@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "The slope of the line passing through (2, 3) and (4, 7) is (OR)(2, 3) మరియు (4, 7) గుండా వెళుతున్న రేఖ యొక్క వాలు?",
+            "question": "The midpoint of a thin lens is called?(OR) సన్నని లెన్స్ మధ్య బిందువు....అంటారు",
             "incorrect_answers": [
-                "5/6",
-                "4",
-                "1"
+                "focus(OR)దృష్టి",
+                "none",
+                "centre of curvature(OR)వక్రత కేంద్రం"
             ],
-            "correct_answer": "2"
+            "correct_answer": "optic centre(OR)ఆప్టిక్ సెంటర్"
         },
         {
-            "question": "2.If 9x + 11y = 51 and 11x + 9y = 49, then x =(or)? 9x + 11y = 51 మరియు 11x + 9y = 49 అయితే, x =",
+            "question": "2. The distance between the focal point and optic centre is called??",
             "incorrect_answers": [
-                "-1",
-                "-2",
-              "1"
+                "radius of curvature(OR)వక్రత యొక్క వ్యాసార్థం",
+                "focus(OR)దృష్టి",
+              "principal axis"
             ],
-            "correct_answer": "2"
+            "correct_answer": "focal length(OR)ద్రుష్ట్య పొడవు"
         },
         {
-            "question": "3.Which of the following is Snell’s law ?(OR)కింది వాటిలో స్నెల్ చట్టం ఏది?",
+            "question": 3. Which is the largest artery?(OR)అతి పెద్ద ధమని ఏది?",
             "incorrect_answers": [
-                "n1 sin i = sin r/n2",
-                "n2/n1 = sin r/sin i",
-              " n2 sin i = constant"
+                "Caval vein(OR)కావల్ సిర",
+                "Coronary artery(OR)కరోనరీ ఆర్టరీ",
+              "Pulmonary artery(OR) పుపుస ధమని"
             ],
-            "correct_answer": "n1/n2 = sin r/sin i"
+            "correct_answer": "Aorta(OR)బృహద్ధమని"
         },
         {
-            "question": "4.The refractive index of diamond is?(OR) విసర్జన అనే పదం ……………….. భాషకు చెందినది.??",
+            "question": "4. The human heart starts beating around ………………. days of embryonic development.?(OR) మనిషి గుండె కొట్టుకోవడం మొదలవుతుంది. పిండం అభివృద్ధి రోజులు.?",
             "incorrect_answers": [
-                " 24.2",
-                "1.42",
-              "1"
+                " 24",
+                "42",
+              "23"
             ],
-            "correct_answer": " 2.42"
+            "correct_answer": "21"
         },
         {
-            "question": "5.In newborn babies the heart beat rate is ……. /min.?(OR)నవజాత శిశువులలో హృదయ స్పందన రేటు ……. /నిమి.?",
+            "question": "5. Which of the following cities does not come under the effect of the sea?(OR) కింది వాటిలో ఏ నగరాలు సముద్రం ప్రభావంలోకి రావు?",
             "incorrect_answers": [
-                "90 – 120",
-                "80 – 120",
-              "70 – 100"
+                "Mumbai",
+                "Chennai",
+              "Vishakapatnam"
             ],
-            "correct_answer": "100 – 150"
+            "correct_answer": "Nagpur"
         },
         {
-            "question": "6.Pulse rate equals to(Or)పల్స్ రేటు..... సమానం",
+            "question": "6. Which of the following crops is grown during rabi season?(Or) కింది వాటిలో రబీ సీజన్‌లో పండించే పంట ఏది?",
             "incorrect_answers": [
-                "Blood pressure(OR)రక్తపోటు",
-                " Muscules movement(OR)కండరాల కదలిక",
-              "Rate of respiration(OR)శ్వాసక్రియ రేటు"
+                "Rice",
+                "Jowar(OR) జోవర్",
+              "All of these"
             ],
-            "correct_answer": "Heart beat(OR)గుండె చప్పుడు"
+            "correct_answer": "Wheat(OR)గోధుమ"
         }
       
     ]
