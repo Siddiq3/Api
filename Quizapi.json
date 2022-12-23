@@ -20,7 +20,8 @@
         },
         {
             "question": "3.The next term of the A.P(a + 3d),(a + d). (a – d), ………….. is?(OR)AP(a + 3d),(a + d) యొక్క తదుపరి పదం.(a – d), …………….. ఉంది?",
-            "a + 2d",
+              "incorrect_answers": [
+"a + 2d",
                 " a - 2d",
               "a – 4d"
             ],
