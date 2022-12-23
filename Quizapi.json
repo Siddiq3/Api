@@ -1,58 +1,57 @@
  {
     "results": [
        {
-            "question": "The midpoint of a thin lens is called?(OR) సన్నని లెన్స్ మధ్య బిందువు....అంటారు",
+            "question": "The sum of first 100 natural numbers is?(OR)మొదటి 100 సహజ సంఖ్యల మొత్తం",
             "incorrect_answers": [
-                "focus(OR)దృష్టి",
-                "none",
-                "centre of curvature(OR)వక్రత కేంద్రం"
+                "4050",
+                "4500",
+                "5500"
             ],
-            "correct_answer": "optic centre(OR)ఆప్టిక్ సెంటర్"
+            "correct_answer": "5050"
         },
         {
-            "question": "2. The distance between the focal point and optic centre is called??",
+            "question": "2.If 16, x, 36 are in G.P. then x =?(or)16, x, 36 GPలో ఉంటే x =",
             "incorrect_answers": [
-                "radius of curvature(OR)వక్రత యొక్క వ్యాసార్థం",
-                "focus(OR)దృష్టి",
-              "principal axis"
+                "28",
+                "30",
+              "26"
             ],
-            "correct_answer": "focal length(OR)ద్రుష్ట్య పొడవు"
+            "correct_answer": "24"
         },
         {
-            "question": "3. Which is the largest artery?(OR)అతి పెద్ద ధమని ఏది?",
-            "incorrect_answers": [
-                "Caval vein(OR)కావల్ సిర",
-                "Coronary artery(OR)కరోనరీ ఆర్టరీ",
-              "Pulmonary artery(OR) పుపుస ధమని"
+            "question": "3.The next term of the A.P(a + 3d),(a + d). (a – d), ………….. is?(OR)AP(a + 3d),(a + d) యొక్క తదుపరి పదం.(a – d), …………….. ఉంది?",
+            "a + 2d",
+                " a - 2d",
+              "a – 4d"
             ],
-            "correct_answer": "Aorta(OR)బృహద్ధమని"
+            "correct_answer": "a – 3d"
         },
         {
-            "question": "4. The human heart starts beating around ………………. days of embryonic development.?(OR) మనిషి గుండె కొట్టుకోవడం మొదలవుతుంది. పిండం అభివృద్ధి రోజులు.?",
+            "question": "4. Which of the following is not a basic function ??(OR)కింది వాటిలో ఏది ప్రాథమిక విధి కాదు?",
             "incorrect_answers": [
-                " 24",
-                "42",
-              "23"
+                " Movement(OR)ఉద్యమం",
+                "Control of hormones(0R)హార్మోన్ల నియంత్రణ",
+              "Co-ordination(OR)సమన్వయ"
             ],
-            "correct_answer": "21"
+            "correct_answer": "Balance(OR)సంతులనం"
         },
         {
-            "question": "5. Which of the following cities does not come under the effect of the sea?(OR) కింది వాటిలో ఏ నగరాలు సముద్రం ప్రభావంలోకి రావు?",
+            "question": "5.Nissil’s granules are present in?(OR)నిస్సిల్ యొక్క కణికలు ఉన్నాయిు?",
             "incorrect_answers": [
-                "Mumbai",
-                "Chennai",
-              "Vishakapatnam"
+                " Eosinophils(OR)ఇసినోఫిల్స్",
+                "Neutrophils(OR)న్యూట్రోఫిల్స్",
+              "Lymphocytes(OR)లింఫోసైట్లు"
             ],
-            "correct_answer": "Nagpur"
+            "correct_answer": "Cyton(OR)సైటన్"
         },
         {
-            "question": "6. Which of the following crops is grown during rabi season?(Or) కింది వాటిలో రబీ సీజన్‌లో పండించే పంట ఏది?",
+            "question": "6.Nervous system starts from …………………. part.?(Or)నాడీ వ్యవస్థ ………………. భాగం?",
             "incorrect_answers": [
-                "Rice",
-                "Jowar(OR) జోవర్",
-              "All of these"
+                "A.Brain(OR)మెదడు",
+                "B.Spinal cord(OR) వెన్ను ఎముక",
+              "C.Heart(OR)గుండె"
             ],
-            "correct_answer": "Wheat(OR)గోధుమ"
+            "correct_answer": "A and B"
         }
       
     ]
