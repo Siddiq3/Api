@@ -1,58 +1,60 @@
  {
     "results": [
        {
-            "question": "The sum of first 100 natural numbers is?(OR)మొదటి 100 సహజ సంఖ్యల మొత్తం",
+            "question": "1.జ్వలనం అన్ని దిక్కులా వ్యాపించింది – గీత గీసిన పదానికి సరియైన అర్థాన్ని గుర్తించండి. (June 2017)",
             "incorrect_answers": [
-                "4050",
-                "4500",
-                "5500"
+                "సువాసన",
+                "దుఃఖం",
+                "సంతోషం"
             ],
-            "correct_answer": "5050"
+            "correct_answer": "మంట"
         },
         {
-            "question": "2.If 16, x, 36 are in G.P. then x =?(or)16, x, 36 GPలో ఉంటే x =",
+            "question": "2.ధీరులు కర్ణము పూర్తి చేసేవరకు విశ్రమించరు – (గీత గీసిన పదమునకు ప్రకృతిని గుర్తించండి.) (March 2017)",
             "incorrect_answers": [
-                "28",
-                "30",
-              "26"
+                "కార్యక్రమం",
+                "కష్టం",
+              "కారణం"
             ],
-            "correct_answer": "24"
+            "correct_answer": "కార్యము"
         },
         {
-            "question": "3.The next term of the A.P(a + 3d),(a + d). (a – d), ………….. is?(OR)AP(a + 3d),(a + d) యొక్క తదుపరి పదం.(a – d), …………….. ఉంది?",
+            "question": "3.జీవనము బుద్బుద ప్రాయము – ఆధునిక వచన వాక్యాన్ని గుర్తించండి. – (June 2018)",
               "incorrect_answers": [
-"a + 2d",
-                " a - 2d",
-              "a – 4d"
+
+               
+               " జీవనము బుద్బుదంతో సమానం కాదు.",
+                "బుద్బుద ప్రాయం జీవనమే.",
+              " జీవితం బుద్బుదప్రాయమే."
             ],
-            "correct_answer": "a – 3d"
+            "correct_answer": "జీవనం బుద్బుద ప్రాయం"
         },
         {
-            "question": "4. Which of the following is not a basic function ??(OR)కింది వాటిలో ఏది ప్రాథమిక విధి కాదు?",
+            "question": "4. అనృతమాడుట కంటె మౌనము మేలు. (ఆధునిక వచన వాక్యాన్ని గుర్తించండి.) (S.A. I – 2018-19)?",
             "incorrect_answers": [
-                " Movement(OR)ఉద్యమం",
-                "Control of hormones(0R)హార్మోన్ల నియంత్రణ",
-              "Co-ordination(OR)సమన్వయ"
+                "అనృతమాడుట కంటెను మౌనమ్ము మేలు.ం",
+                "అనృతంబాడుట కంటె మౌనము మేలు",
+              " అనృతమ్మాడుట కంటె మౌనంబు మేలు"
             ],
-            "correct_answer": "Balance(OR)సంతులనం"
+            "correct_answer": "అనృతం ఆడడం కంటే మౌనం మేలుం"
         },
         {
-            "question": "5.Nissil’s granules are present in?(OR)నిస్సిల్ యొక్క కణికలు ఉన్నాయిు?",
+            "question": "5. చంపకవతి అను పట్టణము గలదు. (ఇది ఏ రకమైన వాక్యమో గుర్తించండి) (S.A. I – 2018-19)?",
             "incorrect_answers": [
-                " Eosinophils(OR)ఇసినోఫిల్స్",
-                "Neutrophils(OR)న్యూట్రోఫిల్స్",
-              "Lymphocytes(OR)లింఫోసైట్లు"
+                "చేదర్థక వాక్యం",
+                " సంయుక్త వాక్యం",
+              "సామాన్య వాక్యు"
             ],
-            "correct_answer": "Cyton(OR)సైటన్"
+            "correct_answer": " సామార్థ్యార్థక వాక్యం"
         },
         {
-            "question": "6.Nervous system starts from …………………. part.?(Or)నాడీ వ్యవస్థ ………………. భాగం?",
+            "question": "6.కింది వానిలో సంభావన పూర్వపద కర్మధారయ సమాసమునకు ఉదాహరణ గుర్తించుము. (S.A. I – 2018-19)?",
             "incorrect_answers": [
-                "A.Brain(OR)మెదడు",
-                "B.Spinal cord(OR) వెన్ను ఎముక",
-              "C.Heart(OR)గుండె"
+                "దైవ ప్రార్థను",
+                "తల్లిదండ్రులు",
+              "ఏడు రోజులు"
             ],
-            "correct_answer": "A and B"
+            "correct_answer": "చంపకవతి పట్టణం"
         }
       
     ]
