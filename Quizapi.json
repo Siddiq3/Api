@@ -1,60 +1,60 @@
  {
     "results": [
        {
-            "question": "1.The mode of the values sin 0°, cos 0°, sin 90° and tan 45° is",
+            "question": "1.Planck’s equation is",
             "incorrect_answers": [
-                "0",
-                "2",
-                "3"
+                "E= h/υ",
+                "E= υ/h",
+                "None of these"
             ],
-            "correct_answer": "1"
+            "correct_answer": "E = hυ"
         },
         {
-            "question": "2. 3, 2, 4, 3, 5, 2, x, 6. If the mode of this data is 3, then x =",
+            "question": "2. When an iron rod is heated first it turns to?(OR)ఒక ఇనుప కడ్డీని మొదట వేడి చేసినప్పుడు అది.......మారుతుంది",
             "incorrect_answers": [
-                "4",
-                "2",
-              "1"
+                "violet",
+                "blue",
+              "Orane"
             ],
-            "correct_answer": "3"
+            "correct_answer": "green"
         },
         {
-            "question": "3.Mid values are used to find",
+            "question": "3.In which of the following organisms binary fission does not occur?(OR)కింది జీవులలో బైనరీ విచ్ఛిత్తి జరగదు?",
               "incorrect_answers": [
 
                
-               "median",
-                "range",
-              " mode."
+               "Amoeba(OR)అమీబా",
+                " Paramoecium(OR)పారామోసియం",
+              "Euglena(OR)యుగ్లీనా"
             ],
-            "correct_answer": "mean"
+            "correct_answer": "Leech(OR)జలగ"
         },
         {
-            "question": "4. The midvalue(మధ్య విలువ) of the class 10 – 19 is?",
+            "question": "4.Modern technology of artificial propagation of plants?(OR)మొక్కల కృత్రిమ ప్రచారం యొక్క ఆధునిక సాంకేతికత",
             "incorrect_answers": [
-                "24.5",
-                "34.5",
-              " 15.5"
+                "Fragmentation(OR)ఫ్రాగ్మెంటేషన్",
+                "Layering(OR)పొరలు వేయడం",
+              "Grafting(OR)అంటుకట్టుట"
             ],
-            "correct_answer": "14.5"
+            "correct_answer": "Tissue culture(OR)కణజాల సంస్కృతి"
         },
         {
-            "question": "5. The mode of data 3, 3, 4, 5, 3, 5, 6, 3, 7, 9, 11, 7?",
+            "question": "5.As per the census 2011, the density of population in India was(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశంలో జనాభా సాంద్రత?",
             "incorrect_answers": [
-                "4",
-                " 3 or 7",
-              "7"
+                "379",
+                " 380",
+              "381"
             ],
-            "correct_answer": " 3"
+            "correct_answer": "382"
         },
         {
-            "question": "6.The median( మధ్యస్థం) of 24, 20, 32, 18, 28, 16, 25 is?",
+            "question": "6.The census of India is taken once in?(OR)భారతదేశ జనాభా గణనను ఒకసారి తీసుకుంటారు?",
             "incorrect_answers": [
-                "18",
-                "16",
-              "20"
+                "15 YEARS",
+                "5 YEARS",
+              "11 YEARS"
             ],
-            "correct_answer": "24"
+            "correct_answer": "10 YEARS"
         }
       
     ]
