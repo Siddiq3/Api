@@ -21,10 +21,8 @@
         {
             "question": "3.The state which has the highest density of population.?(OR)అత్యధిక జనసాంద్రత కలిగిన రాష్ట్రం.?",
               "incorrect_answers": [
-
-               
                "Maharashtra",
-                " Arunachal Pradeshం",
+                "Arunachal Pradesh",
               "Tamilnadu"
             ],
             "correct_answer": "West Bengal"
@@ -32,9 +30,9 @@
         {
             "question": "4.According to 2011 census, literacy rate of India is?(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశ అక్షరాస్యత రేటు",
             "incorrect_answers": [
-                " 82.14%",
+                "82.14%",
                 "65.46%",              
-													"64.84%"
+		"64.84%"
             ],
             "correct_answer": "74.04%"
         },
