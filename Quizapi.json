@@ -1,60 +1,60 @@
  {
     "results": [
        {
-            "question": "1.Planck’s equation is",
+            "question": "1.The present sex ratio of India and Andhra Pradesh respectively is(OR)భారతదేశం మరియు ఆంధ్రప్రదేశ్ యొక్క ప్రస్తుత లింగ నిష్పత్తి వరుసగా",
             "incorrect_answers": [
-                "E= h/υ",
-                "E= υ/h",
-                "None of these"
+                "918, 938",
+                "914, 940",
+                "941, 972"
             ],
-            "correct_answer": "E = hυ"
+            "correct_answer": "914, 970"
         },
         {
-            "question": "2. When an iron rod is heated first it turns to?(OR)ఒక ఇనుప కడ్డీని మొదట వేడి చేసినప్పుడు అది.......మారుతుంది",
+            "question": "2.Highest literacy rate is observed in which state of India 2011 census?(OR)ఒక ఇనుప కడ్డీని మొదట వేడి చేసినప్పుడు అది.......మారుతుంది",
             "incorrect_answers": [
-                "violet",
-                "blue",
-              "Orane"
+                "Haryana",
+                "Andhra Pradesh",
+              "Mizoram"
             ],
-            "correct_answer": "green"
+            "correct_answer": "Kerala"
         },
         {
-            "question": "3.In which of the following organisms binary fission does not occur?(OR)కింది జీవులలో బైనరీ విచ్ఛిత్తి జరగదు?",
+            "question": "3.The state which has the highest density of population.?(OR)అత్యధిక జనసాంద్రత కలిగిన రాష్ట్రం.?",
               "incorrect_answers": [
 
                
-               "Amoeba(OR)అమీబా",
-                " Paramoecium(OR)పారామోసియం",
-              "Euglena(OR)యుగ్లీనా"
+               "Maharashtra",
+                " Arunachal Pradeshం",
+              "Tamilnadu"
             ],
-            "correct_answer": "Leech(OR)జలగ"
+            "correct_answer": "West Bengal"
         },
         {
-            "question": "4.Modern technology of artificial propagation of plants?(OR)మొక్కల కృత్రిమ ప్రచారం యొక్క ఆధునిక సాంకేతికత",
+            "question": "4.According to 2011 census, literacy rate of India is?(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశ అక్షరాస్యత రేటు",
             "incorrect_answers": [
-                "Fragmentation(OR)ఫ్రాగ్మెంటేషన్",
-                "Layering(OR)పొరలు వేయడం",
-              "Grafting(OR)అంటుకట్టుట"
+                " 82.14%",
+                "65.46%",              
+													"64.84%"
             ],
-            "correct_answer": "Tissue culture(OR)కణజాల సంస్కృతి"
+            "correct_answer": "74.04%"
         },
         {
-            "question": "5.As per the census 2011, the density of population in India was(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశంలో జనాభా సాంద్రత?",
+            "question": "5.Which state has a positive sex ratio ?(OR)ఏ రాష్ట్రం సానుకూల లింగ నిష్పత్తిని కలిగి ఉంది?",
             "incorrect_answers": [
-                "379",
-                " 380",
-              "381"
+                " Punjab",
+                "Bihar",
+              " Andhra Pradesh"
             ],
-            "correct_answer": "382"
+            "correct_answer": "Kerala"
         },
         {
-            "question": "6.The census of India is taken once in?(OR)భారతదేశ జనాభా గణనను ఒకసారి తీసుకుంటారు?",
+            "question": "6.In 1947 ………… % of population was literates?(OR)భారతదేశ జనాభా గణనను ఒకసారి తీసుకుంటారు?",
             "incorrect_answers": [
-                "15 YEARS",
-                "5 YEARS",
-              "11 YEARS"
+                "13%",
+                "14%",
+              "15%"
             ],
-            "correct_answer": "10 YEARS"
+            "correct_answer": "12%"
         }
       
     ]
