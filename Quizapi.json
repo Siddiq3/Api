@@ -28,13 +28,13 @@
             "correct_answer": "WestBengal"
         },
         {
-            "question": "4.According to 2011 census, literacy rate of India is?(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశ అక్షరాస్యత రేటు",
+            "question": "4.According to 2011 census literacy rate of India is?",
             "incorrect_answers": [
-                "82.14%",
-                "65.46%",              
-		"64.84%"
+                "82.14Persent",
+                "65.46Persent",              
+		"64.84Persent"
             ],
-            "correct_answer": "74.04%"
+            "correct_answer": "74.04Persent"
         },
         {
             "question": "5.Which state has a positive sex ratio ?(OR)ఏ రాష్ట్రం సానుకూల లింగ నిష్పత్తిని కలిగి ఉంది?",
