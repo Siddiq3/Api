@@ -48,11 +48,11 @@
         {
             "question": "6.In 1947 ………… % of population was literates?(OR)భారతదేశ జనాభా గణనను ఒకసారి తీసుకుంటారు?",
             "incorrect_answers": [
-                "13%",
-                "14%",
-              "15%"
+                "13Percent",
+                "14Percent",
+              "15Percent"
             ],
-            "correct_answer": "12%"
+            "correct_answer": "12Percent"
         }
       
     ]
