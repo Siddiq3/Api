@@ -13,19 +13,19 @@
             "question": "2.Highest literacy rate is observed in which state of India 2011 census?(OR)ఒక ఇనుప కడ్డీని మొదట వేడి చేసినప్పుడు అది.......మారుతుంది",
             "incorrect_answers": [
                 "Haryana",
-                "Andhra Pradesh",
+                "AndhraPradesh",
               "Mizoram"
             ],
             "correct_answer": "Kerala"
         },
         {
-            "question": "3.The state which has the highest density of population.?(OR)అత్యధిక జనసాంద్రత కలిగిన రాష్ట్రం.?",
+            "question": "3.The state which has the highest density of population.?(OR)అత్యధిక జనసాంద్రత కలిగిన రాష్ట్రం?",
               "incorrect_answers": [
                "Maharashtra",
-                "Arunachal Pradesh",
+                "ArunachalPradesh",
               "Tamilnadu"
             ],
-            "correct_answer": "West Bengal"
+            "correct_answer": "WestBengal"
         },
         {
             "question": "4.According to 2011 census, literacy rate of India is?(OR)2011 జనాభా లెక్కల ప్రకారం, భారతదేశ అక్షరాస్యత రేటు",
@@ -39,9 +39,9 @@
         {
             "question": "5.Which state has a positive sex ratio ?(OR)ఏ రాష్ట్రం సానుకూల లింగ నిష్పత్తిని కలిగి ఉంది?",
             "incorrect_answers": [
-                " Punjab",
+                "Punjab",
                 "Bihar",
-              " Andhra Pradesh"
+              "AndhraPradesh"
             ],
             "correct_answer": "Kerala"
         },
