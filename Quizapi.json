@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The present sex ratio of India and Andhra Pradesh respectively is(OR)భారతదేశం మరియు ఆంధ్రప్రదేశ్ యొక్క ప్రస్తుత లింగ నిష్పత్తి వరుసగా",
+            "question": "1.గగ, భ, జ, స, నల గణములు మాత్రమే వచ్చే పద్యమేది? (June 2017)",
             "incorrect_answers": [
-                "918, 938",
-                "914, 940",
-                "941, 972"
+                "సీసము",
+                "ద్విపద",
+                "తరువోజ"
             ],
-            "correct_answer": "914,970"
+            "correct_answer": "కందము"
         },
         {
-            "question": "2.Highest literacy rate is observed in which state of India 2011 census?(OR)ఒక ఇనుప కడ్డీని మొదట వేడి చేసినప్పుడు అది.......మారుతుంది",
+            "question": "2.మహనీయులు వారు చేసిన పనుల వలన ఉత్తములుగా కీర్తి పొందారు. (అర్థాన్ని గుర్తించండి) (S.A. I – 2018-19)",
             "incorrect_answers": [
-                "Haryana",
-                "AndhraPradesh",
-              "Mizoram"
+                "స్నేహితులు",
+                "మధ్యములు",
+              "పేదవారు"
             ],
-            "correct_answer": "Kerala"
+            "correct_answer": "గొప్పవారు"
         },
         {
-            "question": "3.The state which has the highest density of population.?(OR)అత్యధిక జనసాంద్రత కలిగిన రాష్ట్రం?",
+            "question": "3.దేశాల మధ్య శాంతి కాపాడుకోవాలి. (విడదీసిన సరియైన రూపం గుర్తించండి) (S.A. I – 2018-19)",
               "incorrect_answers": [
-               "Maharashtra",
-                "ArunachalPradesh",
-              "Tamilnadu"
+               " దే + శాల",
+                "దేశ + అల",
+              "దేశా + ల"
             ],
-            "correct_answer": "WestBengal"
+            "correct_answer": " దేశము + ల"
         },
         {
-            "question": "4.According to 2011 census literacy rate of India is?",
+            "question": "4. నీ కరుణా కటాక్ష వీక్షణములకై నిరీక్షించుచున్నారము. (అలంకారాన్ని గుర్తించండి) (S.A. I – 2018-19)?",
             "incorrect_answers": [
-                "82.14Persent",
-                "65.46Persent",              
-		"64.84Persent"
+                "అంత్యానుప్రాసము",
+                "లాటానుప్రాసము",              
+		"ఛేకానుప్రాసము"
             ],
-            "correct_answer": "74.04Persent"
+            "correct_answer": "వృత్త్యనుప్రాసము"
         },
         {
-            "question": "5.Which state has a positive sex ratio ?(OR)ఏ రాష్ట్రం సానుకూల లింగ నిష్పత్తిని కలిగి ఉంది?",
+            "question": "5.సత్యాన్నే పలుకు, ధర్మాన్నే ఆచరించు – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2018)?",
             "incorrect_answers": [
-                "Punjab",
-                "Bihar",
-              "AndhraPradesh"
+                "నిషేధాకం",
+                "నిశ్చయార్థకం",
+              "ప్రశ్నార్థకం"
             ],
-            "correct_answer": "Kerala"
+            "correct_answer": "విధ్యర్థకం"
         },
         {
-            "question": "6.In 1947 ………… Percent of population was literates?(OR)భారతదేశ జనాభా గణనను ఒకసారి తీసుకుంటారు?",
+            "question": "6.తాత భారతం చదివి నిద్రపోయాడు – ఏ వాక్యమో గుర్తించండి. June 2018?",
             "incorrect_answers": [
-                "13Percent",
-                "14Percent",
-              "15Percent"
+                "చేదర్థకము",
+                "సంయుక్త వాక్యము",
+              "నిషేధార్థకము"
             ],
-            "correct_answer": "12Percent"
+            "correct_answer": "సంక్లిష్ట వాక్యము"
         }
       
     ]
