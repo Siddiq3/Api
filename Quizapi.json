@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The common difference(సాధారణ వ్యత్యాసం)of an A.P. for which a18 – a14 = 32 is (June 2017)",
+            "question": "1.Calorimetry is the measurement of(OR)క్యాలరీమెట్రీ అనేది కొలత (June 2017)",
             "incorrect_answers": [
-                "-8",
-                "-4",
-                "4"
+                "temperature",
+                " pressure",
+                "mass"
             ],
-            "correct_answer": "8"
+            "correct_answer": "heat"
         },
         {
-            "question": "2.The sum of first 100 natural numbers is(OR)మొదటి 100 సహజ సంఖ్యల మొత్తం(March 2017)",
+            "question": "2.Bases turn methyl orange into (OR)స్థావరాలు మిథైల్ ఆరెంజ్‌గా మారుతాయి(March 2017)",
             "incorrect_answers": [
-                " 4050",
-                "4500",
-             "5500"
+                "red",
+                "blue",
+             "pink"
             ],
-            "correct_answer": "5050"
+            "correct_answer": "yellow"
         },
         {
-            "question": "3.The 6th term in the GP 2, 8, 32, ……………is(OR)GP 2, 8, 32, ……………………..లో 6వ పదం(March 2017)",
+            "question": "3.Planck’s equation is(March 2017)",
               "incorrect_answers": [
-               "512",
-                "128",
-              "256"
+               " E = h/υ",
+                " E = υ/h",
+              "None of these"
             ],
-            "correct_answer": " 2048"
+            "correct_answer": "E = hυ"
         },
         {
-            "question": "4. If a = 2 and d = 2, then S15 =?June 2018",
+            "question": "4.In autotrophs the energy is stored as(OR) ఆటోట్రోఫ్స్‌లో శక్తి ....లా నిల్వ చేయబడుతుంది?June 2018",
             "incorrect_answers": [
-                " 220",
-                "230",              
-		"245"
+                "Fats(OR)కొవ్వులు",
+                "Proteins(OR)ప్రొటీన్లు",              
+		" Glycogen"
             ],
-            "correct_answer": "240"
+            "correct_answer": " Carbohydrates(OR)కార్బోహైడ్రేట్లు"
         },
         {
-            "question": "5. If a = -1, d = -3 in an A.P, then 12th term is (June 2018)",
+            "question": "5. The term “respiration” is derived from(OR)The term “respiration” is derived from  (June 2018)",
             "incorrect_answers": [
-                "17",
-                "-23",
-              "-17"
+                "Greek",
+                "English",
+              "Germany"
             ],
-            "correct_answer": " -34"
+            "correct_answer": "Latin"
         },
         {
-            "question": "6.Sum of 20 terms of 3 + 5 + 7 + 9 + ……. is (March 2017)",
+            "question": "6.Fixed air = CO2 ::Vitiated gas = …………… ?(OR)స్థిర గాలి = CO2 ::విటియేటెడ్ గ్యాస్ = …………?(March 2017)",
             "incorrect_answers": [
-                "220",
-                "410",
-              "460"
+                " Hydrogen",
+                "Nitrogen",
+              "460 Carbonate"
             ],
-            "correct_answer": "440"
+            "correct_answer": "Oxygen"
         }
       
     ]
