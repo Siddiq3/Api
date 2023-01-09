@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Calorimetry is the measurement of(OR)క్యాలరీమెట్రీ అనేది కొలత (June 2017)",
+            "question": "1.The difference between the Greenwich Mean Time and the Indian Standard Time is (June 2017)",
             "incorrect_answers": [
-                "temperature",
-                " pressure",
-                "mass"
+                " -4.30 minutes",
+                " -5.30 minutes",
+                " +4.30 minutes"
             ],
-            "correct_answer": "heat"
+            "correct_answer": "+ 5.30 minutes"
         },
         {
-            "question": "2.Bases turn methyl orange into (OR)స్థావరాలు మిథైల్ ఆరెంజ్‌గా మారుతాయి(March 2017)",
+            "question": "2.The distance between North and South extremes of India is(March 2017)",
             "incorrect_answers": [
-                "red",
-                "blue",
-             "pink"
+                "2933 kms",
+                "15,200 kms",
+             "7516.6 kms"
             ],
-            "correct_answer": "yellow"
+            "correct_answer": "3214 kms"
         },
         {
-            "question": "3.Planck’s equation is(March 2017)",
+            "question": "3.Kudankulam Power Project is generating electricity from(March 2017)",
               "incorrect_answers": [
-               " E = h/υ",
-                " E = υ/h",
-              "None of these"
+               "Hydro Power Project",
+                "Thermal Power Project",
+              "Solar Power"
             ],
-            "correct_answer": "E = hυ"
+            "correct_answer": "Nuclear Power"
         },
         {
-            "question": "4.In autotrophs the energy is stored as(OR) ఆటోట్రోఫ్స్‌లో శక్తి ....లా నిల్వ చేయబడుతుంది?June 2018",
+            "question": "4.The Human Development Index was proposed by?June 2018",
             "incorrect_answers": [
-                "Fats(OR)కొవ్వులు",
-                "Proteins(OR)ప్రొటీన్లు",              
-		" Glycogen"
+                "J. M. Keynes",
+                "Manshall",              
+		"Recardo"
             ],
-            "correct_answer": " Carbohydrates(OR)కార్బోహైడ్రేట్లు"
+            "correct_answer": "Amartya Sen"
         },
         {
-            "question": "5. The term “respiration” is derived from(OR)The term “respiration” is derived from  (June 2018)",
+            "question": "5. Monsoon burst takes place in(June 2018)",
             "incorrect_answers": [
-                "Greek",
-                "English",
-              "Germany"
+                "Goa",
+                "Chennai",
+              "Karnataka"
             ],
-            "correct_answer": "Latin"
+            "correct_answer": "Kerala"
         },
         {
-            "question": "6.Fixed air = CO2 ::Vitiated gas = …………… ?(OR)స్థిర గాలి = CO2 ::విటియేటెడ్ గ్యాస్ = …………?(March 2017)",
+            "question": "6.……………… affects the climate of Chennai.?(March 2017)",
             "incorrect_answers": [
-                " Hydrogen",
-                "Nitrogen",
-              "460 Carbonate"
+                "Latitude",
+                " Upper air currents",
+              "Relief"
             ],
-            "correct_answer": "Oxygen"
+            "correct_answer": "Nearness to sea"
         }
       
     ]
