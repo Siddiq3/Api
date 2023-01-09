@@ -3,11 +3,11 @@
        {
             "question": "1.The difference between the Greenwich Mean Time and the Indian Standard Time is (June 2017)",
             "incorrect_answers": [
-                " -4.30 minutes",
-                " -5.30 minutes",
-                " +4.30 minutes"
+                " minus4.30 minutes",
+                " minus5.30 minutes",
+                " plus4.30 minutes"
             ],
-            "correct_answer": "+ 5.30 minutes"
+            "correct_answer": "plus 5.30 minutes"
         },
         {
             "question": "2.The distance between North and South extremes of India is(March 2017)",
