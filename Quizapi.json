@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The difference between the Greenwich Mean Time and the Indian Standard Time is (June 2017)",
+            "question": "1.‘భ, ర, న, భ, భ, ర, వ’ అనే గణాలు, ఏ పద్యానికి చెందినవి ?",
             "incorrect_answers": [
-                " minus4.30 minutes",
-                " minus5.30 minutes",
-                " plus4.30 minutes"
+                "చంపకమాల",
+                " శార్దూలము",
+                "మత్తేభము"
             ],
-            "correct_answer": "plus 5.30 minutes"
+            "correct_answer": " ఉత్పలమాల"
         },
         {
-            "question": "2.The distance between North and South extremes of India is(March 2017)",
+            "question": "2.‘న జ భ జ జ జ ర’ గణాలు ఏ పద్యానికి చెందినవి?",
             "incorrect_answers": [
-                "2933 kms",
-                "15,200 kms",
-             "7516.6 kms"
+                "శార్దూలము",
+                " మత్తేభము",
+             "ఉత్పలమాల"
             ],
-            "correct_answer": "3214 kms"
+            "correct_answer": " చంపకమాల"
         },
         {
-            "question": "3.Kudankulam Power Project is generating electricity from(March 2017)",
+            "question": "3.14వ అక్షరంతో యతి గల పద్యము",
               "incorrect_answers": [
-               "Hydro Power Project",
-                "Thermal Power Project",
-              "Solar Power"
+               "ఉత్పలమాల",
+                " చంపకమాల", 
+              "శార్దూలము"
             ],
-            "correct_answer": "Nuclear Power"
+            "correct_answer": "మత్తేభము"
         },
         {
-            "question": "4.The Human Development Index was proposed by?June 2018",
+            "question": "4.‘అతడు’ – ఇది ఏ గణమో గర్తించండి?",
             "incorrect_answers": [
-                "J. M. Keynes",
-                "Manshall",              
-		"Recardo"
+                "త గణం",
+                "ర గణం",              
+		"య గణం"
             ],
-            "correct_answer": "Amartya Sen"
+            "correct_answer": "భ గణం"
         },
         {
-            "question": "5. Monsoon burst takes place in(June 2018)",
+            "question": "5.పద్యంలో ప్రాసాక్షరము ఏది?",
             "incorrect_answers": [
-                "Goa",
-                "Chennai",
-              "Karnataka"
+                "4",
+                "3",
+              "1"
             ],
-            "correct_answer": "Kerala"
+            "correct_answer": "2"
         },
         {
-            "question": "6.……………… affects the climate of Chennai.?(March 2017)",
+            "question": "6.‘యతి’ అంటే ఎన్నవ అక్షరము?",
             "incorrect_answers": [
-                "Latitude",
-                " Upper air currents",
-              "Relief"
+                "మూడవ",
+                " రెండవ",
+              "నాల్గువ"
             ],
-            "correct_answer": "Nearness to sea"
+            "correct_answer": "ఒకటవ"
         }
       
     ]
