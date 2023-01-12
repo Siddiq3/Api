@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.భ, ర, న, భ, భ, ర, వ అనే గణాలు, ఏ పద్యానికి చెందినవి ?",
+            "question": "1.Number of elements discovered to till date.(OR)ఇప్పటి వరకు కనుగొనబడిన మూలకాల సంఖ్య ?",
             "incorrect_answers": [
-                "చంపకమాల",
-                " శార్దూలము",
-                "మత్తేభము"
+                " 24",
+                "60",
+                "90"
             ],
-            "correct_answer": " ఉత్పలమాల"
+            "correct_answer": "more than 115"
         },
         {
-            "question": "2.న జ భ జ జ జ ర గణాలు ఏ పద్యానికి చెందినవి?",
+            "question": "2.Lithium, …………………… and Potassium constitute a Dobereiner triad(OR)లిథియం, …………… మరియు పొటాషియం ఒక డోబెరీనర్ త్రయం?",
             "incorrect_answers": [
-                "శార్దూలము",
-                " మత్తేభము",
-             "ఉత్పలమాల"
+                "Magnesium",
+                "Calcium",
+             "Rubidium"
             ],
-            "correct_answer": " చంపకమాల"
+            "correct_answer": "Sodium"
         },
         {
-            "question": "3.14వ అక్షరంతో యతి గల పద్యము",
+            "question": "3.Dobereiner triad is based on(OR)డోబెరీనర్ త్రయం ఆధారంగా రూపొందించబడింది",
               "incorrect_answers": [
-               "ఉత్పలమాల",
-                " చంపకమాల", 
-              "శార్దూలము"
+               "Atomic number",
+                "Atomic volume", 
+              " Atomic size"
             ],
-            "correct_answer": "మత్తేభము"
+            "correct_answer": "Atomic weight"
         },
         {
-            "question": "4.అతడు – ఇది ఏ గణమో గర్తించండి?",
+            "question": "4.Newlands’ periodic table was restricted to …………….. elements(OR)న్యూలాండ్స్ ఆవర్తన పట్టిక ……………………. మూలకాలకు పరిమితం చేయబడింది?",
             "incorrect_answers": [
-                "త గణం",
-                "ర గణం",              
-		"య గణం"
+                "40",
+                "60",              
+		"80"
             ],
-            "correct_answer": "భ గణం"
+            "correct_answer": "56"
         },
         {
-            "question": "5.పద్యంలో ప్రాసాక్షరము ఏది?",
+            "question": "5.Mendeleeff’s periodic table is based on(OR)మెండలీఫ్ ఆవర్తన పట్టిక ఆధారంగా రూపొందించబడింది?",
             "incorrect_answers": [
-                "4",
-                "3",
-              "1"
+                "Atomic number",
+                "Atomic volume",
+              "Atomic size"
             ],
-            "correct_answer": "2"
+            "correct_answer": "Atomic Weight"
         },
         {
-            "question": "6.యతి అంటే ఎన్నవ అక్షరము?",
+            "question": "6.Atomic weight = ……………….. x equivalent weight?",
             "incorrect_answers": [
-                "మూడవ",
-                " రెండవ",
-              "నాల్గువ"
+                "atomic number",
+                "Atomic size",
+              "combining capacity"
             ],
-            "correct_answer": "ఒకటవ"
+            "correct_answer": "valency"
         }
       
     ]
