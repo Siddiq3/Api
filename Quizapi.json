@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Number of elements discovered to till date.(OR)ఇప్పటి వరకు కనుగొనబడిన మూలకాల సంఖ్య ?",
+            "question": "1.If cos(A + B) = 0,cosB=3√2 then A=?(OR)cos (A + B) = 0, cos B = 3√2 అయితే A =?",
             "incorrect_answers": [
-                " 24",
-                "60",
-                "90"
+                "15°",
+                "30°",
+                "45°"
             ],
-            "correct_answer": "more than 115"
+            "correct_answer": "60°"
         },
         {
-            "question": "2.Lithium, …………………… and Potassium constitute a Dobereiner triad(OR)లిథియం, …………… మరియు పొటాషియం ఒక డోబెరీనర్ త్రయం?",
+            "question": "2.tan 36°.tan 54° + sin 30° =?",
             "incorrect_answers": [
-                "Magnesium",
-                "Calcium",
-             "Rubidium"
+                "1/2",
+                "2",
+             "2/3"
             ],
-            "correct_answer": "Sodium"
+            "correct_answer": "3/2"
         },
         {
-            "question": "3.Dobereiner triad is based on(OR)డోబెరీనర్ త్రయం ఆధారంగా రూపొందించబడింది",
+            "question": "3.tan 2A = 1 then A =(OR)టాన్ 2A = 1 అప్పుడు A =?",
               "incorrect_answers": [
-               "Atomic number",
-                "Atomic volume", 
-              " Atomic size"
+               "45.5",
+                "60.5", 
+              "30.5"
             ],
-            "correct_answer": "Atomic weight"
+            "correct_answer": "22.5"
         },
         {
-            "question": "4.Newlands’ periodic table was restricted to …………….. elements(OR)న్యూలాండ్స్ ఆవర్తన పట్టిక ……………………. మూలకాలకు పరిమితం చేయబడింది?",
+            "question": "4.If sinθ + cosθ = √2 then θ =?",
             "incorrect_answers": [
-                "40",
-                "60",              
-		"80"
+                "0°",
+                "30°",              
+		"60°"
             ],
-            "correct_answer": "56"
+            "correct_answer": "45°"
         },
         {
-            "question": "5.Mendeleeff’s periodic table is based on(OR)మెండలీఫ్ ఆవర్తన పట్టిక ఆధారంగా రూపొందించబడింది?",
+            "question": "5.sin (A + B) cos (A – B) + sin (A – B) cos (A + B) =?",
             "incorrect_answers": [
-                "Atomic number",
-                "Atomic volume",
-              "Atomic size"
+                "sin 2B",
+                "cos 2A",
+              "cos 2B"
             ],
-            "correct_answer": "Atomic Weight"
+            "correct_answer": " sin 2A"
         },
         {
-            "question": "6.Atomic weight = ……………….. x equivalent weight?",
+            "question": "6.The value of cos 36° cos 54° – sin 36° sin 54° =?",
             "incorrect_answers": [
-                "atomic number",
-                "Atomic size",
-              "combining capacity"
+                "1",
+                "-1",
+              "2"
             ],
-            "correct_answer": "valency"
+            "correct_answer": "0"
         }
       
     ]
