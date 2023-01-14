@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.If cos(A + B) = 0,cosB=3√2 then A=?(OR)cos (A + B) = 0, cos B = 3√2 అయితే A =?",
+            "question": "1.Nasbandi belongs to?(OR)నస్బందికి చెందినది?",
             "incorrect_answers": [
-                "15°",
-                "30°",
-                "45°"
+                " Ban on free grazing",
+                "Family planning",
+                "Ban on felling trees"
             ],
-            "correct_answer": "60°"
+            "correct_answer": " Ban an liquor"
         },
         {
-            "question": "2.tan 36°.tan 54° + sin 30° =?",
+            "question": "2.The birth place of Mahanadi is(OR)మహానది జన్మస్థలం",
             "incorrect_answers": [
-                "1/2",
-                "2",
-             "2/3"
+                "Nasik",
+                "Sihawa",
+             "Amar Kantak"
             ],
-            "correct_answer": "3/2"
+            "correct_answer": " Mahabaleshwar"
         },
         {
-            "question": "3.tan 2A = 1 then A =(OR)టాన్ 2A = 1 అప్పుడు A =?",
+            "question": "3.This is not a Himalayan river?",
               "incorrect_answers": [
-               "45.5",
-                "60.5", 
-              "30.5"
+               " Ganga",
+                "Brahmaputra", 
+              "Indus"
             ],
-            "correct_answer": "22.5"
+            "correct_answer": "Godavari"
         },
         {
-            "question": "4.If sinθ + cosθ = √2 then θ =?",
+            "question": "4.Which is the birth place of river Indus?",
             "incorrect_answers": [
-                "0°",
-                "30°",              
-		"60°"
+                " Satopanth glacier",
+                "Trayambakam",              
+		"Chemyungdung"
             ],
-            "correct_answer": "45°"
+            "correct_answer": " Kailash range"
         },
         {
-            "question": "5.sin (A + B) cos (A – B) + sin (A – B) cos (A + B) =?",
+            "question": "5.Alakananda and Baghiradhi join at",
             "incorrect_answers": [
-                "sin 2B",
-                "cos 2A",
-              "cos 2B"
+                "Gangotri",
+                "Allahabad",
+              "Haridwar"
             ],
-            "correct_answer": " sin 2A"
+            "correct_answer": " Dev Prayaga"
         },
         {
-            "question": "6.The value of cos 36° cos 54° – sin 36° sin 54° =?",
+            "question": "6.This is not a peninsular river(OR)ఇది ద్వీపకల్ప నది కాదు?",
             "incorrect_answers": [
-                "1",
-                "-1",
-              "2"
+                "Mahanadi",
+                "Godavari",
+              "Krishna"
             ],
-            "correct_answer": "0"
+            "correct_answer": "Brahmaputra"
         }
       
     ]
