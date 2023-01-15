@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Nasbandi belongs to?(OR)నస్బందికి చెందినది?",
+            "question": "1.Hiroshima, Nagasaki cities belong to which country?(OR)హిరోషిమా, నాగసాకి నగరాలు ఏ దేశానికి చెందినవి?",
             "incorrect_answers": [
-                " Ban on free grazing",
-                "Family planning",
-                "Ban on felling trees"
+                " Russia",
+                "America",
+                "China"
             ],
-            "correct_answer": " Ban an liquor"
+            "correct_answer": "Japan"
         },
         {
-            "question": "2.The birth place of Mahanadi is(OR)మహానది జన్మస్థలం",
+            "question": "2.In which of the following years British women acquired right to vote ?",
             "incorrect_answers": [
-                "Nasik",
-                "Sihawa",
-             "Amar Kantak"
+                "1915",
+                "1920",
+             "1916"
             ],
-            "correct_answer": " Mahabaleshwar"
+            "correct_answer": "1980"
         },
         {
-            "question": "3.This is not a Himalayan river?",
+            "question": "3.The peace organisation prior to UNO was?(IR)UNO కి ముందు శాంతి సంస్థ?",
               "incorrect_answers": [
-               " Ganga",
-                "Brahmaputra", 
-              "Indus"
+               " SAARC",
+                " ASEAN", 
+              "NAM"
             ],
-            "correct_answer": "Godavari"
+            "correct_answer": " League of Nations"
         },
         {
-            "question": "4.Which is the birth place of river Indus?",
+            "question": "4.The Versailles is in?(OR)వెర్సైల్లెస్ ....ఉంది",
             "incorrect_answers": [
-                " Satopanth glacier",
-                "Trayambakam",              
-		"Chemyungdung"
+                " Germany",
+                "Austria",              
+		" Italy"
             ],
-            "correct_answer": " Kailash range"
+            "correct_answer": " France"
         },
         {
-            "question": "5.Alakananda and Baghiradhi join at",
+            "question": "5.Find the incorrect set",
             "incorrect_answers": [
-                "Gangotri",
-                "Allahabad",
-              "Haridwar"
+                "2nd World War – 1939 to 1945",
+                "Russian Revolution – 1917",
+              "Triple Entente – 1907"
             ],
-            "correct_answer": " Dev Prayaga"
+            "correct_answer": "Rise of Hitler in Germany – 1923"
         },
         {
-            "question": "6.This is not a peninsular river(OR)ఇది ద్వీపకల్ప నది కాదు?",
+            "question": "6.Second World War started with the invasion of Germany on(OR)రెండవ ప్రపంచ యుద్ధం జర్మనీ దాడితో ప్రారంభమైంది?",
             "incorrect_answers": [
-                "Mahanadi",
-                "Godavari",
-              "Krishna"
+                "Russia",
+                "Austria",
+              " France"
             ],
-            "correct_answer": "Brahmaputra"
+            "correct_answer": " Poland"
         }
       
     ]
