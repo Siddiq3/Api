@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Hiroshima, Nagasaki cities belong to which country?(OR)హిరోషిమా, నాగసాకి నగరాలు ఏ దేశానికి చెందినవి?",
+            "question": "1.అపారమైన తీరము గలది – (వ్యుత్పత్తిని చెప్పే పదం గుర్తించుము. ) (March 2017)?",
             "incorrect_answers": [
-                " Russia",
-                "America",
-                "China"
+                " పారాశర్యుడు",
+                " తాపసుడు",
+                "కార్ముకం"
             ],
-            "correct_answer": "Japan"
+            "correct_answer": "పారావారం"
         },
         {
-            "question": "2.In which of the following years British women acquired right to vote ?",
+            "question": "2.యమకాలంకారానికి ఉదాహరణ గుర్తించుము. (March 2017)?",
             "incorrect_answers": [
-                "1915",
-                "1920",
-             "1916"
+                "రాజు కువలయానందకరుడు",
+                "మా పొలంలో బంగారం పండింది",
+             "శ్రీనాథు వర్ణించు జిహ్వజిహ్వ"
             ],
-            "correct_answer": "1980"
+            "correct_answer": " లేమా ! దనుజుల గెలవగ లేమా !"
         },
         {
-            "question": "3.The peace organisation prior to UNO was?(IR)UNO కి ముందు శాంతి సంస్థ?",
+            "question": "3.హరి భజియించు హస్తములు హస్తములు ఇందులోని అలంకారం గుర్తించండి. (June 2018)?",
               "incorrect_answers": [
-               " SAARC",
-                " ASEAN", 
-              "NAM"
+               "ఛేకానుప్రాసము",
+                "యమకము", 
+              "ముక్తపదగ్రసము"
             ],
-            "correct_answer": " League of Nations"
+            "correct_answer": "లాటానుప్రాసము"
         },
         {
-            "question": "4.The Versailles is in?(OR)వెర్సైల్లెస్ ....ఉంది",
+            "question": "4.హనుమంతుడు పర్వతమెక్కాడు – (వ్యతిరేకార్థక వాక్యాన్ని గుర్తించండి) (S.I. I – 2018-19)",
             "incorrect_answers": [
-                " Germany",
-                "Austria",              
-		" Italy"
+                "హనుమంతుడు పర్వతమెక్కుటలేదు",
+                "హనుమంతుడు పర్వతమెక్కలేడు",              
+		"హనుమంతుడు పర్వతమెక్కుట కష్టం"
             ],
-            "correct_answer": " France"
+            "correct_answer": "హనుమంతుడు పర్వతమెక్కలేదు."
         },
         {
-            "question": "5.Find the incorrect set",
+            "question": "5.ఈ సంవత్సరం వర్షాలు కురుస్తాయో, కురవవో – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2018)",
             "incorrect_answers": [
-                "2nd World War – 1939 to 1945",
-                "Russian Revolution – 1917",
-              "Triple Entente – 1907"
+                "సందేహార్థకం",
+                " ఆశ్చర్యార్థకం",
+              " నిషేధార్థకం"
             ],
-            "correct_answer": "Rise of Hitler in Germany – 1923"
+            "correct_answer": "నిశ్చయార్థకం"
         },
         {
-            "question": "6.Second World War started with the invasion of Germany on(OR)రెండవ ప్రపంచ యుద్ధం జర్మనీ దాడితో ప్రారంభమైంది?",
+            "question": "6. శ్లేషాలంకారానికి ఉదాహరణ గుర్తించండి. (June 2018)",
             "incorrect_answers": [
-                "Russia",
-                "Austria",
-              " France"
+                "మా అన్న చేతివంట నలభీమపాకం",
+                " ఆమె పలుకులు తేనె పలుకులు.",
+              " సంసార సాగరమును ఈదుట కష్టము."
             ],
-            "correct_answer": " Poland"
+            "correct_answer": "రాజు కువలయానందకరుడు."
         }
       
     ]
