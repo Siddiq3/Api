@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.అపారమైన తీరము గలది – (వ్యుత్పత్తిని చెప్పే పదం గుర్తించుము. ) (March 2017)?",
+            "question": "1.The volume(పరిమాణo) of right circular cylinder(కుడి వృత్తాకార సిలిండర్) with radius(వ్యాసార్)6cm and height 7cm is………cm",
             "incorrect_answers": [
-                " పారాశర్యుడు",
-                " తాపసుడు",
-                "కార్ముకం"
+                " 642",
+                " 927",
+                "264"
             ],
-            "correct_answer": "పారావారం"
+            "correct_answer": "792"
         },
         {
-            "question": "2.యమకాలంకారానికి ఉదాహరణ గుర్తించుము. (March 2017)?",
+            "question": "2.The volume of a cube will be ………… (in cm3), whose total surface area is 216 cm2?",
             "incorrect_answers": [
-                "రాజు కువలయానందకరుడు",
-                "మా పొలంలో బంగారం పండింది",
-             "శ్రీనాథు వర్ణించు జిహ్వజిహ్వ"
+                " 196",
+                "212",
+             "144"
             ],
-            "correct_answer": " లేమా ! దనుజుల గెలవగ లేమా !"
+            "correct_answer": " 216"
         },
         {
-            "question": "3.హరి భజియించు హస్తములు హస్తములు ఇందులోని అలంకారం గుర్తించండి. (June 2018)?",
+            "question": "3.To find out the slant height ofa cone,we use…theorem(OR)కోన్ యొక్క ఏటవాలు ఎత్తును తెలుసుకోవడానికి,మేము………సిద్ధాంతాన్ని ఉపయోగిస్తాము.,
               "incorrect_answers": [
-               "ఛేకానుప్రాసము",
-                "యమకము", 
-              "ముక్తపదగ్రసము"
+               " Thales",
+                " S.A.S", 
+              " S.S.S"
             ],
-            "correct_answer": "లాటానుప్రాసము"
+            "correct_answer": "Pythagoras"
         },
         {
-            "question": "4.హనుమంతుడు పర్వతమెక్కాడు – (వ్యతిరేకార్థక వాక్యాన్ని గుర్తించండి) (S.I. I – 2018-19)",
+            "question": "4.Volume of a cube is 512 cm3, then its edge is",
             "incorrect_answers": [
-                "హనుమంతుడు పర్వతమెక్కుటలేదు",
-                "హనుమంతుడు పర్వతమెక్కలేడు",              
-		"హనుమంతుడు పర్వతమెక్కుట కష్టం"
+                "6 cm",
+                "16 cm",              
+		"14 cm"
             ],
-            "correct_answer": "హనుమంతుడు పర్వతమెక్కలేదు."
+            "correct_answer": " 8 cm"
         },
         {
-            "question": "5.ఈ సంవత్సరం వర్షాలు కురుస్తాయో, కురవవో – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2018)",
+            "question": "5.The volume of the sphere of radius 21 cm is",
             "incorrect_answers": [
-                "సందేహార్థకం",
-                " ఆశ్చర్యార్థకం",
-              " నిషేధార్థకం"
+                "5544 cm3",
+                "1155 cm3",
+              " 8983 cm3"
             ],
-            "correct_answer": "నిశ్చయార్థకం"
+            "correct_answer": " 38808 cm3"
         },
         {
-            "question": "6. శ్లేషాలంకారానికి ఉదాహరణ గుర్తించండి. (June 2018)",
+            "question": "6.The volume of the cone =",
             "incorrect_answers": [
-                "మా అన్న చేతివంట నలభీమపాకం",
-                " ఆమె పలుకులు తేనె పలుకులు.",
-              " సంసార సాగరమును ఈదుట కష్టము."
+                "4/3 πr2",
+                " πr2h",
+              "1/2πr2h"
             ],
-            "correct_answer": "రాజు కువలయానందకరుడు."
+            "correct_answer": " 1/3πr2h"
         }
       
     ]
