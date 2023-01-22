@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Noble gases belong to……group(OR)నోబుల్ వాయువులు….సమూహానికి చెందినవి",
+            "question": "1.సమాజంలోని రుగ్మతలు తొలగినపుడే దేశం బాగుపడుతుంది – గీత గీసిన పదానికి పర్యాయపదాలను గుర్తించండి. (June 2017)",
             "incorrect_answers": [
-                "VIIIA",
-                "18th",
-                " 0"
+                "నీతి, ధర్మం",
+                "కల్మషం, విరోధం",
+                "ఆదాయం, లాభం"
             ],
-            "correct_answer": " All of these"
+            "correct_answer": "జబ్బు, రోగం"
         },
         {
-            "question": "2.Chemical bond among these is(OR)వీటిలో రసాయన బంధం......ఉంది?",
+            "question": "2.శ్లేషాలంకారానికి ఉదాహరణ గుర్తించండి. (June 2018)?",
             "incorrect_answers": [
-                "Ionic bond",
-                " Covalent bon",
-             "Polar covalent bond"
+                "మా అన్న చేతివంట నలభీమపాకం",
+                "ఆమె పలుకులు తేనె పలుకులు.",
+             "సంసార సాగరమును ఈదుట కష్టము"
             ],
-            "correct_answer": "All of these"
+            "correct_answer": "రాజు కువలయానందకరుడు."
         },
         {
-            "question": "3.Ionic bond was proposed by(OR)అయానిక్ బంధాన్ని ప్రతిపాదించారు",
+            "question": "3.సినిమాలు జీవితాన్ని తీర్చిదిద్దగలవు. (వ్యతిరేక వాక్యాన్ని గుర్తించండి.) (June 2017)",
               "incorrect_answers": [
-               " Thales",
-                " S.A.S", 
-              " S.S.S"
+               "సినిమాలు జీవితాన్ని తీర్చబోవు.",
+                "సినిమాలు జీవితాన్ని తీర్చవు.", 
+              "సినిమాలు జీవితాన్ని తీర్చిదిద్దుతాయి"
             ],
-            "correct_answer": "Kossel"
+            "correct_answer": "సినిమాలు జీవితాన్ని తీర్చిదిద్దలేవు."
         },
         {
-            "question": "4.Volume of a cube is 512 cm3, then its edge is",
+            "question": "4.ఈ సంవత్సరం వర్షాలు కురుస్తాయో, కురవవో – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2018)",
             "incorrect_answers": [
-                "G.N. Lewis",
-                "Linus Pauling",              
-		" Sidgwick"
+                "సందేహార్థకం",
+                "ఆశ్చర్యార్థకం",              
+		"నిషేధార్థకం"
             ],
-            "correct_answer": " 8 cm"
+            "correct_answer": "నిశ్చయార్థకం"
         },
         {
-            "question": "5.The valency of I,II,III groups respectively are(OR)I, II, III సమూహాల వాలెన్సీ వరుసగా",
+            "question": "5.రైతులు కష్టపడగలరు. (ఏ వాక్యమో గుర్తించండి ?) (June 2017)",
             "incorrect_answers": [
-                " 3, 2,1",
-                " 4, 5, 6",
-              "0,1, 2"
+                "సంభావనార్ధకం",
+                "చేదర్థకం",
+              "ప్రశ్నార్ధకం"
             ],
-            "correct_answer": "1, 2, 3"
+            "correct_answer": "సామర్ధ్యార్ధకం"
         },
         {
-            "question": "6.Which of the following element is electronegative?(OR)కింది వాటిలో ఎలెక్ట్రోనెగటివ్‌గా ఉండే మూలకం ఏది?",
+            "question": "6.వృద్ధుని చేత బాలుడు రక్షింపబడెను – ఇది ఏ రకమైన వాక్యమో గుర్తించండి.?",
             "incorrect_answers": [
-                "Sodium",
-                "Potasium",
-              " Ca"
+                "సామాన్య",
+                "సంయుక్త",
+              "కర్తరి"
             ],
-            "correct_answer": "Fluorine"
+            "correct_answer": "కర్మణి"
         }
       
     ]
