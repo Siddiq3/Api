@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.సమాజంలోని రుగ్మతలు తొలగినపుడే దేశం బాగుపడుతుంది – గీత గీసిన పదానికి పర్యాయపదాలను గుర్తించండి. (June 2017)",
+            "question": "1.The equation for an electric current is(OR)విద్యుత్ ప్రవాహానికి సమీకరణం?",
             "incorrect_answers": [
-                "నీతి, ధర్మం",
-                "కల్మషం, విరోధం",
-                "ఆదాయం, లాభం"
+                "I = Q × t",
+                "I = t/Q",
+                " I = Q/t2"
             ],
-            "correct_answer": "జబ్బు, రోగం"
+            "correct_answer": " I = Q/t"
         },
         {
-            "question": "2.శ్లేషాలంకారానికి ఉదాహరణ గుర్తించండి. (June 2018)?",
+            "question": "2.The S.I unit of electric current is(OR)విద్యుత్ ప్రవాహం యొక్క S.I యూనిట్?",
             "incorrect_answers": [
-                "మా అన్న చేతివంట నలభీమపాకం",
-                "ఆమె పలుకులు తేనె పలుకులు.",
-             "సంసార సాగరమును ఈదుట కష్టము"
+                "volt(OR)వోల్ట్",
+                "ohm(OR)ఓ",
+             "oersted"
             ],
-            "correct_answer": "రాజు కువలయానందకరుడు."
+            "correct_answer": "ampere(OR)ఆంపియర్"
         },
         {
-            "question": "3.సినిమాలు జీవితాన్ని తీర్చిదిద్దగలవు. (వ్యతిరేక వాక్యాన్ని గుర్తించండి.) (June 2017)",
+            "question": "3.1 coloumb /1 second =(OR)1 కూలంబ్ /1 సెకను =?",
               "incorrect_answers": [
-               "సినిమాలు జీవితాన్ని తీర్చబోవు.",
-                "సినిమాలు జీవితాన్ని తీర్చవు.", 
-              "సినిమాలు జీవితాన్ని తీర్చిదిద్దుతాయి"
+               "one volt(OR)ఒక వోల్ట్",
+                " one ohm(OR)ఒక ఓం", 
+              "ONE WATT(OR)ఒక వాట్"
             ],
-            "correct_answer": "సినిమాలు జీవితాన్ని తీర్చిదిద్దలేవు."
+            "correct_answer": "one ampere(OR)ఒక ఆంపియర్"
         },
         {
-            "question": "4.ఈ సంవత్సరం వర్షాలు కురుస్తాయో, కురవవో – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2018)",
+            "question": "4.The S.I unit of an electric charge is (OR)విద్యుత్ ఛార్జ్ యొక్క S.I పరిమాణం",
             "incorrect_answers": [
-                "సందేహార్థకం",
-                "ఆశ్చర్యార్థకం",              
-		"నిషేధార్థకం"
+                "volt(OR)వోల్ట్",
+                "ampere(OR)ఆంపియర్",              
+		" second"
             ],
-            "correct_answer": "నిశ్చయార్థకం"
+            "correct_answer": "coloumb(OR)కూలంబ్"
         },
         {
-            "question": "5.రైతులు కష్టపడగలరు. (ఏ వాక్యమో గుర్తించండి ?) (June 2017)",
+            "question": "5.The equation for potential difference is(OR)సంభావ్య వ్యత్యాసం కోసం సమీకరణం",
             "incorrect_answers": [
-                "సంభావనార్ధకం",
-                "చేదర్థకం",
-              "ప్రశ్నార్ధకం"
+                " V = Wq",
+                "V = W ÷ q",
+              "V = W + q"
             ],
-            "correct_answer": "సామర్ధ్యార్ధకం"
+            "correct_answer": "W/q"
         },
         {
-            "question": "6.వృద్ధుని చేత బాలుడు రక్షింపబడెను – ఇది ఏ రకమైన వాక్యమో గుర్తించండి.?",
+            "question": "6.The S.I unit of potential difference is?(OR)సంభావ్య వ్యత్యాసం యొక్క S.I యూనిట్",
             "incorrect_answers": [
-                "సామాన్య",
-                "సంయుక్త",
-              "కర్తరి"
+                "ampere(OR)ఆంపియర్",
+                "ohm(OR)ఓ",
+              "coloumb(OR)కూలంబ్"
             ],
-            "correct_answer": "కర్మణి"
+            "correct_answer": "volt(OR)వోల్"
         }
       
     ]
