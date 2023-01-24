@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The equation for an electric current is(OR)విద్యుత్ ప్రవాహానికి సమీకరణం?",
+            "question": "1.In the World War-1 Russia fought against(OR)ప్రపంచ యుద్ధం -1లో రష్యాకు వ్యతిరేకంగా పోరాడారు?",
             "incorrect_answers": [
-                "I = Q × t",
-                "I = t/Q",
-                " I = Q/t2"
+                "Britain, France",
+                "America",
+                "india"
             ],
-            "correct_answer": " I = Q/t"
+            "correct_answer": "Germany"
         },
         {
-            "question": "2.The S.I unit of electric current is(OR)విద్యుత్ ప్రవాహం యొక్క S.I యూనిట్?",
+            "question": "2.What is the present name of Dutch East Indies?(OR)డచ్ ఈస్ట్ ఇండీస్ ప్రస్తుత పేరు ఏమిటి?",
             "incorrect_answers": [
-                "volt(OR)వోల్ట్",
-                "ohm(OR)ఓ",
-             "oersted"
+                " East India(or)తూర్పు భారతదేశం",
+                " Cuba(OR)క్యూబా",
+             "Australia(or)ఆస్ట్రేలియా"
             ],
-            "correct_answer": "ampere(OR)ఆంపియర్"
+            "correct_answer": "Indonesia(OR)ఇండోనేషియా"
         },
         {
-            "question": "3.1 coloumb /1 second =(OR)1 కూలంబ్ /1 సెకను =?",
+            "question": "3.Marshall Plan is this type of plan(or)మార్షల్ ప్లాన్ ఈ రకమైన ప్రణాళిక.",
               "incorrect_answers": [
-               "one volt(OR)ఒక వోల్ట్",
-                " one ohm(OR)ఒక ఓం", 
-              "ONE WATT(OR)ఒక వాట్"
+               "Military Plan(OR)సైనిక ప్రణాళిక",
+                "Social Plan(OR)సామాజిక ప్రణాళిక", 
+              "None of these"
             ],
-            "correct_answer": "one ampere(OR)ఒక ఆంపియర్"
+            "correct_answer": "Economic Plan(OR)ఆర్థిక ప్రణాళిక"
         },
         {
-            "question": "4.The S.I unit of an electric charge is (OR)విద్యుత్ ఛార్జ్ యొక్క S.I పరిమాణం",
+            "question": "4.The Great Depression started in(OR)మహా మాంద్యం మొదలైంది",
             "incorrect_answers": [
-                "volt(OR)వోల్ట్",
-                "ampere(OR)ఆంపియర్",              
-		" second"
+                " France",
+                " Britain",              
+		"Germany"
             ],
-            "correct_answer": "coloumb(OR)కూలంబ్"
+            "correct_answer": "USA"
         },
         {
-            "question": "5.The equation for potential difference is(OR)సంభావ్య వ్యత్యాసం కోసం సమీకరణం",
+            "question": "5.What are two new powers emerged after World WarII(OR)రెండవ ప్రపంచ యుద్ధం తర్వాత ఉద్భవించిన రెండు కొత్త శక్తులు ఏమిటి?",
             "incorrect_answers": [
-                " V = Wq",
-                "V = W ÷ q",
-              "V = W + q"
+                " Japan, China",
+               "Germany, France",
+              " UK, USA"
             ],
-            "correct_answer": "W/q"
+            "correct_answer": " USA, U.S.S.R"
         },
         {
-            "question": "6.The S.I unit of potential difference is?(OR)సంభావ్య వ్యత్యాసం యొక్క S.I యూనిట్",
+            "question": "6.Stalin succeeded Lenin in?(OR)లెనిన్ స్థానంలో స్టాలిన్ వచ్చాడు?",
             "incorrect_answers": [
-                "ampere(OR)ఆంపియర్",
-                "ohm(OR)ఓ",
-              "coloumb(OR)కూలంబ్"
+                "1926",
+                "1928",
+              "1922"
             ],
-            "correct_answer": "volt(OR)వోల్"
+            "correct_answer": "1924"
         }
       
     ]
