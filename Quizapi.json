@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.In the World War-1 Russia fought against(OR)ప్రపంచ యుద్ధం -1లో రష్యాకు వ్యతిరేకంగా పోరాడారు?",
+            "question": "1.“Holocaust” means(OR)హోలోకాస్ట్ అంటే?",
             "incorrect_answers": [
-                "Britain, France",
-                "America",
-                "india"
+                "Unemployment(OR)నిరుద్యోగం",
+                " Industrial failure(OR)పారిశ్రామిక వైఫల్యం",
+                "Revolts of labour(OR)కార్మిక తిరుగుబాట్లు"
             ],
-            "correct_answer": "Germany"
+            "correct_answer": "Killing the Jews(OR)యూదులను చంపడం"
         },
         {
-            "question": "2.What is the present name of Dutch East Indies?(OR)డచ్ ఈస్ట్ ఇండీస్ ప్రస్తుత పేరు ఏమిటి?",
+            "question": "2.Russia followed the Julian calendar till?(OR)రష్యా వరకు జూలియన్ క్యాలెండర్‌ను అనుసరించింది?",
             "incorrect_answers": [
-                " East India(or)తూర్పు భారతదేశం",
-                " Cuba(OR)క్యూబా",
-             "Australia(or)ఆస్ట్రేలియా"
+                " 1st March, 1918",
+                " 1st April, 1918",
+             "1st NOV 1917"
             ],
-            "correct_answer": "Indonesia(OR)ఇండోనేషియా"
+            "correct_answer": "1st February, 1918"
         },
         {
-            "question": "3.Marshall Plan is this type of plan(or)మార్షల్ ప్లాన్ ఈ రకమైన ప్రణాళిక.",
-              "incorrect_answers": [
-               "Military Plan(OR)సైనిక ప్రణాళిక",
-                "Social Plan(OR)సామాజిక ప్రణాళిక", 
-              "None of these"
+           "question": "3.The livelihood of most Russians was drawn from?(OR)చాలా మంది రష్యన్ల జీవనోపాధి నుండి తీసుకోబడింది?",
+            "incorrect_answers": [
+                " Industrial work(OR)పారిశ్రామిక పని",
+                "Cattle rearing(OR)పశువుల పెంపకం",
+              " Mining(OR)గనుల తవ్వకం"
             ],
-            "correct_answer": "Economic Plan(OR)ఆర్థిక ప్రణాళిక"
+            "correct_answer": "Agriculture(OR)వ్యవసాయం"
         },
         {
-            "question": "4.The Great Depression started in(OR)మహా మాంద్యం మొదలైంది",
+            "question": "4.Last country to surrender during World WarII was(OR)రెండవ ప్రపంచ యుద్ధం సమయంలో లొంగిపోయిన చివరి దేశం",
             "incorrect_answers": [
-                " France",
+                "Germany",
                 " Britain",              
-		"Germany"
+		"Italy"
             ],
-            "correct_answer": "USA"
+            "correct_answer": "Japan"
         },
         {
-            "question": "5.What are two new powers emerged after World WarII(OR)రెండవ ప్రపంచ యుద్ధం తర్వాత ఉద్భవించిన రెండు కొత్త శక్తులు ఏమిటి?",
+            "question": "5.The Russian Parliament(OR)రష్యన్ పార్లమెంట్?",
             "incorrect_answers": [
-                " Japan, China",
-               "Germany, France",
-              " UK, USA"
+                "Reichstag(or)రీచ్‌స్టాగ్",
+               "House of Common(or)హౌస్ ఆఫ్ కామన్స్",
+              "National Assembly(or)జాతీయ అసెంబ్లీ"
             ],
-            "correct_answer": " USA, U.S.S.R"
+            "correct_answer": "Duma(or)డూమా"
         },
         {
-            "question": "6.Stalin succeeded Lenin in?(OR)లెనిన్ స్థానంలో స్టాలిన్ వచ్చాడు?",
-            "incorrect_answers": [
-                "1926",
-                "1928",
-              "1922"
+             "question": "6.German Democratic Republic came under the area of influence of which country?(or)జర్మన్ డెమోక్రటిక్ రిపబ్లిక్ఏ దేశం యొక్క ప్రభావ ప్రాంతం క్రిందకు వచ్చింది?.",
+              "incorrect_answers": [
+               " USA",
+                "France", 
+              "Britain"
             ],
-            "correct_answer": "1924"
+            "correct_answer": " USSR"
         }
       
     ]
