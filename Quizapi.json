@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Holocaust means(OR)హోలోకాస్ట్ అంటే?",
+            "question": "1.Which of the following is a megacity?(OR)కింది వాటిలో మెగాసిటీ ఏది?
             "incorrect_answers": [
-                "Unemployment(OR)నిరుద్యోగం",
-                " Industrial failure(OR)పారిశ్రామిక వైఫల్యం",
-                "Revolts of labour(OR)కార్మిక తిరుగుబాట్లు"
+                "All the above",
+                "Delhi",
+                "Kolkata"
             ],
-            "correct_answer": "Killing the Jews(OR)యూదులను చంపడం"
+            "correct_answer": "Mumbai"
         },
         {
-            "question": "2.Russia followed the Julian calendar till?(OR)రష్యా వరకు జూలియన్ క్యాలెండర్‌ను అనుసరించింది?",
+            "question": "2.What type of settlement is Hyderabad?(OR)హైదరాబాద్ ఏ రకమైన సెటిల్మెంట్?",
             "incorrect_answers": [
-                " 1st March, 1918",
-                " 1st April, 1918",
-             "1st NOV 1917"
+                "Revenue village(or)రెవెన్యూ గ్రామం",
+                "Mega city(or)మెగా సిటీ",
+             "Class 1 city(or)క్లాస్ 1 నగరం"
             ],
-            "correct_answer": "1st February, 1918"
+            "correct_answer": "Metropolitan city(or)మెట్రోపాలిటన్ నగరం"
         },
         {
-           "question": "3.The livelihood of most Russians was drawn from?(OR)చాలా మంది రష్యన్ల జీవనోపాధి నుండి తీసుకోబడింది?",
+           "question": "3.Juggi Jhopdi means?(OR)జుగ్గీ జోప్డీ అంటే?",
             "incorrect_answers": [
-                " Industrial work(OR)పారిశ్రామిక పని",
-                "Cattle rearing(OR)పశువుల పెంపకం",
-              " Mining(OR)గనుల తవ్వకం"
+                " Hut(OR)గుడిసె",
+                " Pakka house(OR)పక్కా ఇల్లు",
+              " Industrial area(OR)పారిశ్రామిక వాడ"
             ],
-            "correct_answer": "Agriculture(OR)వ్యవసాయం"
+            "correct_answer": " Slum area(OR)మురికివాడ ప్రాంతం"
         },
         {
-            "question": "4.Last country to surrender during World WarII was(OR)రెండవ ప్రపంచ యుద్ధం సమయంలో లొంగిపోయిన చివరి దేశం",
+            "question": "4.Suvarnabhoomi International Airport is in(OR)సువర్ణభూమి అంతర్జాతీయ విమానాశ్రయం ఉందిం",
             "incorrect_answers": [
-                "Germany",
-                " Britain",              
-		"Italy"
+                "Burma",
+                " Bhutan",              
+		" Nepal"
             ],
-            "correct_answer": "Japan"
+            "correct_answer": " Thailand"
         },
         {
-            "question": "5.The Russian Parliament(OR)రష్యన్ పార్లమెంట్?",
+            "question": "5.The population of class I cities vary between(OR)క్లాస్ I నగరాల జనాభా మధ్య మారుతూ ఉంటుంది?",
             "incorrect_answers": [
-                "Reichstag(or)రీచ్‌స్టాగ్",
-               "House of Common(or)హౌస్ ఆఫ్ కామన్స్",
-              "National Assembly(or)జాతీయ అసెంబ్లీ"
+                "1 lakh – 5 lakhs",
+               "1 million -1 crore",
+              "10 million and above"
             ],
             "correct_answer": "Duma(or)డూమా"
         },
         {
-             "question": "6.German Democratic Republic came under the area of influence of which country?(or)జర్మన్ డెమోక్రటిక్ రిపబ్లిక్ఏ దేశం యొక్క ప్రభావ ప్రాంతం క్రిందకు వచ్చింది?.",
+             "question": "6.Which of the following is not a metropolitan city?(or)కింది వాటిలో ఏది మెట్రోపాలిటన్ నగరం కాదు??",
               "incorrect_answers": [
-               " USA",
-                "France", 
-              "Britain"
+               " Chennai",
+                "Hyderabad", 
+              " Ahmedabad"
             ],
-            "correct_answer": " USSR"
+            "correct_answer": "1 lakh – 1 million"
         }
       
     ]
