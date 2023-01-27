@@ -1,1 +1,20 @@
 
+{
+    "results": [
+        {
+            "telugu": "TELUGU",
+     "hinid": "HINDI",
+            "english": "ENGLISH",
+            "mathst": "MATHS-TM",
+            "mathse": "MATHS-EM",
+            "phyt": "PS-EM",
+            "phye":"PS-TM",
+           "nst":"NS-EM",
+           "nse":"NS-TM",
+          "soct":"SOCIAL-EM",
+           "soce":"SOCIAL-TM"
+           
+            
+        }
+    ]
+}
