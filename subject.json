@@ -1,1 +1,20 @@
 
+{
+    "results": [
+        {
+            "sub1": "TELUGU",
+     "sub2": "HINDI",
+            "sub3": "ENGLISH",
+            "sub4": "MATHS-TM",
+            "sub5": "MATHS-EM",
+            "sub6": "PS-EM",
+            "sub7":"PS-TM",
+           "sub8":"NS-EM",
+           "sub7":"NS-TM",
+          "sub7":"SOCIAL-EM",
+           "sub7":"SOCIAL-TM"
+           
+            
+        }
+    ]
+}
