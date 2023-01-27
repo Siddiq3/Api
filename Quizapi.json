@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.Which of the following is a megacity?(OR)కింది వాటిలో మెగాసిటీ ఏది?",
+            "question": "1.The most populous country in the world?(OR)ప్రపంచంలో అత్యధిక జనాభా కలిగిన దేశం?",
             "incorrect_answers": [
-                "All the above",
+                "India",
+                "America",
+                "Russia"
+            ],
+            "correct_answer": "China"
+        },
+        {
+            "question": "2.The following is not an International Airport ?(OR)కిందిది అంతర్జాతీయ విమానాశ్రయం కాదు?",
+            "incorrect_answers": [
+                " Bangalore",
                 "Delhi",
-                "Kolkata"
+             " Hyderabad"
             ],
-            "correct_answer": "Mumbai"
+            "correct_answer": "Ahmedabad"
         },
         {
-            "question": "2.What type of settlement is Hyderabad?(OR)హైదరాబాద్ ఏ రకమైన సెటిల్మెంట్?",
+           "question": "3.The present population of Simla town is?(OR)సిమ్లా పట్టణంలోని ప్రస్తుత జనాభా?",
             "incorrect_answers": [
-                "Revenue village(or)రెవెన్యూ గ్రామం",
-                "Mega city(or)మెగా సిటీ",
-             "Class 1 city(or)క్లాస్ 1 నగరం"
+                "5 lakhs",
+                "50 thousand",
+              "11/2 lakhs"
             ],
-            "correct_answer": "Metropolitan city(or)మెట్రోపాలిటన్ నగరం"
+            "correct_answer": "2 lakhs"
         },
         {
-           "question": "3.Juggi Jhopdi means?(OR)జుగ్గీ జోప్డీ అంటే?",
+            "question": "4.The airport at Tirupathi is located at(OR)తిరుపతిలో విమానాశ్రయం ఉంది",
             "incorrect_answers": [
-                " Hut(OR)గుడిసె",
-                " Pakka house(OR)పక్కా ఇల్లు",
-              " Industrial area(OR)పారిశ్రామిక వాడ"
+                "Mummadivaram(or)ముమ్మడివరం",
+                " Gannavaram(or)గన్నవరం",              
+		"Sriharikota(or)శ్రీహరికోట"
             ],
-            "correct_answer": " Slum area(OR)మురికివాడ ప్రాంతం"
+            "correct_answer": "Renigunta(or)రేణిగుంట"
         },
         {
-            "question": "4.Suvarnabhoomi International Airport is in(OR)సువర్ణభూమి అంతర్జాతీయ విమానాశ్రయం ఉందిం",
+            "question": "5.Which one of the following is NOT an aerotropolis(OR)కింది వాటిలో ఏరోట్రోపోలిస్ కాదు?",
             "incorrect_answers": [
-                "Burma",
-                " Bhutan",              
-		" Nepal"
+                " Hyderabad",
+               "Mumbai",
+              "Chennai"
             ],
-            "correct_answer": " Thailand"
+            "correct_answer": "Agra"
         },
         {
-            "question": "5.The population of class I cities vary between(OR)క్లాస్ I నగరాల జనాభా మధ్య మారుతూ ఉంటుంది?",
-            "incorrect_answers": [
-                "1 lakh – 5 lakhs",
-               "1 million -1 crore",
-              "10 million and above"
-            ],
-            "correct_answer": "Duma(or)డూమా"
-        },
-        {
-             "question": "6.Which of the following is not a metropolitan city?(or)కింది వాటిలో ఏది మెట్రోపాలిటన్ నగరం కాదు??",
+             "question": "6.A group of houses within the revenue village:?(or)రెవెన్యూ గ్రామ పరిధిలోని ఇళ్ల సమూహం:?",
               "incorrect_answers": [
-               " Chennai",
-                "Hyderabad", 
-              " Ahmedabad"
+               "Town(or)పట్టణం",
+                "Village(or)గ్రామం", 
+              " City(or)నగరం"
             ],
-            "correct_answer": "1 lakh – 1 million"
+            "correct_answer": "Hamlet(or)హామ్లెట్"
         }
       
     ]
