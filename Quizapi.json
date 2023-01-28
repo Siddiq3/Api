@@ -1,58 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The most populous country in the world?(OR)ప్రపంచంలో అత్యధిక జనాభా కలిగిన దేశం?",
+            "question": "1.Koina Dam is in …?(OR)కోయినా డ్యామ్ ఉంది…?",
             "incorrect_answers": [
-                "India",
-                "America",
-                "Russia"
+                "Andhra Pradesh",
+                "Manipur",
+                "Madhya Pradesh"
             ],
-            "correct_answer": "China"
+            "correct_answer": "Maharashtra"
         },
         {
-            "question": "2.The following is not an International Airport ?(OR)కిందిది అంతర్జాతీయ విమానాశ్రయం కాదు?",
+            "question": "2.Which one of the following is a popular state in India that produces sugar?(OR)కింది వాటిలో చక్కెరను ఉత్పత్తి చేసే భారతదేశంలో ప్రసిద్ధి చెందిన రాష్ట్రం ఏది?",
             "incorrect_answers": [
-                " Bangalore",
-                "Delhi",
-             " Hyderabad"
+                " Jammu & Kashmir",
+                "Sikkim",
+              "Rajasthan"
             ],
-            "correct_answer": "Ahmedabad"
+            "correct_answer": "maharashtra"
         },
         {
-           "question": "3.The present population of Simla town is?(OR)సిమ్లా పట్టణంలోని ప్రస్తుత జనాభా?",
+           "question": "3.When did India introduce Emigration Act?(OR)భారతదేశం ఎమిగ్రేషన్ చట్టాన్ని ఎప్పుడు ప్రవేశపెట్టింది?",
             "incorrect_answers": [
-                "5 lakhs",
-                "50 thousand",
-              "11/2 lakhs"
+                "1981",
+                "1982",
+              "1984"
             ],
-            "correct_answer": "2 lakhs"
+            "correct_answer": "1983"
         },
         {
-            "question": "4.The airport at Tirupathi is located at(OR)తిరుపతిలో విమానాశ్రయం ఉంది",
+            "question": "4.Identify organised sector.(OR)వ్యవస్థీకృత రంగాన్ని గుర్తించండి",
             "incorrect_answers": [
-                "Mummadivaram(or)ముమ్మడివరం",
-                " Gannavaram(or)గన్నవరం",              
-		"Sriharikota(or)శ్రీహరికోట"
+                "Construction workers(or)నిర్మాణ కార్మికులు",
+                "Hawkers(or)హాకర్స్",              
+		"Painter(or)చిత్రకారుడు"
             ],
-            "correct_answer": "Renigunta(or)రేణిగుంట"
+            "correct_answer": "Police Officer(or)పోలీసు అధికారి"
         },
         {
-            "question": "5.Which one of the following is NOT an aerotropolis(OR)కింది వాటిలో ఏరోట్రోపోలిస్ కాదు?",
+            "question": "5.Which state has recorded more in migrants ?(OR)వలసదారుల సంఖ్య ఎక్కువగా నమోదైన రాష్ట్రం ఏది?",
             "incorrect_answers": [
                 " Hyderabad",
                "Mumbai",
-              "Chennai"
+              "Bihar"
             ],
-            "correct_answer": "Agra"
+            "correct_answer": " Delhi"
         },
-        {
-             "question": "6.A group of houses within the revenue village:?(or)రెవెన్యూ గ్రామ పరిధిలోని ఇళ్ల సమూహం:?",
-              "incorrect_answers": [
-               "Town(or)పట్టణం",
-                "Village(or)గ్రామం", 
-              " City(or)నగరం"
+        { "question": "6.Which state in India has 2nd largest number of NRI’s(Non–Residential Indians)?(OR)భారతదేశంలో 2వ అత్యధిక సంఖ్యలో ఎన్నారైలు (ప్రవాస భారతీయులు) ఉన్న రాష్ట్రం ఏది?",
+            "incorrect_answers": [
+                "Kerala",
+                "Andhra Pradesh",
+             "Delhi"
             ],
-            "correct_answer": "Hamlet(or)హామ్లెట్"
+            "correct_answer": "Punjab"
+          
         }
       
     ]
