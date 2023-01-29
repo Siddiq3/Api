@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.Koina Dam is in …?(OR)కోయినా డ్యామ్ ఉంది…?",
+            "question": "1.Communist Party of China was founded by?(OR)కమ్యూనిస్ట్ పార్టీ ఆఫ్ చైనా స్థాపించబడింది?",
             "incorrect_answers": [
-                "Andhra Pradesh",
-                "Manipur",
-                "Madhya Pradesh"
+                "Ho Chi Minh",
+                " SunYat – sen",
+                "Chiang Kai – shek"
             ],
-            "correct_answer": "Maharashtra"
+            "correct_answer": "Mao Zedong"
         },
         {
-            "question": "2.Which one of the following is a popular state in India that produces sugar?(OR)కింది వాటిలో చక్కెరను ఉత్పత్తి చేసే భారతదేశంలో ప్రసిద్ధి చెందిన రాష్ట్రం ఏది?",
+            "question": "2.In the early 20th century China was ruled by?(OR)20వ శతాబ్దం ప్రారంభంలో చైనాను పాలించారు?",
             "incorrect_answers": [
-                " Jammu & Kashmir",
-                "Sikkim",
-              "Rajasthan"
+                "Hau dynasty",
+                " Ming dynasty",
+              "Chi dynasty"
             ],
-            "correct_answer": "maharashtra"
+            "correct_answer": "Manchu dynasty"
         },
         {
-           "question": "3.When did India introduce Emigration Act?(OR)భారతదేశం ఎమిగ్రేషన్ చట్టాన్ని ఎప్పుడు ప్రవేశపెట్టింది?",
+           "question": "3.The founder of Modern China is?(OR)ఆధునిక చైనా స్థాపకుడు?",
             "incorrect_answers": [
-                "1981",
-                "1982",
-              "1984"
+                "Mao",
+                "Chiang Kai – shek",
+              "Ho Chi Minh"
             ],
-            "correct_answer": "1983"
+            "correct_answer": "Sun Yat – sen"
         },
         {
-            "question": "4.Identify organised sector.(OR)వ్యవస్థీకృత రంగాన్ని గుర్తించండి",
+            "question": "4.Chiang Kaishek was the leader of(OR)చియాంగ్ కైషేక్ నాయకుడు",
             "incorrect_answers": [
-                "Construction workers(or)నిర్మాణ కార్మికులు",
-                "Hawkers(or)హాకర్స్",              
-		"Painter(or)చిత్రకారుడు"
+                " CCP",
+                " Young Annam(or)యంగ్ అన్నం",              
+		"NLF"
             ],
-            "correct_answer": "Police Officer(or)పోలీసు అధికారి"
+            "correct_answer": " Kuomintang(or)కోమింటాంగ్"
         },
         {
-            "question": "5.Which state has recorded more in migrants ?(OR)వలసదారుల సంఖ్య ఎక్కువగా నమోదైన రాష్ట్రం ఏది?",
+            "question": "5.Who overthrew the Bao Dai regime?(OR)బావో డై పాలనను ఎవరు పడగొట్టారు?",
             "incorrect_answers": [
-                " Hyderabad",
-               "Mumbai",
-              "Bihar"
+                "Nguyen Anh(or)న్గుయెన్ అన్హ్",
+               "Phan Boi Chau(or)ఫాన్ బోయ్ చౌ",
+              "SunYat – sen(or)SunYat - సేన్"
             ],
-            "correct_answer": " Delhi"
+            "correct_answer": " Ngo Diem(or)ఎన్గో డైమ్"
         },
-        { "question": "6.Which state in India has 2nd largest number of NRI’s(Non–Residential Indians)?(OR)భారతదేశంలో 2వ అత్యధిక సంఖ్యలో ఎన్నారైలు (ప్రవాస భారతీయులు) ఉన్న రాష్ట్రం ఏది?",
+        { "question": "6.The People’s Republic of China was established in?(OR)పీపుల్స్ రిపబ్లిక్ ఆఫ్ చైనా స్థాపించబడింది?",
             "incorrect_answers": [
-                "Kerala",
-                "Andhra Pradesh",
-             "Delhi"
+                "1947",
+                "1945",
+             "1943"
             ],
-            "correct_answer": "Punjab"
+            "correct_answer": "1949"
           
         }
       
