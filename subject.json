@@ -3,16 +3,16 @@
     "results": [
         {
             "sub1": "TELUGU",
-     "sub2": "SOCIAL-EM",
-            "sub3": "SOCIAL-TM",
-            "sub4": "PS-EM",
-            "sub5": "PS-TM",
-            "sub6": "HINDI",
-            "sub7":"ENGLISH",
-           "sub8":"MATHS-EM",
-           "sub9":"MATHS-TM",
-          "sub10":"NS-EM",
-           "sub11":"NS-TM"
+     "sub2": "HINDI",
+            "sub3": "ENGLISH",
+            "sub4": "MATHS-EM",
+            "sub5": "MATHS-TM",
+            "sub6": "NS-EM,
+            "sub7":"NS-TM",
+           "sub8":"PS-EM",
+           "sub9":"PS-TM",
+          "sub10":"SOCIAL-TM",
+           "sub11":"SOCIAL-EM"
            
             
         }
