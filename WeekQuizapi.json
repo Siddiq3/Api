@@ -1,140 +1,140 @@
 {
     "results": [
        {
-            "question": "1.Which of the following is not a basic function ??",
+            "question": "1.“Xiao Shimin” means(Or)?",
             "incorrect_answers": [
-                "Movement",
-                "Control of hormones",
-                "Co-ordination"
+                " Traders(or)వ్యాపారులు",
+                " Rural labours(or)గ్రామీణ కార్మికులు",
+                "Warlords(or)యుద్దనాయకులు"
             ],
-            "correct_answer": "Balance"
+            "correct_answer": "Petty urbanites(Or)చిన్న పట్టణవాసులు"
         },
         {
-            "question": "2.Nissil’s granules are present in ?",
+            "question": "2.This Chinese leader that wanted the militarization of the nation(Or)ఈ చైనా నాయకుడు దేశం యొక్క సైనికీకరణను కోరుకున్నాడు?",
             "incorrect_answers": [
-                "Eosinophils",
-                "Neutrophils",
-              "Lymphocytes"
+                " Mao Zedong",
+                "Sun Yat – sen",
+              "Manchu dynasty"
             ],
-            "correct_answer": " Cyton "
+            "correct_answer": "Chiang Kai – shek"
         },
         {
-            "question": "3.Which is not found in non – myelinated neurons ?",
+            "question": "3.Sun Yat-sen programme was called(or)సన్ యాట్-సేన్ ప్రోగ్రామ్‌ను పిలిచారు?",
             "incorrect_answers": [
-                "Cyton",
-                "Synapse",
-                "Dendrite"
+                "May fourth(OR)మే నాల్గవది",
+                "Four great needs(OR)నాలుగు గొప్ప అవసరాలు",
+                " Equalising land(OR)భూమిని సమం చేయడం"
                 
             ],
-            "correct_answer": " Axon"
+            "correct_answer": "Three principles(OR)మూడు సూత్రాల"
         },
         {
-            "question": "4.The longest structure in neuron is",
-            "incorrect_answers": [
-                "Cyton",
-                " Dendrites",
-                "Nerve"
+            "question": "4.Who formed the Kuomintang ?(OR)కౌమింటాంగ్‌ను ఎవరు ఏర్పాటు చేశారు?",
+           "incorrect_answers": [
+                "Nguyen Anh(or)న్గుయెన్ అన్హ్",
+               "Phan Boi Chau(or)ఫాన్ బోయ్ చౌ",
+              "Ngo Diem(or)ఎన్గో డైమ్"
             ],
-            "correct_answer": "Axon"
+            "correct_answer": "SunYat – sen(or)SunYat - సేన్ "
         },
         {
-            "question": "5.‘Nervous system starts from …………………. part.",
+            "question": "5.Long March was held in (OR)లో లాంగ్ మార్చ్ నిర్వహించారు",
             "incorrect_answers": [
-                "A. Brain",
-                "B.Spinal cord",
-                "C.Heart"
+                "1924 – 1925",
+                "1914 – 1915",
+                "1944 – 1945"
             ],
-            "correct_answer": "A and B"
+            "correct_answer": " 1934 – 1935"
         },
         {
-            "question": "6.Choose the correct order for nervous control (June 2017 )",
+            "question": "6.Unification of Vietnam took place in the year:(OR)వియత్నాం ఏకీకరణ సంవత్సరంలో జరిగింది:",
             "incorrect_answers": [
-                "Response, Stimuli",
-                "Hearihg, Stimuli",
-                "Stimuli, Order of brain"
+                "1974",
+                "1964",
+                "1965"
             ],
-            "correct_answer": ".Stimuli, Response"
+            "correct_answer": "1975"
         },
         {
-            "question": "7.The value of “least distance of distinct vision” at old age  (March 2017)?",
+            "question": "7.Which country invaded Vietnam in 1940?(OR)1940లో వియత్నాంపై దాడి చేసిన దేశం ఏది?",
             "incorrect_answers": [
-                "25 cm",
-                "infinity",
-                "7 to 8 cm."
+                "England",
+                "U.S.A",
+                "Korea"
             ],
-            "correct_answer": "1 to 2 m"
+            "correct_answer": "Japan"
         },
         {
-            "question": "8.The angle of vision for a healthy human being is. (S.A. I – 2018-19)",
+            "question": "8.Nigeria became independent on 1st October(OR)అక్టోబర్ 1న నైజీరియా స్వతంత్రమైంది",
             "incorrect_answers": [
-                "80°",
-                "70°",
-                "180°"
+                "1964",
+                "1965",
+                "1966"
             ],
-            "correct_answer": "60°"
+            "correct_answer": "1963"
         },
         {
-            "question": "9.Name the front part of the eye. (S.A. I – 2018-19)",
+            "question": "9.When did Japan occupy Vietnam ?(OR)జపాన్ ఎప్పుడు వియత్నాంను ఆక్రమించింది?",
             "incorrect_answers": [
-                "iris",
-                " aqueous humour",
-                "pupil"
+                "1920",
+                "1930",
+                "1949"
             ],
-            "correct_answer":  "cornea1"
+            "correct_answer":  "1940"
         },
         {
-            "question": "10.Name the coloured part that we see in an eye(June 2018)",
+            "question": "10.The French troops landed in Vietnam in(OR)ఫ్రెంచ్ దళాలు వియత్నాంలో అడుగుపెట్టాయి",
             "incorrect_answers": [
-                "cornea",
-                " ciliary muscles.",
-                "pupil."
+                "1888",
+                "1880",
+                "1895"
             ],
-            "correct_answer": " iris"
+            "correct_answer": "1885"
         },
         {
-            "question": "11.The distance between the eye lens and retina is. (March 2011)",
+            "question": "11.The person who played a key role in Pan Africanism.(OR)పాన్ ఆఫ్రికనిజంలో కీలక పాత్ర పోషించిన వ్యక్తి.",
             "incorrect_answers": [
-                " 2.25 cm.",
-                " 2.27 cm",
-                "5 cm"
+                "Nnamdi Azikiwe(OR)న్నమ్ది అజికివే",
+                "Macaulay(OR)మెకాలే",
+                "Nelson Mandela(OR)నెల్సన్ మండేలా"
             ],
-            "correct_answer": " 2.5 cm."
+            "correct_answer": "Kwame Nkrumah(OR)క్వామే న్క్రుమః"
         },
         {
-            "question": "12. The range of focal length of an eye lens is (S.I. I – 2018-19)",
+            "question": "12.Communist Party of China was founded by?(OR)కమ్యూనిస్ట్ పార్టీ ఆఫ్ చైనా స్థాపించబడింది?",
             "incorrect_answers": [
-                "0 to ∝",
-                "  2.25 to 2.50 cm",
-                "0 to 25"
+                "Ho Chi Minh",
+                " SunYat – sen",
+                "Chiang Kai – shek"
             ],
-            "correct_answer": " 2.27 to 2.50 cm"
+            "correct_answer": "Mao Zedong"
         },
         {
-            "question": "13. The part of the eye sensitive to light is",
+            "question": "13.In the early 20th century China was ruled by?(OR)20వ శతాబ్దం ప్రారంభంలో చైనాను పాలించారు?",
             "incorrect_answers": [
-                "pupil",
-                "ciliary muscles",
-                "cornea"
+                "Hau dynasty",
+                " Ming dynasty",
+              "Chi dynasty"
             ],
-            "correct_answer": "retina"
+            "correct_answer": "Manchu dynasty"
         },
         {
-            "question": "14.Which part of human eye is called “Variable aperture”?. (June 2018)",
+           "question": "14.The founder of Modern China is?(OR)ఆధునిక చైనా స్థాపకుడు?",
             "incorrect_answers": [
-                "retina",
-                "cornea",
-                "lens"
+                "Mao",
+                "Chiang Kai – shek",
+              "Ho Chi Minh"
             ],
-            "correct_answer": "pupil"
+            "correct_answer": "Sun Yat – sen"
         },
         {
-            "question": "15. The maximum focal length of the myopia eye is  (June 2017)",
+            "question": "15.Chiang Kaishek was the leader of(OR)చియాంగ్ కైషేక్ నాయకుడు",
             "incorrect_answers": [
-                " 2.5 cm",
-                "more than 2.5 cm",
-                "22.7 cm"
+                " CCP",
+                " Young Annam(or)యంగ్ అన్నం",              
+		"NLF"
             ],
-            "correct_answer": "less than 2.5 cm"
+            "correct_answer": " Kuomintang(or)కోమింటాంగ్"
         }
     ]
 }
