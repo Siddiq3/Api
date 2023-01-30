@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.Communist Party of China was founded by?(OR)కమ్యూనిస్ట్ పార్టీ ఆఫ్ చైనా స్థాపించబడింది?",
+            "question": "1. A person or thing that cannot be corrected(one-word substitutes for the followinh)?",
             "incorrect_answers": [
-                "Ho Chi Minh",
-                " SunYat – sen",
-                "Chiang Kai – shek"
+                " unintelligible",
+                "Indelible",
+                " illegible"
             ],
-            "correct_answer": "Mao Zedong"
+            "correct_answer": " incorrigible"
         },
         {
-            "question": "2.In the early 20th century China was ruled by?(OR)20వ శతాబ్దం ప్రారంభంలో చైనాను పాలించారు?",
+            "question": "2.A persoiì of good understanding. knowledge and reasoning power is called?",
             "incorrect_answers": [
-                "Hau dynasty",
-                " Ming dynasty",
-              "Chi dynasty"
+                "expert",
+                " snob",
+              "literate"
             ],
-            "correct_answer": "Manchu dynasty"
+            "correct_answer": " intellectual"
         },
         {
-           "question": "3.The founder of Modern China is?(OR)ఆధునిక చైనా స్థాపకుడు?",
+           "question": "3.. A person who knows many languages?",
             "incorrect_answers": [
-                "Mao",
-                "Chiang Kai – shek",
-              "Ho Chi Minh"
+                "linguist",
+                "grammarian",
+              "polyglot"
             ],
-            "correct_answer": "Sun Yat – sen"
+            "correct_answer": "bilingual"
         },
         {
-            "question": "4.Chiang Kaishek was the leader of(OR)చియాంగ్ కైషేక్ నాయకుడు",
+            "question": "4.One who possesses many talents",
             "incorrect_answers": [
-                " CCP",
-                " Young Annam(or)యంగ్ అన్నం",              
-		"NLF"
+                "prodigy",
+                "exceptional",              
+		"gifted"
             ],
-            "correct_answer": " Kuomintang(or)కోమింటాంగ్"
+            "correct_answer": "versatile"
         },
         {
-            "question": "5.Who overthrew the Bao Dai regime?(OR)బావో డై పాలనను ఎవరు పడగొట్టారు?",
+            "question": "5.Words inscribed on a tomb?",
             "incorrect_answers": [
-                "Nguyen Anh(or)న్గుయెన్ అన్హ్",
-               "Phan Boi Chau(or)ఫాన్ బోయ్ చౌ",
-              "SunYat – sen(or)SunYat - సేన్"
+                "epitome",
+               "epistle",
+              "epilogue"
             ],
-            "correct_answer": " Ngo Diem(or)ఎన్గో డైమ్"
+            "correct_answer": "epitaph"
         },
-        { "question": "6.The People’s Republic of China was established in?(OR)పీపుల్స్ రిపబ్లిక్ ఆఫ్ చైనా స్థాపించబడింది?",
+        { "question": "6.cheating somebody for property or money?",
             "incorrect_answers": [
-                "1947",
-                "1945",
-             "1943"
+                "reluctantly",
+                "prodigy",
+             "epilogue"
             ],
-            "correct_answer": "1949"
+            "correct_answer": "swindling "
           
         }
       
