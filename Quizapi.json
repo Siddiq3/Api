@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1. A person or thing that cannot be corrected(one-word substitutes for the following?",
+            "question": "1.All last winter Sharath suffered ________ conghs and colds?",
             "incorrect_answers": [
-                " unintelligible",
-                "Indelible",
-                " illegible"
+                "to",
+                "with",
+                "of"
             ],
-            "correct_answer": " incorrigible"
+            "correct_answer": "from"
         },
         {
-            "question": "2.A persoiì of good understanding. knowledge and reasoning power is called?",
+            "question": "2.Anand is unaccustomed _________ the heat.?",
             "incorrect_answers": [
-                "expert",
-                " snob",
-              "literate"
+                "from",
+                "with",
+                "of"
             ],
-            "correct_answer": " intellectual"
+            "correct_answer": "to"
         },
         {
-           "question": "3.. A person who knows many languages?",
+           "question": "3 Kumar was afraid _________ his enemies.?",
             "incorrect_answers": [
-                "linguist",
-                "grammarian",
-              "polyglot"
+                "from",
+                "with",
+                "off"
             ],
-            "correct_answer": "bilingual"
+            "correct_answer": "of"
         },
         {
-            "question": "4.One who possesses many talents",
+            "question": "4.Sriram was always arguing ________ his brother.",
             "incorrect_answers": [
-                "prodigy",
-                "exceptional",              
-		"gifted"
+                "from",
+                "with",
+                "off"
             ],
-            "correct_answer": "versatile"
+            "correct_answer": "with"
         },
         {
-            "question": "5.Words inscribed on a tomb?",
-            "incorrect_answers": [
-                "epitome",
-               "epistle",
-              "epilogue"
+            "question": "5.Sindhu was dedicated _______ her job.?",
+           "incorrect_answers": [
+                "from",
+                "with",
+                "of"
             ],
-            "correct_answer": "epitaph"
+            "correct_answer": "to"
         },
-        { "question": "6.cheating somebody for property or money?",
-            "incorrect_answers": [
-                "reluctantly",
-                "prodigy",
-             "epilogue"
+        { "question": "6. I was terrified ________ her.?",
+             "incorrect_answers": [
+                "from",
+                "with",
+                "off"
             ],
-            "correct_answer": "swindling "
+            "correct_answer": "of"
           
         }
       
