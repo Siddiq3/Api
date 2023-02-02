@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.All last winter Sharath suffered ________ conghs and colds?",
+            "question": "1. పద్యములోని మొదటి అక్షరమును ఏమంటామో గుర్తించండి?",
             "incorrect_answers": [
-                "to",
-                "with",
-                "of"
+                "ప్రాస",
+                "పాదం",
+                " పదం"
             ],
-            "correct_answer": "from"
+            "correct_answer": "యతి"
         },
         {
-            "question": "2.Anand is unaccustomed _________ the heat.?",
+            "question": "2. మాయింటికిం గుడువ రమ్ము ! (ఆధునిక వచన వాక్యాన్ని గుర్తించండి.) (June 2017)?",
             "incorrect_answers": [
-                "from",
-                "with",
-                "of"
+                "మాయింటికి భోజనానికి రావద్దు",
+                "మాయింటిలో అన్నం వండేందుకు రా",
+                "మాయింటికి భోజనానికి రాబోకుమా"
             ],
-            "correct_answer": "to"
+            "correct_answer": "మాయింటికి భోజనానికి రా !"
         },
         {
-           "question": "3 Kumar was afraid _________ his enemies.?",
+           "question": "3.ఏ పాపాత్ముని ముఖంబు నీక్షించితినో – ఈ వాక్యానికి ఆధునిక వచనాన్ని గుర్తించండి. (March 2017)",
             "incorrect_answers": [
-                "from",
-                "with",
-                "off"
+                " ఏ పాపాత్ముని చూసానో నేను",
+                " ఏ పాపాత్ముని ముఖాన్ని చూడలేదు", 
+                "ఏ పాపాత్ముని చూడలేదు నేను"
             ],
-            "correct_answer": "of"
+            "correct_answer": "ఏ పాపాత్ముని ముఖాన్ని చూసానో"
         },
         {
-            "question": "4.Sriram was always arguing ________ his brother.",
+            "question": "4. ‘స్వభావం చేతనే ఐశ్వర్యం గలవాడు” అను వ్యుత్పత్యర్ధము గల్గిన పదమును గుర్తించుము. (March 2018)",
             "incorrect_answers": [
-                "from",
-                "with",
-                "off"
+                "భాగ్యశాలి",
+                " సంపన్నుడు",
+                " ధనికుడు"
             ],
-            "correct_answer": "with"
+            "correct_answer": "ఈశ్వరుడు"
         },
         {
-            "question": "5.Sindhu was dedicated _______ her job.?",
+            "question": "5.సామాన్యాన్ని విశేషంతో గానీ, విశేషాన్ని సామాన్యంతో గాని సమర్థించి చెప్పే అలంకారం గుర్తించండి. (June 2018)",
            "incorrect_answers": [
-                "from",
-                "with",
-                "of"
+                " శ్లేష",
+                "ఉత్ప్రేక్ష",
+                "రూపకము"
             ],
-            "correct_answer": "to"
+            "correct_answer": "అర్థాంతరన్యాసము"
         },
-        { "question": "6. I was terrified ________ her.?",
+        { "question": "6.మునివర ! నీవు శిష్యగణముంగొని చయ్యన రమ్మువిశ్వనా – ఇది ఏ పద్యపాదమో గుర్తించండి. (June 2017)?",
              "incorrect_answers": [
-                "from",
-                "with",
-                "off"
+                " మత్తేభం",
+                "ఉత్పలమాల",
+                "శార్దూలం"
             ],
-            "correct_answer": "of"
+            "correct_answer": "చంపకమాల"
           
         }
       
