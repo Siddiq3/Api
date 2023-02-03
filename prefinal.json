@@ -2,15 +2,15 @@
 {
     "results": [
         {
-            "Tpf": "TELUGU",
-     "Hpf": "HINDI",
-            "Epf": "ENGLISH",
-            "Mtpf": "MATHS-EM",
-            "Mepf": "MATHS-TM",
+            "Tpf": "https://drive.google.com/file/d/1HhCODYQ6M8i6xLPhmljvc12NkB9uwcbp/view?usp=share_link",
+     "Hpf": "https://drive.google.com/file/d/1A926yMGG2hEO2cUh7Vpp5OU0f4dyPjcT/view?usp=share_link",
+            "Epf": "https://drive.google.com/file/d/1iP1V_mzf01BW1Il7LHH6HIrkHsN8Dot2/view?usp=share_link",
+            "Mtpf": "https://drive.google.com/file/d/17eqZ6xrF95M49QKEvJp0YqhJpipah9q9/view?usp=share_link",
+            "Mepf": "https://drive.google.com/file/d/1Wx56cZP2rPiSfSsGmezsOWodcGW1jsNr/view?usp=share_link",
             "Stpf": "NS-EM",
             "Sepf":"NS-TM",
-           "Ssepf":"PS-EM",
-           "Sstpf":"PS-TM"
+           "Ssepf":"https://drive.google.com/file/d/1u85J2EbRz8tulyF4ANqlhH8evHNCvmWh/view?usp=share_link",
+           "Sstpf":"https://drive.google.com/file/d/1FKD8APXU5DHdxYgwVTYl7RVwP0tHQ6I7/view?usp=share_link"
            
             
         }
