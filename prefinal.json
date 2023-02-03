@@ -1,1 +1,18 @@
 
+{
+    "results": [
+        {
+            "Tpf": "TELUGU",
+     "Hpf": "HINDI",
+            "Epf": "ENGLISH",
+            "Mtpf": "MATHS-EM",
+            "Mepf": "MATHS-TM",
+            "Stpf": "NS-EM",
+            "Sepf":"NS-TM",
+           "Ssepf":"PS-EM",
+           "Sstpf":"PS-TM"
+           
+            
+        }
+    ]
+}
