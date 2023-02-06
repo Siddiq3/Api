@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.నగారా మోగిందా, నయాగరా దుమికిందా’ ఈ వాక్యంలో అలంకారాన్ని గుర్తించండి. ?",
+            "question": "1.The alloy of copper and tin is(OR)రాగి మరియు తగరం యొక్క మిశ్రమం?",
             "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " యమకముు"
+                " Brass(OR)ఇత్తడి",
+                " Steel(OR)ఉక్కు",
+                " Stainless steel(OR)స్టెయిన్లెస్ స్టీల్"
             ],
-            "correct_answer": " అంత్యానుప్రాస"
+            "correct_answer": " Bronze(OR)కంచు"
         },
         {
-            "question": "2.‘హరిభజియించు హస్తములు హస్తములు’ ఈ వాక్యంలో గల అలంకారాన్ని గుర్తించండి?",
+            "question": "2.The metals which are available in native form are(OR)స్థానిక రూపంలో లభించే లోహాలు?",
           "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " యమకముు"
+                " Au",
+                " Ag",
+                " Cu"
             ],
-            "correct_answer": "లాటానుప్రాస"
+            "correct_answer": " All of these"
         },
         {
-           "question": "3.‘ఆ తోరణం శత్రువులతో రణానికి కారణమైంది’ ఈ వాక్యంలో గల అలంకారం గుర్తించండి?",
+           "question": "3.The ore of aluminium is(OR)అల్యూమినియం యొక్క ధాతువు?",
             "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " శ్లేష"
+                "Clay(OR)మట్టి",
+                " Horn silver(OR)కొమ్ము వెండి",
+                "Haematite(OR)హెమటైట్"
             ],
-            "correct_answer": "యమకముు"
+            "correct_answer": "Bauxite(OR)బాక్సైట్"
         },
         {
-            "question": "4.‘హనుమంతుడు సముద్రాన్ని దాటాడు.మహాత్ములకు సాధ్యము కానిది లోకమున లేదుకదా’ ఈ వాక్యాలలో అలంకారం గుర్తించండి.?",
+            "question": "4.Find the odd one out based on reactivity.(OR)రియాక్టివిటీ ఆధారంగా బేసిని కనుగొనండి.?",
             "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " శ్లేష"
+                " K",
+                "Na",
+                "Ca"
             ],
-            "correct_answer": "అర్ధాంతరన్యాస"
+            "correct_answer": "Au"
         },
         {
-            "question": "5.‘మా పొలంలో బంగారం పండింది’ ఈ వాక్యంలో అలంకారాన్ని గుర్తించండి.",
+            "question": "5.Carnalite is the ore of(OR)కార్నలైట్ అనేది ధాతువు.",
            "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " శ్లేష"
+                " Pb",
+                "Hg",
+                "Zn"
             ],
-            "correct_answer": "అతిశయోక్తి"
+            "correct_answer": "Mg"
         },
-        { "question": "6.‘కుముదినీ రాగ రసబద్ద గుళిక యనగ చంద్రుడు దయించె’ ఈ వాక్యంలో ఉన్న అలంకారాన్ని గుర్తించండి",
-            "incorrect_answers": [
-                "వృత్త్యనుప్రాస",
-                "ఛేకానుప్రాస",
-                " శ్లేష"
+        { "question": "6.The metal extracted from Gelena is(or)గెలీనా..... నుండి సేకరించిన లోహం",
+             "incorrect_answers": [
+                "Mg",
+                "Hg",
+                "Zn"
             ],
-            "correct_answer": "ఉత్ప్రేక్ష"
+            "correct_answer": "Pb"
           
         }
       
