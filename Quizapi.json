@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.పుణ్యవాసము = పుణ్య + ఆవాసము =",
+            "question": "1.The share of agriculture in GDP in US is(OR)USలో GDPలో వ్యవసాయం వాటా",
             "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                "5 PERCENT",
+                "2 PERCENT",
+                "3 PERCENT"
             ],
-            "correct_answer": "సవర్ణదీర్ఘ సంధి"
+            "correct_answer": "1 PERCENT"
         },
         {
-            "question": "2.దుశ్చేష్టితము = దుస్ + చేష్టితము =?",
+            "question": "2.W.T.O. means(అర్థం)",
          "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                " World Tourism Organisation.",
+                "World Tobacco Organisation.",
+                " World Teacher Organisation."
             ],
-            "correct_answer": "శ్చుత్వ సంధి"
+            "correct_answer": "World Trade Organisation."
         },
         {
-           "question": "3. దురభిమానం = దుః + అభిమానం =?",
+           "question": "3.SEZ stands for(అంటే)",
             "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                "Special Environmental Zone",
+                " Socially Economic Zone",
+                " Special Electricity Zone"
             ],
-            "correct_answer": "విసర్గ సంధి"
+            "correct_answer": "Special Economic Zone"
         },
         {
-            "question": "4. జగన్నాథుడు = జగత్ + నాథుడు =?",
+            "question": "4.WTO headquarters is in(OR)WTO ప్రధాన కార్యాలయం ఉంది",
            "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                " New York(OR)న్యూయార్క్",
+              "London(OR)లండన్",
+                "Hague(OR)హేగ్"
             ],
-            "correct_answer": "అనునాసిక సంధి"
+            "correct_answer": "Geneva(OR)జెనీవా"
         },
         {
-            "question": "5.గుణౌద్ధత్యం = గుణ + ఔద్ధత్యం =",
+            "question": "5.In the year 2015 the number of member countries in W.T.O are (OR)2015 సంవత్సరంలో W.T.Oలోని సభ్య దేశాల సంఖ్య",
           "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                "152",
+                "162",
+                "169"
             ],
-            "correct_answer": "వృద్ధి సంధి"
+            "correct_answer": "159"
         },
-        { "question": "6. మదోన్మాదము = మద + ఉన్మాదము =",
+        { "question": "6.When was economic reform(Privatisation)appeared in India(OR)భారతదేశంలో ఆర్థిక సంస్కరణ(ప్రైవేటీకరణ)ఎప్పుడు కనిపించింది?",
              "incorrect_answers": [
-                "విసర్గ సంధి",
-                "యణాదేశ సంధి",
-                "గుణ సంధి"
+                "2005",
+                "2008",
+                "1989"
             ],
-            "correct_answer": "గుణ సంధి"
+            "correct_answer": "1991"
           
         }
       
