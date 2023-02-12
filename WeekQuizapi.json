@@ -1,140 +1,142 @@
 {
     "results": [
        {
-            "question": "1.“Xiao Shimin” means?",
+            "question": "1.అవ్యయీభావ సమాసానికి ఉదాహరణను గుర్తించుము. (March 2017)",
             "incorrect_answers": [
-                " Traders(or)వ్యాపారులు",
-                " Rural labours(or)గ్రామీణ కార్మికులు",
-                "Warlords(or)యుద్దనాయకులు"
+                "సేవావృత్తి",
+                "మృదుమధురం",
+                " పదాబ్దములు"
             ],
-            "correct_answer": "Petty urbanites(Or)చిన్న పట్టణవాసులు"
+            "correct_answer": "అనుకూలం"
         },
         {
-            "question": "2.This Chinese leader that wanted the militarization of the nation(Or)ఈ చైనా నాయకుడు దేశం యొక్క సైనికీకరణను కోరుకున్నాడు?",
+            "question": "2.క్రింది వానిలో సంభావన పూర్వపద కర్మధారయ సమాసానికి సరియైన ఉదాహరణ గుర్తించండి. (June 2018)?",
             "incorrect_answers": [
-                " Mao Zedong",
-                "Sun Yat – sen",
-              "Manchu dynasty"
+                "రామబాణం",
+                "తల్లిదండ్రులు",
+              "మూడు రోజులు"
             ],
-            "correct_answer": "Chiang Kai – shek"
+            "correct_answer": "గంగానది"
         },
         {
-            "question": "3.Sun Yat-sen programme was called(or)సన్ యాట్-సేన్ ప్రోగ్రామ్‌ను పిలిచారు?",
+            "question": "3.ఆహా ! ఎంత బాగుందీ ! (ఏ వాక్యమో గుర్తించండి.) (June 2017)?",
             "incorrect_answers": [
-                "May fourth(OR)మే నాల్గవది",
-                "Four great needs(OR)నాలుగు గొప్ప అవసరాలు",
-                " Equalising land(OR)భూమిని సమం చేయడం"
+                "విధ్యర్థకం",
+                "ప్రేరణార్థకం",
+                "సందేహార్ధకం"
                 
             ],
-            "correct_answer": "Three principles(OR)మూడు సూత్రాల"
+            "correct_answer": "ఆశ్చర్యార్థకం"
         },
         {
-            "question": "4.Who formed the Kuomintang ?(OR)కౌమింటాంగ్‌ను ఎవరు ఏర్పాటు చేశారు?",
+            "question": "4.రమేష్ బడికి వస్తాడో, రాడో. (ఏ వాక్యమో గుర్తించండి.) (June 2017)?",
            "incorrect_answers": [
-                "Nguyen Anh(or)న్గుయెన్ అన్హ్",
-               "Phan Boi Chau(or)ఫాన్ బోయ్ చౌ",
-              "Ngo Diem(or)ఎన్గో డైమ్"
+                "విధ్యర్థకం",
+                "ప్రేరణార్థకం",
+                "ప్రార్థనార్థకం"
+                
             ],
-            "correct_answer": "SunYat – sen(or)SunYat - సేన్ "
+            "correct_answer": "సందేహార్థకం"
         },
         {
-            "question": "5.Long March was held in (OR)లో లాంగ్ మార్చ్ నిర్వహించారు",
+            "question": "5.సోముడు అడవికి వెళ్ళి, కట్టెలు తెచ్చాడు – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)",
             "incorrect_answers": [
-                "1924 – 1925",
-                "1914 – 1915",
-                "1944 – 1945"
+                "సంయుక్తం",
+                "ప్రశ్నార్థకం",
+                "ఆశ్చర్యార్థక"
             ],
-            "correct_answer": " 1934 – 1935"
+            "correct_answer":  "సంక్లిష్టం"
         },
         {
-            "question": "6.Unification of Vietnam took place in the year:(OR)వియత్నాం ఏకీకరణ సంవత్సరంలో జరిగింది:",
-            "incorrect_answers": [
-                "1974",
-                "1964",
-                "1965"
+            "question": "6. ‘ఆకాశం నీలంగా ఉంటుంది’ – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)",
+             "incorrect_answers": [
+                "సంయుక్తం",
+                "ప్రశ్నార్థకం",
+                "ఆశ్చర్యార్థక"
             ],
-            "correct_answer": "1975"
+            "correct_answer":  "సామాన్యం"
         },
         {
-            "question": "7.Which country invaded Vietnam in 1940?(OR)1940లో వియత్నాంపై దాడి చేసిన దేశం ఏది?",
+            "question": "7.“నీవు శాస్త్రవేత్తవు కాగలవు” – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)?",
             "incorrect_answers": [
-                "England",
-                "U.S.A",
-                "Korea"
+                "సంయుక్తం",
+                "ప్రశ్నార్థకం",
+                "ఆశ్చర్యార్థక"
             ],
-            "correct_answer": "Japan"
+            "correct_answer":  "సామర్థ్యార్థకం"
         },
         {
-            "question": "8.Nigeria became independent on 1st October(OR)అక్టోబర్ 1న నైజీరియా స్వతంత్రమైంది",
-            "incorrect_answers": [
-                "1964",
-                "1965",
-                "1966"
+            "question": "8. ‘ఆహా’ ఎంత రుచిగా ఉందో ! – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)",
+          "incorrect_answers": [
+                "విధ్యర్థకం",
+                "ప్రేరణార్థకం",
+                "సందేహార్ధకం"
+                
             ],
-            "correct_answer": "1963"
+            "correct_answer": "ఆశ్చర్యార్థకం"
         },
         {
-            "question": "9.When did Japan occupy Vietnam ?(OR)జపాన్ ఎప్పుడు వియత్నాంను ఆక్రమించింది?",
-            "incorrect_answers": [
-                "1920",
-                "1930",
-                "1949"
+            "question": "9.“మీరంతా పాఠం చదవండి” – ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)?",
+           "incorrect_answers": [
+                "సంయుక్తం",
+                "ప్రశ్నార్థకం",
+                "ఆశ్చర్యార్థక"
             ],
-            "correct_answer":  "1940"
+            "correct_answer":  "విధ్యర్థకం"
         },
         {
-            "question": "10.The French troops landed in Vietnam in(OR)ఫ్రెంచ్ దళాలు వియత్నాంలో అడుగుపెట్టాయి",
+            "question": "10.‘తిండి కలిగితే కండ గలదు’ – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (March 2017)",
             "incorrect_answers": [
-                "1888",
-                "1880",
-                "1895"
+                "సంయుక్తం",
+                "ప్రశ్నార్థకం",
+                "ఆశ్చర్యార్థక"
             ],
-            "correct_answer": "1885"
+            "correct_answer":  " చేదర్థకం"
         },
         {
-            "question": "11.The person who played a key role in Pan Africanism.(OR)పాన్ ఆఫ్రికనిజంలో కీలక పాత్ర పోషించిన వ్యక్తి.",
+            "question": "11. విమల టి.వి. చూస్తూ నృత్యం చేస్తున్నది – ఏ రకమైన వాక్యమో గుర్తించండి. (June 2018).",
             "incorrect_answers": [
-                "Nnamdi Azikiwe(OR)న్నమ్ది అజికివే",
-                "Macaulay(OR)మెకాలే",
-                "Nelson Mandela(OR)నెల్సన్ మండేలా"
+                "అప్యర్థక వాక్యం",
+                "సంయుక్త వాక్యం",
+              "చేదర్థక వాక్యం"
             ],
-            "correct_answer": "Kwame Nkrumah(OR)క్వామే న్క్రుమః"
+            "correct_answer": "శత్రర్థక వాక్యం"
         },
         {
-            "question": "12.Communist Party of China was founded by?(OR)కమ్యూనిస్ట్ పార్టీ ఆఫ్ చైనా స్థాపించబడింది?",
+            "question": "12.రవి లెక్కలు బాగా చేయగలడు – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (June 2018)?",
             "incorrect_answers": [
-                "Ho Chi Minh",
-                " SunYat – sen",
-                "Chiang Kai – shek"
+                "సంభావనార్థకం",
+                "ఆశ్చర్యార్థకం",
+                "ఆశీరర్థకం"
             ],
-            "correct_answer": "Mao Zedong"
+            "correct_answer": " సామర్థ్యార్థకం"
         },
         {
-            "question": "13.In the early 20th century China was ruled by?(OR)20వ శతాబ్దం ప్రారంభంలో చైనాను పాలించారు?",
+            "question": "13.నేను తప్పక వస్తాను – ఇది ఏ రకమైన వాక్యమో గుర్తించండి. (June 2018)?",
             "incorrect_answers": [
-                "Hau dynasty",
-                " Ming dynasty",
-              "Chi dynasty"
+                "అనుమత్యకం",
+                " విధ్యర్థకం",
+              "నిషేధకం"
             ],
-            "correct_answer": "Manchu dynasty"
+            "correct_answer": "నిశ్చయార్థక వాక్యం"
         },
         {
-           "question": "14.The founder of Modern China is?(OR)ఆధునిక చైనా స్థాపకుడు?",
+           "question": "14. సీత ఆటలు ఆడి అన్నం తిన్నది – ఇది ఏ రకమైన వాక్యమో గుర్తించండి.?",
             "incorrect_answers": [
-                "Mao",
-                "Chiang Kai – shek",
-              "Ho Chi Minh"
+                "అభ్యర్థకము",
+                "విధ్యర్థకము",
+              "చేదర్థకము"
             ],
-            "correct_answer": "Sun Yat – sen"
+            "correct_answer": "క్వార్థకము"
         },
         {
-            "question": "15.Chiang Kaishek was the leader of(OR)చియాంగ్ కైషేక్ నాయకుడు",
+            "question": "15.ప్రతి పనికి లాభం ఉంటుంది – దీనికి వ్యతిరేకార్థక వాక్యాన్ని గుర్తించండి. (March 2017)",
             "incorrect_answers": [
-                " CCP",
-                " Young Annam(or)యంగ్ అన్నం",              
-		"NLF"
+                " ప్రతి పనికి లాభం ఉంటుందా?",
+                " ప్రతి పనిలో లాభం ఉంటుంది.",              
+		"ప్రతి పనికి లాభం ఉండే ఉంటుంది."
             ],
-            "correct_answer": " Kuomintang(or)కోమింటాంగ్"
+            "correct_answer": "ప్రతి పనికి లాభం ఉండదు."
         }
     ]
 }
