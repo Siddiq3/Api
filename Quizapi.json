@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.The formula of Gelena is(OR)గెలీనా సూత్రం",
+            "question": "1.If P(E) = 0.09, then P (not E) in percentage is(OR)P(E) = 0.09 అయితే, P (E కాదు) శాతం",
             "incorrect_answers": [
-                "ZnS",
-                "MnO2",
-                "CaC03"
+                "9.1 percentage",
+                "0.91 percentage",
+                "0.091 percentage"
             ],
-            "correct_answer": " PbS"
+            "correct_answer": " 91 percentage"
         },
         {
-            "question": "2.The reactivity of metals Al, Ag and Cu decrease in this order.(OR)ఈ క్రమంలో Al, Ag మరియు Cu లోహాల క్రియాశీలత తగ్గుతుంది.",
+            "question": "2.Which of the following cannot be the probability of an event?(OR)కింది వాటిలో ఏది ఈవెంట్ యొక్క సంభావ్యత కాకూడదు?.",
          "incorrect_answers": [
-                "Ag > Cu > Al",
-                "Ag > Al> Cu",
-                " Cu > Ag > Al"
+                " 0.2",
+                "2/5",
+                "0.72"
             ],
-            "correct_answer": "AZ > Cu > Ag"
+            "correct_answer": "1.3¯"
         },
         {
-           "question": "3.Which of the following is a carbonate ore ?(OR)కింది వాటిలో కార్బోనేట్ ఖనిజం ఏది?",
+           "question": "3.Probability of getting 7, when a dice is rolled, is?(OR)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
             "incorrect_answers": [
-                "Bauxite",
-                " Gypsum",
-                "Galena"
+                " 1/6",
+                "1/7",
+                "6/7"
             ],
-            "correct_answer": "Magnesite"
+            "correct_answer": "0"
         },
         {
-            "question": "4.Cinnabar is an ore of?(OR)సిన్నబార్ ఒక ఖనిజం?",
+            "question": "4.Probability of impossible event is?(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
            "incorrect_answers": [
-                " Zn",
-              " Pb",
-                " Al"
+                "1",
+              "1.0",
+                "0.5"
             ],
-            "correct_answer": "Hg"
+            "correct_answer": "0"
         },
         {
-            "question": "5.The metal that occur in native form is(OR)స్థానిక రూపంలో సంభవించే లోహం",
+            "question": "5.Probability of sure event is(OR)ఖచ్చితంగా ఈవెంట్ యొక్క సంభావ్యత",
           "incorrect_answers": [
-                " Zn",
-              " Pb",
-                " Al"
+                "0",
+              "2",
+                "-1"
             ],
-            "correct_answer": "Au"
+            "correct_answer": "+1"
         },
-        { "question": "6.The reducing agent in thermite process is(OR)థర్మైట్ ప్రక్రియలో తగ్గించే ఏజెంట్?",
+        { "question": "6.The probability that year 2016 to have 53 Mondays is(OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
              "incorrect_answers": [
-                " Zn",
-              " Pb",
-                " Au"
+                "1/7",
+              "1/8",
+                "6/7"
             ],
-            "correct_answer": "Al"
+            "correct_answer": "2/7"
           
         }
       
