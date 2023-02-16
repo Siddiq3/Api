@@ -1,57 +1,57 @@
  {
     "results": [
        {
-            "question": "1.If P(E) = 0.09, then P (not E) in percentage is(OR)P(E) = 0.09 అయితే, P (E కాదు) శాతం",
+            "question": "1.The Second World War ended in(OR)రెండవ ప్రపంచ యుద్ధం ముగిసింది?",
             "incorrect_answers": [
-                "9.1 percentage",
-                "0.91 percentage",
-                "0.091 percentage"
+                "1942",
+                "1941",
+                "1943"
             ],
-            "correct_answer": " 91 percentage"
+            "correct_answer": "1945"
         },
         {
-            "question": "2.Which of the following cannot be the probability of an event?(OR)కింది వాటిలో ఏది ఈవెంట్ యొక్క సంభావ్యత కాకూడదు?.",
+            "question": "2.Gandhiji was assassinated on?(OR)గాంధీజీ హత్యకు గురయ్యారు?.",
          "incorrect_answers": [
-                " 0.2",
-                "2/5",
-                "0.72"
+                " 3rd January, 1948",
+                "13th January, 1948",
+                "23rd January, 1948"
             ],
-            "correct_answer": "1.3¯"
+            "correct_answer": "30th January, 1948"
         },
         {
-           "question": "3.Probability of getting 7, when a dice is rolled, is?(OR)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+           "question": "3.To form INA, Subash Chandra Bose took the prisoners of war from?(OR)INA ఏర్పాటుకు, సుభాష్ చంద్రబోస్ యుద్ధ ఖైదీలను తీసుకెళ్లారు?",
             "incorrect_answers": [
-                " 1/6",
-                "1/7",
-                "6/7"
+                "Germany",
+                "Italy",
+                "Singapore"
             ],
-            "correct_answer": "0"
+            "correct_answer": "Japan"
         },
         {
-            "question": "4.Probability of impossible event is?(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "question": "4.Royal Indian Navy rebellion was started in?(OR)రాయల్ ఇండియన్ నేవీ తిరుగుబాటు ప్రారంభమైంది?",
            "incorrect_answers": [
-                "1",
-              "1.0",
-                "0.5"
+                "1945",
+              "1943",
+                "1944"
             ],
-            "correct_answer": "0"
+            "correct_answer": "1946"
         },
         {
-            "question": "5.Probability of sure event is(OR)ఖచ్చితంగా ఈవెంట్ యొక్క సంభావ్యత",
+            "question": "5.In 1906, the Muslim Legue was first formed at this place(OR)1906లో ఈ ప్రదేశంలో తొలిసారిగా ముస్లిం లీగ్ ఏర్పడింది",
           "incorrect_answers": [
-                "0",
-              "2",
-                "-1"
+                "Lahore",
+              "Islamabad",
+                "Dhaka"
             ],
-            "correct_answer": "+1"
+            "correct_answer": "Lucknow"
         },
-        { "question": "6.The probability that year 2016 to have 53 Mondays is(OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+        { "question": "6.In the elections held in 1937 Congress won provinces(OR)1937లో జరిగిన ఎన్నికలలో కాంగ్రెస్ ప్రావిన్సులను గెలుచుకుంది?",
              "incorrect_answers": [
-                "1/7",
-              "1/8",
-                "6/7"
+                " 11 out of(లో) 11",
+              "10 out of(లో) 12",
+                "9 out of(లో) 11"
             ],
-            "correct_answer": "2/7"
+            "correct_answer": " 8 out of(లో) 11"
           
         }
       
