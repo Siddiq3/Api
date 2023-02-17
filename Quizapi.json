@@ -1,57 +1,58 @@
  {
     "results": [
        {
-            "question": "1.The Second World War ended in(OR)రెండవ ప్రపంచ యుద్ధం ముగిసింది?",
+            "question": "1.The mode of the values sin 0°, cos 0°, sin 90° and tan 45° is?",
             "incorrect_answers": [
-                "1942",
-                "1941",
-                "1943"
+                "0",
+                "2",
+                "3"
             ],
-            "correct_answer": "1945"
+            "correct_answer": "1"
         },
         {
-            "question": "2.Gandhiji was assassinated on?(OR)గాంధీజీ హత్యకు గురయ్యారు?.",
+            "question": "2.Median of (మధ్యస్థం)2, 3, 4, 5, 6, 7 is.",
          "incorrect_answers": [
-                " 3rd January, 1948",
-                "13th January, 1948",
-                "23rd January, 1948"
+                " 2",
+                "4",
+                "5.5"
             ],
-            "correct_answer": "30th January, 1948"
+            "correct_answer": "4.5"
         },
         {
-           "question": "3.To form INA, Subash Chandra Bose took the prisoners of war from?(OR)INA ఏర్పాటుకు, సుభాష్ చంద్రబోస్ యుద్ధ ఖైదీలను తీసుకెళ్లారు?",
+           "question": "3.The mean df first five prime numbers is?(OR)మొదటి ఐదు ప్రధాన సంఖ్యల సగటు?",
             "incorrect_answers": [
-                "Germany",
-                "Italy",
-                "Singapore"
+                " 2",
+                "4",
+                "4.6"
             ],
-            "correct_answer": "Japan"
+            "correct_answer": "5.6"
+        },
         },
         {
-            "question": "4.Royal Indian Navy rebellion was started in?(OR)రాయల్ ఇండియన్ నేవీ తిరుగుబాటు ప్రారంభమైంది?",
+            "question": "4.The midvalue of the class 10 – 19 is?(OR)10-19 తరగతి మధ్య విలువ?",
            "incorrect_answers": [
-                "1945",
-              "1943",
-                "1944"
+                "24.5",
+              " 20.5",
+                " 23.5"
             ],
-            "correct_answer": "1946"
+            "correct_answer": " 14.5"
         },
         {
-            "question": "5.In 1906, the Muslim Legue was first formed at this place(OR)1906లో ఈ ప్రదేశంలో తొలిసారిగా ముస్లిం లీగ్ ఏర్పడింది",
+            "question": "5.Themean of a + 1,a + 3,a + 4 and a + 8 is(OR)a + 1,a + 3,a + 4 మరియు a + 8 యొక్క సగటు",
           "incorrect_answers": [
-                "Lahore",
-              "Islamabad",
-                "Dhaka"
+                " a + 7",
+              " a + 3",
+                "a + 4"
             ],
-            "correct_answer": "Lucknow"
+            "correct_answer": " a – 3"
         },
-        { "question": "6.In the elections held in 1937 Congress won provinces(OR)1937లో జరిగిన ఎన్నికలలో కాంగ్రెస్ ప్రావిన్సులను గెలుచుకుంది?",
+        { "question": "6.For the data 9, 8, 7, 7, 6, 3, 7, 2, 1, 7, 9 the mode is",
              "incorrect_answers": [
-                " 11 out of(లో) 11",
-              "10 out of(లో) 12",
-                "9 out of(లో) 11"
+                "9",
+              "3",
+                "2"
             ],
-            "correct_answer": " 8 out of(లో) 11"
+            "correct_answer": "7"
           
         }
       
