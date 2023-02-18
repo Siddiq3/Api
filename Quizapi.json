@@ -1,58 +1,59 @@
  {
     "results": [
        {
-            "question": "1.The mode of the values sin 0°, cos 0°, sin 90° and tan 45° is?",
+            "question": "1.కన్నుఁగవ - ఈ పదానికి అర్థం?",
             "incorrect_answers": [
-                "0",
-                "2",
-                "3"
+                "చెవుల జంట",
+                "కాళ్ల జంట",
+                "చేతుల జంట"
             ],
-            "correct_answer": "1"
+            "correct_answer": "కన్నుల జంట"
         },
         {
-            "question": "2.Median of (మధ్యస్థం)2, 3, 4, 5, 6, 7 is.",
+            "question": "2.అపూపం - ఈ పదానికి అర్థం.",
          "incorrect_answers": [
-                " 2",
-                "4",
-                "5.5"
+                "పొంగలి",
+                "దద్దోజన"
+                "పులిహోర"
             ],
-            "correct_answer": "4.5"
+            "correct_answer": "పిండివంట"
         },
         {
-           "question": "3.The mean df first five prime numbers is?(OR)మొదటి ఐదు ప్రధాన సంఖ్యల సగటు?",
+           "question": "3.మృషలు - ఈ పదానికి అర్థం?",
             "incorrect_answers": [
-                " 2",
-                "4",
-                "4.6"
+                "నిజాలు",
+                "ఆపదలు",
+                "కుట్రల"
             ],
-            "correct_answer": "5.6"
+            "correct_answer": "అబద్ధాలు"
         },
        
         {
-            "question": "4.The midvalue of the class 10 – 19 is?(OR)10-19 తరగతి మధ్య విలువ?",
+            "question": "4.సౌదామిని - ఈ పదానికి అర్థం?",
            "incorrect_answers": [
-                "24.5",
-              " 20.5",
-                " 23.5"
+                "ఎండ",
+              "వెన్నెల",
+                "చీకటి"
             ],
-            "correct_answer": " 14.5"
+            "correct_answer": "మెరుపు"
         },
         {
-            "question": "5.Themean of a + 1,a + 3,a + 4 and a + 8 is(OR)a + 1,a + 3,a + 4 మరియు a + 8 యొక్క సగటు",
+            "question": "5.పారావారం - ఈ పదానికి అర్థం",
           "incorrect_answers": [
-                " a + 7",
-              " a + 3",
-                "a + 4"
+                "సరస్సు",
+              "సెలయేరు",
+                "నది"
             ],
-            "correct_answer": " a – 3"
+            "correct_answer": "సముద్రం"
         },
-        { "question": "6.For the data 9, 8, 7, 7, 6, 3, 7, 2, 1, 7, 9 the mode is",
+        { "question": "6.నళినీదళం - ఈ పదానికి అర్థం",
              "incorrect_answers": [
-                "9",
-              "3",
-                "2"
+                "అరటాకు",
+              "చింతాకు",
+                "వేపాకు"
             ],
-            "correct_answer": "7"
+            "correct_answer": "తామరాకు"
+         
           
         }
       
