@@ -2,60 +2,60 @@
     "results": [
      
       {
-            "question": "1.The electronegativity of carbon is(OR)కార్బన్ యొక్క ఎలెక్ట్రోనెగటివిటీ?.",
+            "question": "1.The duration of hunger pangs in the stomach(OR)కడుపులో ఆకలి బాధల వ్యవధి?.",
          "incorrect_answers": [
-                "1.5",
-                "3.5",
-                "4"
+                "1 – 3 hrs",
+                "30 – 45 hrs",
+                "4 – 5 hrs"
             ],
-            "correct_answer": "2.5"
+            "correct_answer": "30 – 45 min"
         },
      
        {
-            "question": "2.Thecovalency of carbon is(OR)కార్బన్ యొక్క కోవాలెన్సీ?",
+            "question": "2.Human dental formula is(OR)మానవ దంత సూత్రం?",
             "incorrect_answers": [
-                "1",
-                "2",
-                "3"
+                " 2/2, 1/1, 2/2, 1/2",
+                " 2/2, 1/1, 1/1, 2/2",
+                "2/2, 2/2, 1/1, 1/1"
             ],
-            "correct_answer": "4"
+            "correct_answer": "2/2, 1/1, 2/2, 3/3"
         },
        
         {
-           "question": "3.Number of sigma and pi bonds in ethyne are(OR)ఇథైన్‌లోని సిగ్మా మరియు పై బంధాల సంఖ్య?",
+           "question": "3.Which nerve controls the movement of jaw(OR)దవడ కదలికను ఏ నాడి నియంత్రిస్తుంది?",
             "incorrect_answers": [
-                " 2, 3",
-                " 4,1",
-                "1, 4"
+                "6th cranial nerve(వ కపాల నాడి)",
+                "7th cranial nerve(వ కపాల నాడి)",
+                "8th cranial nerve(వ కపాల నాడి)"
             ],
-            "correct_answer": "3, 2"
+            "correct_answer": "5th cranial nerve(వ కపాల నాడి)"
         },
        
         {
-            "question": "4.The number of a bonds in methane is ?(OR)మీథేన్‌లోని బంధాల సంఖ్య",
+            "question": "4.Saliva secreted by us per day is?(OR)మనం రోజుకు స్రవించే లాలాజలం",
            "incorrect_answers": [
-                "1",
-                "2",
-                "3"
+                "2 – 2.25 liters",
+                "1 – 1.25 liters",
+                "1.75 liters"
             ],
-            "correct_answer": "4"
+            "correct_answer": " 1 – 1.5 liters"
         },
         {
-            "question": "5.The hardest material among these is (OR)వీటిలో అత్యంత కఠినమైన పదార్థం.",
+            "question": "5.The number of sphincter muscles present in anus(OR)పాయువులో ఉన్న స్పింక్టర్ కండరాల సంఖ్య.",
           "incorrect_answers": [
-               "graphite(OR)గ్రాఫైట్",
-              "buckminster fullerene",
-                "coke"
+               "1",
+              "6",
+                "4"
             ],
-            "correct_answer": "diamond(OR)వజ్రం"
+            "correct_answer": "2"
         },
-        { "question": "6.Hydrocarbons contains the following elements(OR)హైడ్రోకార్బన్‌లు క్రింది మూలకాలను కలిగి ఉంటాయి.",
+        { "question": "6.Litmus test on our tongue gives the following range of colour(OR)మన నాలుకపై లిట్మస్ పరీక్ష క్రింది రంగుల శ్రేణిని ఇస్తుంది",
              "incorrect_answers": [
-                "H, CO",
-              "N, C",
-                "H, Cl"
+                "1-4",
+              "2 – 13",
+                "10 – 14"
             ],
-            "correct_answer": "H, C"
+            "correct_answer": "7 only"
          
           
         }
