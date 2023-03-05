@@ -2,60 +2,60 @@
     "results": [
      
       {
-            "question": "1.The duration of hunger pangs in the stomach(OR)కడుపులో ఆకలి బాధల వ్యవధి?.",
+            "question": "1. భూతకాలిక అసమాపక క్రియను ఏమంటారు?.",
          "incorrect_answers": [
-                "1 – 3 hrs",
-                "30 – 45 hrs",
-                "4 – 5 hrs"
+                " చేదర్థకం",
+                "శత్రర్థకం",
+                " అనుమత్యర్థకం"
             ],
-            "correct_answer": "30 – 45 min"
+            "correct_answer": "క్వార్థకం"
         },
      
        {
-            "question": "2.Human dental formula is(OR)మానవ దంత సూత్రం?",
+            "question": "2. కవిత గ్రంథాలయానికి వెళ్ళి పుస్తకాలు తెచ్చింది. గీత గీసిన పదం ఏ ప్రక్రియకు చెందినది?",
             "incorrect_answers": [
-                " 2/2, 1/1, 2/2, 1/2",
-                " 2/2, 1/1, 1/1, 2/2",
-                "2/2, 2/2, 1/1, 1/1"
+               " చేదర్థకం",
+                "శత్రర్థకం",
+                " అనుమత్యర్థకం"
             ],
-            "correct_answer": "2/2, 1/1, 2/2, 3/3"
+            "correct_answer": "క్వార్థకం"
         },
        
         {
-           "question": "3.Which nerve controls the movement of jaw(OR)దవడ కదలికను ఏ నాడి నియంత్రిస్తుంది?",
+           "question": "3.వర్తమాన అసమాపక క్రియను ఏమంటారు?",
             "incorrect_answers": [
-                "6th cranial nerve(వ కపాల నాడి)",
-                "7th cranial nerve(వ కపాల నాడి)",
-                "8th cranial nerve(వ కపాల నాడి)"
+               " చేదర్థకం",
+                "క్వార్థకం",
+                " అనుమత్యర్థకం"
             ],
-            "correct_answer": "5th cranial nerve(వ కపాల నాడి)"
+            "correct_answer": " శత్రర్థకము"
         },
        
         {
-            "question": "4.Saliva secreted by us per day is?(OR)మనం రోజుకు స్రవించే లాలాజలం",
-           "incorrect_answers": [
-                "2 – 2.25 liters",
-                "1 – 1.25 liters",
-                "1.75 liters"
-            ],
-            "correct_answer": " 1 – 1.5 liters"
-        },
-        {
-            "question": "5.The number of sphincter muscles present in anus(OR)పాయువులో ఉన్న స్పింక్టర్ కండరాల సంఖ్య.",
+            "question": "4.షరతును విధించడానికి చేర్చే అసమాపక క్రియ ఏది?",
           "incorrect_answers": [
-               "1",
-              "6",
-                "4"
+               "శత్రర్థకమ",
+                "క్వార్థకం",
+                " అనుమత్యర్థకం"
             ],
-            "correct_answer": "2"
+            "correct_answer": "చేదర్థక"
         },
-        { "question": "6.Litmus test on our tongue gives the following range of colour(OR)మన నాలుకపై లిట్మస్ పరీక్ష క్రింది రంగుల శ్రేణిని ఇస్తుంది",
-             "incorrect_answers": [
-                "1-4",
-              "2 – 13",
-                "10 – 14"
+        {
+            "question": "5.శత్రర్థక క్రియను గుర్తించండి.",
+          "incorrect_answers": [
+               " చేసి",
+              " చేయక",
+                " చేస్తే"
             ],
-            "correct_answer": "7 only"
+            "correct_answer": "చేయుచున్"
+        },
+        { "question": "6.ధాతువుకు తే, ఐతే అనే ప్రత్యయాలు చేరే అసమాపక క్రియను ఇలా పిలుస్తారు?",
+             "incorrect_answers": [
+               "శత్రర్థకమ",
+                "క్వార్థకం",
+                " అనుమత్యర్థకం"
+            ],
+            "correct_answer": "చేదర్థక"
          
           
         }
