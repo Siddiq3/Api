@@ -2,60 +2,60 @@
     "results": [
      
       {
-            "question": "1. భూతకాలిక అసమాపక క్రియను ఏమంటారు?.",
+            "question": "1.Birds.........nests.?.",
          "incorrect_answers": [
-                " చేదర్థకం",
-                "శత్రర్థకం",
-                " అనుమత్యర్థకం"
+                "are building",
+                "builds",
+                "built"
             ],
-            "correct_answer": "క్వార్థకం"
+            "correct_answer": "build"
         },
      
        {
-            "question": "2. కవిత గ్రంథాలయానికి వెళ్ళి పుస్తకాలు తెచ్చింది. గీత గీసిన పదం ఏ ప్రక్రియకు చెందినది?",
+            "question": "2.Somesh......rice everyday.",
             "incorrect_answers": [
-               " చేదర్థకం",
-                "శత్రర్థకం",
-                " అనుమత్యర్థకం"
+               "eat",
+                "has eaten",
+                "ate"
             ],
-            "correct_answer": "క్వార్థకం"
+            "correct_answer": "eats"
         },
        
         {
-           "question": "3.వర్తమాన అసమాపక క్రియను ఏమంటారు?",
+           "question": "3.Look! the crow.......on the tree.ు?",
             "incorrect_answers": [
-               " చేదర్థకం",
-                "క్వార్థకం",
-                " అనుమత్యర్థకం"
+               "sit",
+                "sat",
+                "has sat"
             ],
-            "correct_answer": " శత్రర్థకము"
+            "correct_answer": "is sitting"
         },
        
         {
-            "question": "4.షరతును విధించడానికి చేర్చే అసమాపక క్రియ ఏది?",
+            "question": "4.Mohan and mahanandi.....for a movie yesterday.?",
           "incorrect_answers": [
-               "శత్రర్థకమ",
-                "క్వార్థకం",
-                " అనుమత్యర్థకం"
+               "go",
+                "goes",
+                "has gone"
             ],
-            "correct_answer": "చేదర్థక"
+            "correct_answer": "went"
         },
         {
-            "question": "5.శత్రర్థక క్రియను గుర్తించండి.",
+            "question": "5.He......the baby in the cradle..",
           "incorrect_answers": [
-               " చేసి",
-              " చేయక",
-                " చేస్తే"
+               "lay",
+              "lied",
+                "has lide"
             ],
-            "correct_answer": "చేయుచున్"
+            "correct_answer": "laid"
         },
-        { "question": "6.ధాతువుకు తే, ఐతే అనే ప్రత్యయాలు చేరే అసమాపక క్రియను ఇలా పిలుస్తారు?",
+        { "question": "6.The cow has.....twins.?",
              "incorrect_answers": [
-               "శత్రర్థకమ",
-                "క్వార్థకం",
-                " అనుమత్యర్థకం"
+               "bore",
+                "borne",
+                "been born"
             ],
-            "correct_answer": "చేదర్థక"
+            "correct_answer": "born"
          
           
         }
