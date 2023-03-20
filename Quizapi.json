@@ -2,60 +2,60 @@
     "results": [
      
       {
-            "question": "1.Birds.........nests.?.",
+            "question": "1.భూతకాలిక అసమాపక క్రియను ఏమంటారు?",
          "incorrect_answers": [
-                "are building",
-                "builds",
-                "built"
+                "చేదర్థకం",
+                "శత్రర్థకం",
+                "అనుమత్యర్థకం"
             ],
-            "correct_answer": "build"
+            "correct_answer": "క్వార్థకం"
         },
      
        {
-            "question": "2.Somesh......rice everyday.",
+            "question": "2.వర్తమాన అసమాపక క్రియను ఏమంటారు?",
             "incorrect_answers": [
-               "eat",
-                "has eaten",
-                "ate"
+                "క్వార్థకం",
+                "చేదర్థకం",
+                "అనుమత్యర్థకం"
             ],
-            "correct_answer": "eats"
+            "correct_answer": "శత్రర్థకము"
         },
        
         {
-           "question": "3.Look! the crow.......on the tree.ు?",
-            "incorrect_answers": [
-               "sit",
-                "sat",
-                "has sat"
-            ],
-            "correct_answer": "is sitting"
-        },
-       
-        {
-            "question": "4.Mohan and mahanandi.....for a movie yesterday.?",
-          "incorrect_answers": [
-               "go",
-                "goes",
-                "has gone"
-            ],
-            "correct_answer": "went"
-        },
-        {
-            "question": "5.He......the baby in the cradle..",
-          "incorrect_answers": [
-               "lay",
-              "lied",
-                "has lide"
-            ],
-            "correct_answer": "laid"
-        },
-        { "question": "6.The cow has.....twins.?",
+           "question": "3.షరతును విధించడానికి చేర్చే అసమాపక క్రియ ఏది?",
              "incorrect_answers": [
-               "bore",
-                "borne",
-                "been born"
+                "క్వార్థకం",
+                "శత్రర్థకము",
+                "అనుమత్యర్థకం"
             ],
-            "correct_answer": "born"
+            "correct_answer": "చేదర్థకం"
+        },
+       
+        {
+            "question": "4.శత్రర్థక క్రియను గుర్తించండి?",
+          "incorrect_answers": [
+               "చేసి",
+                "చేయక",
+                "చేస్తే"
+            ],
+            "correct_answer": "చేయుచున్"
+        },
+        {
+            "question": "5.ధాతువుకు తే, ఐతే అనే ప్రత్యయాలు చేరే అసమాపక క్రియను ఇలా పిలుస్తారు?",
+           "incorrect_answers": [
+                "క్వార్థకం",
+                "శత్రర్థకము",
+                "అనుమత్యర్థకం"
+            ],
+            "correct_answer": "చేదర్థకం"
+        },
+        { "question": "6.‘స, భ, ర, న, మ, య, వ’ ఏ పద్యానికి చెందిన గణాలు? (March 2017)?",
+             "incorrect_answers": [
+               "శార్దూలం",
+                "చంపకమాల",
+                "ఉత్పలమాల"
+            ],
+            "correct_answer": "మత్తేభం"
          
           
         }
