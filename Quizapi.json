@@ -2,60 +2,60 @@
     "results": [
      
       {
-            "question": "1.భూతకాలిక అసమాపక క్రియను ఏమంటారు?",
+            "question": "1.The electronegativity of carbon is(or)కార్బన్ యొక్క ఎలెక్ట్రోనెగటివిటీ?",
          "incorrect_answers": [
-                "చేదర్థకం",
-                "శత్రర్థకం",
-                "అనుమత్యర్థకం"
+                " 1.5",
+                " 3.5",
+                " 2"
             ],
-            "correct_answer": "క్వార్థకం"
+            "correct_answer": " 2.5"
         },
      
        {
-            "question": "2.వర్తమాన అసమాపక క్రియను ఏమంటారు?",
+            "question": "2.Thecovalency of carbon is(OR)కార్బన్ యొక్క కోవాలెన్సీ?",
             "incorrect_answers": [
-                "క్వార్థకం",
-                "చేదర్థకం",
-                "అనుమత్యర్థకం"
+                "1",
+                "2",
+                "3"
             ],
-            "correct_answer": "శత్రర్థకము"
+            "correct_answer": "4"
         },
        
         {
-           "question": "3.షరతును విధించడానికి చేర్చే అసమాపక క్రియ ఏది?",
+           "question": "3.Number of sigma and pi bonds in ethyne are (OR)ఇథైన్‌లోని సిగ్మా మరియు పై బంధాల సంఖ్య?",
              "incorrect_answers": [
-                "క్వార్థకం",
-                "శత్రర్థకము",
-                "అనుమత్యర్థకం"
+               "2, 3",
+                "4,1",
+                "1, 4"
             ],
-            "correct_answer": "చేదర్థకం"
+            "correct_answer": " 3, 2"
         },
        
         {
-            "question": "4.శత్రర్థక క్రియను గుర్తించండి?",
+            "question": "4.The number of a bonds in methane is (OR)మీథేన్‌లోని బంధాల సంఖ్య?",
           "incorrect_answers": [
-               "చేసి",
-                "చేయక",
-                "చేస్తే"
+               "2",
+                "1",
+                "3"
             ],
-            "correct_answer": "చేయుచున్"
+            "correct_answer": "4"
         },
         {
-            "question": "5.ధాతువుకు తే, ఐతే అనే ప్రత్యయాలు చేరే అసమాపక క్రియను ఇలా పిలుస్తారు?",
+            "question": "5.Hydrocarbons contains the following elements(OR)?హైడ్రోకార్బన్‌లు క్రింది మూలకాలను కలిగి ఉంటాయి",
            "incorrect_answers": [
-                "క్వార్థకం",
-                "శత్రర్థకము",
-                "అనుమత్యర్థకం"
+                " H, CO",
+                "N, C",
+                "H, Cl"
             ],
-            "correct_answer": "చేదర్థకం"
+            "correct_answer": "H, C"
         },
-        { "question": "6.‘స, భ, ర, న, మ, య, వ’ ఏ పద్యానికి చెందిన గణాలు? (March 2017)?",
+        { "question": "6.The number of hydrogen atoms in octane is (OR)ఆక్టేన్‌లోని హైడ్రోజన్ పరమాణువుల సంఖ్య",
              "incorrect_answers": [
-               "శార్దూలం",
-                "చంపకమాల",
-                "ఉత్పలమాల"
+               " 8",
+                "16",
+                "14"
             ],
-            "correct_answer": "మత్తేభం"
+            "correct_answer": "18"
          
           
         }
