@@ -2,7 +2,7 @@
 {
     "results": [
         {
-          "tel6exam":"',
+          "tel6exam":"",
           "english6exam":"",
           "hin6exam":"",
           "me6exam":"",
@@ -12,7 +12,7 @@
           "soce6exam":"",
            "soct6exam":"",
           
-          "tel6imp":"',
+          "tel6imp":"",
           "english6imp":"",
           "hin6imp":"",
           "me6imp":"",
@@ -23,7 +23,7 @@
            "soct6imp":"",
           
           
-          "tel6study":"',
+          "tel6study":"",
           "english6study":"",
           "hin6study":"",
           "me6study":"",
@@ -33,7 +33,7 @@
           "soce6study":"",
            "soct6study":"",
             
-             "tel7exam":"',
+             "tel7exam":"",
           "english7exam":"",
           "hin7exam":"",
           "me7exam":"",
@@ -43,7 +43,7 @@
           "soce7exam":"",
            "soct7exam":"",
            
-             "tel7imp":"',
+             "tel7imp":"",
           "english7imp":"",
           "hin7imp":"",
           "me7imp":"",
@@ -53,7 +53,7 @@
           "soce7imp":"",
            "soct7imp":"",
           
-           "tel7study":"',
+           "tel7study":"",
           "english7study":"",
           "hin7study":"",
           "me7study":"",
@@ -63,7 +63,7 @@
           "soce7study":"",
            "soct7study":"",
           
-           "tel8study":"',
+           "tel8study":"",
           "english8study":"",
           "hin8study":"",
           "me8study":"",
@@ -73,7 +73,7 @@
           "soce8study":"",
            "soct8study":"",
           
-          "tel9study":"',
+          "tel9study":"",
           "english9study":"",
           "hin9study":"",
           "me9study":"",
@@ -83,7 +83,7 @@
           "soce9study":"",
            "soct9study":"",
           
-           "tel8exam":"',
+           "tel8exam":"",
           "english8exam":"",
           "hin8exam":"",
           "me8exam":"",
@@ -93,7 +93,7 @@
           "soce8exam":"",
            "soct8exam":"",
           
-           "tel9exam":"',
+           "tel9exam":"",
           "english9exam":"",
           "hin9exam":"",
           "me9exam":"",
@@ -103,7 +103,7 @@
           "soce9exam":"",
            "soct9exam":"",
           
-            "tel8imp":"',
+            "tel8imp":"",
           "english8imp":"",
           "hin8imp":"",
           "me8imp":"",
@@ -111,7 +111,17 @@
           "nse8imp":"",
            "nte8imp":"",
           "soce8imp":"",
-           "soct8imp":""
+           "soct8imp":"",
+            
+             "tel9imp":"",
+          "english9imp":"",
+          "hin9imp":"",
+          "me9imp":"",
+          "mt9imp":"",
+          "nse9imp":"",
+           "nte9imp":"",
+          "soce9imp":"",
+           "soct9imp":""
         }
     ]
 }
