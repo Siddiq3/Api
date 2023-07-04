@@ -1,1 +1,65 @@
 
+ {
+    "results": [
+     
+      {
+            "question": "1.Probability of getting 7, when a dice is rolled, is (or)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+         "incorrect_answers": [
+                "1/6",
+                " 1/7",
+                "7/6"
+            ],
+            "correct_answer": "0"
+        },
+     
+       {
+            "question": "2.Probability of impossible event is(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "incorrect_answers": [
+                "1",
+                "0.5",
+                "1.5"
+            ],
+            "correct_answer": "0"
+        },
+       
+        {
+           "question": "3.The probability that year 2016 to have 53 Mondays is (OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+             "incorrect_answers": [
+               " 1/",
+                "6/7",
+                "5/7"
+            ],
+            "correct_answer": "2/7"
+        },
+       
+        {
+            "question": "4.If P(E) = 0.82, then P(E¯) = (OR)P(E) = 0.82 అయితే, P(E¯) =?",
+          "incorrect_answers": [
+               "0.28",
+                "0.38",
+                "0.48"
+            ],
+            "correct_answer": "0.18"
+        },
+        {
+            "question": "5.If P(E) = 0.26, then P(E¯) =(OR)?P(E) = 0.26 అయితే, P(E¯¯) =",
+           "incorrect_answers": [
+                "1",
+                "0.28",
+                "0"
+            ],
+            "correct_answer": " 0.74"
+        },
+        { "question": "6.If P (A) = 4/15then P ( A¯ ) = (OR)P (A) = 4/15అయితే P (A¯) =",
+             "incorrect_answers": [
+               "16/15",
+                "13/15",
+                "12/15"
+            ],
+            "correct_answer": "11/15"
+         
+          
+        }
+      
+    ]
+}
