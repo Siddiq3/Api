@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.Probability of getting 7, when a dice is rolled, is (or)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+            "question": "1.ఈ క్రింది వానిలో సంకలన తత్సమాంశం ఏది ?",
          "incorrect_answers": [
-                "1/6",
-                " 1/7",
-                "7/6"
+                "3",
+                "2",
+                "1"
             ],
             "correct_answer": "0"
         },
      
        {
-            "question": "2.Probability of impossible event is(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "question": "2.ఈ క్రింది వానిలో గుణకార తత్సమాంశం ఏది ?",
             "incorrect_answers": [
-                "1",
+                "0",
                 "0.5",
                 "1.5"
             ],
-            "correct_answer": "0"
+            "correct_answer": "1"
         },
        
         {
-           "question": "3.The probability that year 2016 to have 53 Mondays is (OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+           "question": "3.−3/4 యొక్క గుణకార విలోమం ఏది ??",
              "incorrect_answers": [
-               " 1/",
-                "6/7",
-                "5/7"
+               " 1",
+                "3/4",
+                "4/3"
             ],
-            "correct_answer": "2/7"
+            "correct_answer": "-4/3"
         },
        
         {
-            "question": "4.If P(E) = 0.82, then P(E¯) = (OR)P(E) = 0.82 అయితే, P(E¯) =?",
+            "question": "4.____ × 7/8 = 7/8?",
           "incorrect_answers": [
-               "0.28",
-                "0.38",
-                "0.48"
+               "0",
+                "8/7",
+                "7/8"
             ],
-            "correct_answer": "0.18"
+            "correct_answer": "1"
         },
         {
-            "question": "5.If P(E) = 0.26, then P(E¯) =(OR)?P(E) = 0.26 అయితే, P(E¯¯) =",
+            "question": "5.(−1/2) + _____ = 0",
            "incorrect_answers": [
                 "1",
-                "0.28",
+                "2",
                 "0"
             ],
-            "correct_answer": " 0.74"
+            "correct_answer": " 1/2"
         },
-        { "question": "6.If P (A) = 4/15then P ( A¯ ) = (OR)P (A) = 4/15అయితే P (A¯) =",
+        { "question": "6.1 యొక్క గుణకార విలోమం",
              "incorrect_answers": [
-               "16/15",
-                "13/15",
-                "12/15"
+               "0",
+                "3",
+                "3"
             ],
-            "correct_answer": "11/15"
+            "correct_answer": "1"
          
           
         }
