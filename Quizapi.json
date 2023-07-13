@@ -2,37 +2,37 @@
     "results": [
      
       {
-            "question": "1.Probability of getting 7, when a dice is rolled, is (or)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+            "question": "1.వారు మదోన్మాదముతో ప్రవర్తించారు – గీత గీసిన పదంలో గల సంధి ఏది? (S.A. I – 2018-19, June – 17)?",
          "incorrect_answers": [
-                "1/6",
-                " 1/7",
-                "7/6"
+                "యణాదేశ సంధి",
+                "సవర్ణదీర్ఘ సంధి",
+                " వృద్ధి సంధి"
             ],
-            "correct_answer": "0"
+            "correct_answer": "గుణసంధి"
         },
      
        {
-            "question": "2.Probability of impossible event is(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "question": "2.చిత్తశుద్ధితో జేసెడి సేవ సేవ – ఇందులోని అలంకారాన్ని గుర్తించండి. (June 2017)?",
             "incorrect_answers": [
-                "1",
-                "0.5",
-                "1.5"
+                "యమకం",
+                "ఛేకానుప్రాసం",
+                "వృత్యానుప్రాసం"
             ],
-            "correct_answer": "0"
+            "correct_answer": " లాటానుప్రాసం"
         },
        
         {
-           "question": "3.The probability that year 2016 to have 53 Mondays is (OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+           "question": "3.చంపకమాల పద్యపాదంలో యతి స్థానం (S.A. I – 2018-19)?",
              "incorrect_answers": [
-               " 1/",
-                "6/7",
-                "5/7"
+               " 10",
+                "12",
+                "13"
             ],
-            "correct_answer": "2/7"
+            "correct_answer": "11"
         },
        
         {
-            "question": "4.If P(E) = 0.82, then P(E¯) = (OR)P(E) = 0.82 అయితే, P(E¯) =?",
+            "question": "4.క్రింది వానిలో ‘శత్రర్థకం’ గుర్తించండి.",
           "incorrect_answers": [
                "0.28",
                 "0.38",
@@ -43,19 +43,19 @@
         {
             "question": "5.If P(E) = 0.26, then P(E¯) =(OR)?P(E) = 0.26 అయితే, P(E¯¯) =",
            "incorrect_answers": [
-                "1",
-                "0.28",
-                "0"
+                " విని",
+                "వినగలడు",
+                "వినక"
             ],
-            "correct_answer": " 0.74"
+            "correct_answer": "వింటూ"
         },
-        { "question": "6.If P (A) = 4/15then P ( A¯ ) = (OR)P (A) = 4/15అయితే P (A¯) =",
+        { "question": "6.‘స, భ, ర, న, మ, య, వ’ ఏ పద్యానికి చెందిన గణాలు? (March 2017)",
              "incorrect_answers": [
-               "16/15",
-                "13/15",
-                "12/15"
+               " శార్దూలం",
+                "చంపకమాల",
+                "ఉత్పలమాల"
             ],
-            "correct_answer": "11/15"
+            "correct_answer": " మత్తేభం"
          
           
         }
