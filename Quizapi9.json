@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.Probability of getting 7, when a dice is rolled, is (or)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+            "question": "1.నిర్దిష్ట దిశలో ఒక వస్తువుకు గల వడిని?",
          "incorrect_answers": [
-                "1/6",
-                " 1/7",
-                "7/6"
+                " దూరము",
+                "త్వరము",
+                "స్థానభ్రంశము"
             ],
-            "correct_answer": "0"
+            "correct_answer": "వేగము"
         },
      
        {
-            "question": "2.Probability of impossible event is(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "question": "2.కింది వానిలో సదిశ కానిది అంటాము.?",
             "incorrect_answers": [
-                "1",
-                "0.5",
-                "1.5"
+                "త్వరణం",
+                "వేగం",
+                "స్థానభ్రంశం"
             ],
-            "correct_answer": "0"
+            "correct_answer": "వడి"
         },
        
         {
-           "question": "3.The probability that year 2016 to have 53 Mondays is (OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+           "question": "3.స్థిర వేగంతో ప్రయాణించే వ్యక్తి త్వరణం?",
              "incorrect_answers": [
-               " 1/",
-                "6/7",
-                "5/7"
+               "అనంతం",
+                "ధనత్వరణం",
+                "ఋణత్వరణం"
             ],
-            "correct_answer": "2/7"
+            "correct_answer": "శూన్యం"
         },
        
         {
-            "question": "4.If P(E) = 0.82, then P(E¯) = (OR)P(E) = 0.82 అయితే, P(E¯) =?",
+            "question": "4.దిశ, పరిమాణం రెండూనూ గల భౌతిక రాశి?",
           "incorrect_answers": [
-               "0.28",
-                "0.38",
-                "0.48"
+               "అదిశ",
+                "రేఖీయం",
+                "ఏదీకాదు"
             ],
-            "correct_answer": "0.18"
+            "correct_answer": "సదిశ"
         },
         {
-            "question": "5.If P(E) = 0.26, then P(E¯) =(OR)?P(E) = 0.26 అయితే, P(E¯¯) =",
+            "question": "5.వేగంలోని మార్పురేటును తెలుపునది.",
            "incorrect_answers": [
-                "1",
-                "0.28",
-                "0"
+                "స్థానభ్రంశం",
+                "వేగము",
+                "ద్రవ్యవేగము"
             ],
-            "correct_answer": " 0.74"
+            "correct_answer": "త్వరణం"
         },
-        { "question": "6.If P (A) = 4/15then P ( A¯ ) = (OR)P (A) = 4/15అయితే P (A¯) =",
+        { "question": "6.దూరంకు ప్రచూణము",
              "incorrect_answers": [
-               "16/15",
-                "13/15",
-                "12/15"
+               "s",
+                "kg",
+                "m/s"
             ],
-            "correct_answer": "11/15"
+            "correct_answer": "m"
          
           
         }
