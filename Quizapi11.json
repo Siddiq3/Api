@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.Probability of getting 7, when a dice is rolled, is (or)పాచికలు చుట్టబడినప్పుడు 7 వచ్చే సంభావ్యత?",
+            "question": "1.If f(x + y) = f(xy) ∀ x, y ∈ R then prove that f is a constant function.?",
          "incorrect_answers": [
-                "1/6",
-                " 1/7",
-                "7/6"
+                "34",
+                "36",
+                "40"
             ],
-            "correct_answer": "0"
+            "correct_answer": "38"
         },
      
        {
-            "question": "2.Probability of impossible event is(OR)అసాధ్యమైన సంఘటన సంభావ్యత?",
+            "question": "2.If THE NUMBER OF FIVE DIGITS WITH DISTIN DIGITS AND 2 AT THE 10TH PLACE IS 336K ,THEN K IS EQUAL TO?",
             "incorrect_answers": [
-                "1",
-                "0.5",
-                "1.5"
+                "4",
+                "6",
+                "7"
             ],
-            "correct_answer": "0"
+            "correct_answer": "8"
         },
        
         {
-           "question": "3.The probability that year 2016 to have 53 Mondays is (OR)2016 సంవత్సరంలో 53 సోమవారాలు ఉండే సంభావ్యత?",
+           "question": "3.If shanti  has  5 churidar and 4 frocks.in how many possible ways,she can  wear either a churidar or a frock?",
              "incorrect_answers": [
-               " 1/",
-                "6/7",
-                "5/7"
+               " 2",
+                "3",
+                "7"
             ],
-            "correct_answer": "2/7"
+            "correct_answer": "9"
         },
        
         {
-            "question": "4.If P(E) = 0.82, then P(E¯) = (OR)P(E) = 0.82 అయితే, P(E¯) =?",
+            "question": "4.The number of ways in which the letter of the word ARTICLE can be arranged so that even places are always occupied by consonants is?",
           "incorrect_answers": [
-               "0.28",
-                "0.38",
-                "0.48"
+               "540",
+                "440",
+                "476"
             ],
-            "correct_answer": "0.18"
+            "correct_answer": "576"
         },
         {
-            "question": "5.If P(E) = 0.26, then P(E¯) =(OR)?P(E) = 0.26 అయితే, P(E¯¯) =",
+            "question": "5.4 boys and 2 girls  are to be seated in  a row in such a way that the two girls are always together.in how many diffirent ways can be seated ",
            "incorrect_answers": [
-                "1",
-                "0.28",
-                "0"
+                "120",
+                "720",
+                "148"
             ],
-            "correct_answer": " 0.74"
+            "correct_answer": "240"
         },
-        { "question": "6.If P (A) = 4/15then P ( A¯ ) = (OR)P (A) = 4/15అయితే P (A¯) =",
+        { "question": "6.Roll numbers are created witha letter followed by 3 digits in it,from the lettersA,B,C,D,and E and any 3 digits  from 0to 9. in how many possible ways can the rool  number genarated?",
              "incorrect_answers": [
-               "16/15",
-                "13/15",
-                "12/15"
+               "1000",
+                "3000",
+                "7000"
             ],
-            "correct_answer": "11/15"
+            "correct_answer": "5000"
          
           
         }
