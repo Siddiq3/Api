@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1. మీరు ప్రపంచ ఆహార దినోత్సవాన్ని ఎప్పుడు జరుపుకుంటారు?",
+            "question": "1.How many digits are in our number system?",
          "incorrect_answers": [
-                " ఆగస్టు 15",
-                "మార్చి 22",
-                "జనవరి 26"
+                "8",
+                "9",
+                "11"
             ],
-            "correct_answer": " అక్టోబర్ 16"
+            "correct_answer": "10"
         },
      
        {
-            "question": "2. కింది వాటిలో ఆకు కూర కానిది",
+            "question": "2.Which is the least among the digits?",
             "incorrect_answers": [
-                " కొత్తిమీర",
-                " బచ్చలికూర",
-                " పాలకూర"
+                " 1",
+                "9",
+                "10"
             ],
-            "correct_answer": "బంగాళదుంప"
+            "correct_answer": "0"
         },
        
         {
-           "question": "3.రొట్టెను తయారుచేసే విధానం?",
+           "question": "3.Place value of 5 in the number 786054 IS?",
              "incorrect_answers": [
-               "మరిగించటం",
-                " స్ట్రీమింగ్",
-                "వేయించుట"
+               "100",
+                "10",
+                "5"
             ],
-            "correct_answer": " కిణ్వప్రక్రియ"
+            "correct_answer": "50"
         },
        
         {
-            "question": "4.ఊరగాయల తయారీలో ఇది ఉపయోగించబడదు",
+            "question": "4.Total numbers from 100 to 999 are",
           "incorrect_answers": [
-               "ఉప్పు",
-                "నూనె",
-                " కారం పొడి"
+               "899",
+                "800",
+                "990"
             ],
-            "correct_answer": "నీరు"
+            "correct_answer": "900"
         },
         {
-            "question": "5. ఆంధ్రప్రదేశ్ లో ప్రధాన ఆహారం?",
+            "question": "5.10 crores= millions?",
            "incorrect_answers": [
-                " గోధుమ",
-                "జొన్న",
-                " మొక్కజొన్న"
+                "10",
+                "10000",
+                "1000"
             ],
-            "correct_answer": "బియ్యం"
+            "correct_answer": "100"
         },
-        { "question": "6.మొక్క నుండి పొందిన పదార్థాన్ని గుర్తించండి.",
+        { "question": "6.How many zeroes does 100 crores have?.",
              "incorrect_answers": [
-               "గుడ్డు",
-                "పాలు",
-                "ఉప్పు"
+               "8",
+                "7",
+                "6"
             ],
-            "correct_answer": " కాయ"
+            "correct_answer": "9"
          
           
         }
