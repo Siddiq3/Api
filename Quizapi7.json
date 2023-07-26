@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.పూర్ణసంఖ్యా సమితిని సూచించు అక్షరం ",
+            "question": "1.Chikki (Chickpea) contains? ",
          "incorrect_answers": [
-                "N",
-                "W",
-                "O"
+                "Proteins",
+                " Iron",
+                "Calcium"
             ],
-            "correct_answer": "Z"
+            "correct_answer": "Above all"
         },
      
        {
-            "question": "2.– 15 + 5 + 10 = _______?",
+            "question": "2. Street food have",
             "incorrect_answers": [
-                "30",
-                "20",
-                "-20"
+                "rich in fibre",
+                "rich in minerals",
+                "Above all"
             ],
-            "correct_answer": "0"
+            "correct_answer": "rich in fat"
         },
        
         {
-           "question": "3.5 × (- 10) = 0?",
+           "question": "3.Ascorbic acid is called as",
              "incorrect_answers": [
-               "50",
-                "0",
-                "20"
+               " Vitamin A",
+                " Vitamin D",
+                " Vitamin E"
             ],
-            "correct_answer": "-50"
+            "correct_answer": "Vitamin C"
         },
        
         {
-            "question": "4.(-50) + (- 10) =",
+            "question": "4.This gives instant energy to the body",
           "incorrect_answers": [
-               "-5",
-                "10",
-                "20"
+               " Chicken",
+                "Egg",
+                "Ghee"
             ],
-            "correct_answer": "5"
+            "correct_answer": "Glucose"
         },
         {
-            "question": "5.-8 యొక్క సంకలన విలోమము.",
+            "question": "5.Find the odd one out",
            "incorrect_answers": [
-                "1",
-                "1/8",
-                "0"
+                " Meet",
+                "Egg",
+                "Soya been"
             ],
-            "correct_answer": " 8"
+            "correct_answer": " Maize"
         },
-        { "question": "6.సంకలన తత్సమాంశము క్రింది ఏ సంఖ్యా సమితికి చెందదు ?",
+        { "question": "6. Milk, curd are rich in ?",
              "incorrect_answers": [
-               "W",
-                "O",
-                "Z"
+               "Iron",
+                "Iodine",
+                "Sodium"
             ],
-            "correct_answer": "N"
+            "correct_answer": "Calcium"
          
           
         }
