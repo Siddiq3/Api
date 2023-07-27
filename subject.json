@@ -144,7 +144,53 @@
              "ntimp9":"SCIENCE-TM",
              "neimp9":"SCIENCE-EM",
              "stimp9":"SOCIAL-TM",
-             "seimp9":"SOCIAL-EM"
+             "seimp9":"SOCIAL-EM",
+
+
+          "ttb6":"TELUGU",
+"htb6":"HINDI",
+"etb6":"ENGLISH",
+"mttb6":"MATHS-TM AND EM -SEM1 ",
+"metb6":"MATHS-EM AND TM SEM2",
+"nttb6":"SCIENCE-TM AND EM -SEM1",
+"netb6":"SCIENCE-TM AND EM -SEM2",
+"sttb6":"SOCIAL-TM AND EM -SEM1",
+"setb6":"SOCIAL-TM AND EM -SEM2",
+
+            "ttb7":"TELUGU",
+"htb7":"HINDI",
+"etb7":"ENGLISH",
+"mttb7":"MATHS-TM AND EM -SEM1 ",
+"metb7":"MATHS-EM AND TM SEM2",
+"nttb7":"SCIENCE-TM AND EM -SEM1",
+"netb7":"SCIENCE-TM AND EM -SEM2",
+"sttb7":"SOCIAL-TM AND EM -SEM1",
+"setb7":"SOCIAL-TM AND EM -SEM2",
+
+            "ttb8":"TELUGU",
+"htb8":"HINDI",
+"etb8":"ENGLISH",
+"mttb8":"MATHS-TM AND EM -SEM1 ",
+"metb8":"MATHS-EM AND TM SEM2",
+"nttb8":"NS-TM AND EM -SEM1",
+"Petb8":"NS-TM AND EM -SEM2",
+"Pttb8":"NS-TM AND EM -SEM1",
+"netb8":"NS-TM AND EM -SEM2",
+"sttb8":"SOCIAL-TM AND EM -SEM1",
+"setb8":"SOCIAL-TM AND EM -SEM2",
+
+            "ttb9":"TELUGU",
+"htb9":"HINDI",
+"etb9":"ENGLISH",
+"mttb9":"MATHS-TM AND EM -SEM1 ",
+"metb9":"MATHS-EM AND TM SEM2",
+"nttb9":"NS-TM AND EM -SEM1",
+"Petb9":"NS-TM AND EM -SEM2",
+"Pttb9":"NS-TM AND EM -SEM1",
+"netb9":"NS-TM AND EM -SEM2",
+"sttb9":"SOCIAL-TM AND EM -SEM1",
+"setb9":"SOCIAL-TM AND EM -SEM2",
+            
             
            
             
