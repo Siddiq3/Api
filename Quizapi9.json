@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.నిర్దిష్ట దిశలో ఒక వస్తువుకు గల వడిని?",
+            "question": "1.The word geometry is derived from?",
          "incorrect_answers": [
-                " దూరము",
-                "త్వరము",
-                "స్థానభ్రంశము"
+                "Latin",
+                "English",
+                "Sanskrit"
             ],
-            "correct_answer": "వేగము"
+            "correct_answer": " Greek"
         },
      
        {
-            "question": "2.కింది వానిలో సదిశ కానిది అంటాము.?",
+            "question": "2.The author of The Elements.?",
             "incorrect_answers": [
-                "త్వరణం",
-                "వేగం",
-                "స్థానభ్రంశం"
+                "Pythagoras",
+                "Thales",
+                " Plato"
             ],
-            "correct_answer": "వడి"
+            "correct_answer": "Euclid"
         },
        
         {
-           "question": "3.స్థిర వేగంతో ప్రయాణించే వ్యక్తి త్వరణం?",
+           "question": "3.Statements which are self evident?",
              "incorrect_answers": [
-               "అనంతం",
-                "ధనత్వరణం",
-                "ఋణత్వరణం"
+               "Theorems",
+                "Conjectures",
+                "Riders"
             ],
-            "correct_answer": "శూన్యం"
+            "correct_answer": "Axioms"
         },
        
         {
-            "question": "4.దిశ, పరిమాణం రెండూనూ గల భౌతిక రాశి?",
+            "question": "4.The number of dimensions of a rect-angle is?",
           "incorrect_answers": [
-               "అదిశ",
-                "రేఖీయం",
-                "ఏదీకాదు"
+               "1",
+                "2",
+                "3"
             ],
-            "correct_answer": "సదిశ"
+            "correct_answer": "4"
         },
         {
-            "question": "5.వేగంలోని మార్పురేటును తెలుపునది.",
+            "question": "5.The number of dimensions of a solid is.",
            "incorrect_answers": [
-                "స్థానభ్రంశం",
-                "వేగము",
-                "ద్రవ్యవేగము"
+               "1",
+                "2",
+                "3"
             ],
-            "correct_answer": "త్వరణం"
+            "correct_answer": "4"
         },
-        { "question": "6.దూరంకు ప్రచూణము",
+        { "question": "6.Which of the following is a simple Pythagorean triple ?",
              "incorrect_answers": [
-               "s",
-                "kg",
-                "m/s"
+               " 5, 12, 16",
+                " 6, 10, 15",
+                "8, 15, 20"
             ],
-            "correct_answer": "m"
+            "correct_answer": " 3, 4, 5"
          
           
         }
