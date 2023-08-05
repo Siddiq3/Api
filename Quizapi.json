@@ -1,58 +1,58 @@
 {
     "results": [
        {
-            "question": "The period of retreating monsoons in India is(or) భారతదేశంలో రుతుపవనాలు తిరోగమన కాలం?",
+            "question": "If A ⊂ B, then A ∩ B =(or) భారతదేశంలో రుతుపవనాలు తిరోగమన కాలం?",
             "incorrect_answers": [
-                "Mid June – Mid September",
-                "Mid May – Mid August",
-                "April – June"
+                "µ",
+                "B",
+                " Φ"
             ],
-            "correct_answer": "November – December"
+            "correct_answer": "A"
         },
         {
-            "question": "2.Monsoon burst takes place in(or)? రుతుపవనాల విస్ఫోటనం జరుగుతుంది",
+            "question": "2.The number of subsets of a set is 16, then the set has ………elements.(or)?సమితి యొక్క ఉపసమితుల సంఖ్య 16, అప్పుడు సమితి …………అంశాలు.",
             "incorrect_answers": [
-                "Goa",
-                "Chennai",
-              "Karnataka"
+                "1",
+                "2",
+              "3"
             ],
-            "correct_answer": "Kerala "
+            "correct_answer": "4 "
         },
         {
-            "question": "3. The word Excretion belongs to ……….. language.?(OR) విసర్జన అనే పదం ……………….. భాషకు చెందినది.?",
+            "question": "3.{x: x is a prime number and a divisor of 6} ?(OR){x: x అనేది ప్రధాన సంఖ్య మరియు 6} యొక్క భాజకం?",
             "incorrect_answers": [
-                "Greek",
-                "English",
-              "French"
+                "{1, 2, 3, 6}",
+                "{1, 2, 3}",
+              "{2, 3, 6}"
             ],
-            "correct_answer": "Latin"
+            "correct_answer": "{2, 3}"
         },
         {
-            "question": "4. Find the odd one different from the other three.(OR)? మిగిలిన మూడింటికి భిన్నమైన బేసిని కనుగొనండి.",
+            "question": "4.Number of subsets of the set A = {1, 2, 3, 4}is.(OR)? A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య",
             "incorrect_answers": [
-                "Carbohydrates",
-                "Fats",
-              "Proteins"
+                "4",
+                "8",
+              "12"
             ],
-            "correct_answer": "Pyrethroids"
+            "correct_answer": "16"
         },
         {
-            "question": "5. The speed of light in vacuum is (OR) శూన్యంలో కాంతి వేగం?",
+            "question": "5. If A ⊂ B then (A ∪ B) – A =(OR) A ⊂ B అయితే (A ∪ B) – A =?",
             "incorrect_answers": [
-                "3, 00, 000 kms-1",
-                "3 × 108 ms-1",
-              "3 × 105 kms-1"
+                "B",
+                "A",
+              "Φ"
             ],
-            "correct_answer": "All"
+            "correct_answer": "B – A"
         },
         {
-            "question": "6. Absolute refractive index n =(Or) సంపూర్ణ వక్రీభవన సూచిక n =",
+            "question": "6. If A ⊂ B and B ⊂ C then(Or) A⊂ B మరియు B ⊂ C అయితే",
             "incorrect_answers": [
-                "c * v",
-                "c + v",
-              "v/c"
+                "A = C",
+                "C ⊂ A",
+              " B = A"
             ],
-            "correct_answer": "c/v"
+            "correct_answer": " A ⊂ C"
         }
       
     ]
