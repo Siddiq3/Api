@@ -1,60 +1,59 @@
 {
     "results": [
        {
-            "question": "The period of retreating monsoons in India is(or) భారతదేశంలో రుతుపవనాలు తిరోగమన కాలం?",
+            "question": "1.Father of Genetics(OR)జన్యుశాస్త్రం యొక్క తండ్రి",
             "incorrect_answers": [
-                "Mid June – Mid September",
-                "Mid May – Mid August",
-                "April – June"
+                "Darwin(OR)డార్విన్",
+                "Morgan(OR)మోర్గాన్",
+                "Wallace(OR)వాలెస్"
             ],
-            "correct_answer": "November – December"
+            "correct_answer": "Mendel(OR)మెండెల్"
         },
         {
-            "question": "2.Monsoon burst takes place in(or)? రుతుపవనాల విస్ఫోటనం జరుగుతుంది",
-            "incorrect_answers": [
-                "Goa",
-                "Chennai",
-              "Karnataka"
+            "question": "2.The PERCENT of short character in F2 generation is(OR)F2 తరంలో చిన్న అక్షరం యొక్క శాతం",
+         "incorrect_answers": [
+                " 100 PERCENT.",
+                "50 PERCENT",
+                "75 PERCENT"
             ],
-            "correct_answer": "Kerala "
+            "correct_answer": "25 PERCENT"
         },
         {
-            "question": "3. The word Excretion belongs to ……….. language.?(OR) విసర్జన అనే పదం ……………….. భాషకు చెందినది.?",
+           "question": "3.According to Mendel, for one character there is a pair of(OR)మెండెల్ ప్రకారం, ఒక పాత్ర కోసం ఒక జత ఉంది",
             "incorrect_answers": [
-                "Greek",
-                "English",
-              "French"
+                "Traits(OR)లక్షణాలు",
+                "Genes(OR)జన్యువులు",
+                "Homozygous(OR)హోమోజైగస్"
             ],
-            "correct_answer": "Latin"
+            "correct_answer": "Factors(OR)కారకాలు"
         },
         {
-            "question": "4. Find the odd one different from the other three.(OR)? మిగిలిన మూడింటికి భిన్నమైన బేసిని కనుగొనండి.",
-            "incorrect_answers": [
-                "Carbohydrates",
-                "Fats",
-              "Proteins"
+            "question": "4If Yy represents yellow colour, then which colour will be dominant ?(OR)Y పసుపు రంగును సూచిస్తే, ఏ రంగు ప్రధానంగా ఉంటుంది?",
+           "incorrect_answers": [
+                "Green",
+              "White",
+                "Red"
             ],
-            "correct_answer": "Pyrethroids"
+            "correct_answer": "Yellow"
         },
         {
-            "question": "5. The speed of light in vacuum is (OR) శూన్యంలో కాంతి వేగం?",
-            "incorrect_answers": [
-                "3, 00, 000 kms-1",
-                "3 × 108 ms-1",
-              "3 × 105 kms-1"
+            "question": "5.The allosome in males is(OR)మగవారిలో అలోసోమ్ ....ఉంది",
+          "incorrect_answers": [
+                "XX",
+                "XXXX",
+                "XO"
             ],
-            "correct_answer": "All"
+            "correct_answer": "XY"
         },
-        {
-            "question": "6. Absolute refractive index n =(Or) సంపూర్ణ వక్రీభవన సూచిక n =",
-            "incorrect_answers": [
-                "c * v",
-                "c + v",
-              "v/c"
+        { "question": "6.The genotypic ratio in F1 generation when crossed the tall and short plants.(OR)పొడవైన మరియు పొట్టి మొక్కలను దాటినప్పుడు F1 తరంలో జన్యురూప నిష్పత్తి.?",
+             "incorrect_answers": [
+                "3 : 1",
+                "9 : 3 : 3 :1",
+                "1 : 2 : 3"
             ],
-            "correct_answer": "c/v"
+            "correct_answer": "1 : 2: 1"
+          
         }
       
     ]
 }
-                  
