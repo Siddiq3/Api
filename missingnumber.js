@@ -333,9 +333,65 @@
         },
 
          {
-            "question": "",
+            "question": "18, 27, 36, 63, 72, ___________",
          "incorrect_answers": [
-                "",
+                "(b) 79",
+                "(c) 90",
+                "(d) 82"
+            ],
+            "correct_answer": "(a) 81",
+        "explanation:"1+8=9, 2+7=9, 3+6=9, and reverse 6+3=9, 7+2=9, 8+1=9, Answer - 81 "
+        },
+
+         {
+            "question": "1, 10, 27, 52, 85, ___________",
+         "incorrect_answers": [
+                "(b) 124",
+                "(c) 121",
+                "(d) 144"
+            ],
+            "correct_answer": "(a) 126",
+        "explanation:"1^2+0=1, 3^2+1=10, 5^2+2=27, 7^2+3=52, 9^2+4=85, 11^2+5=126"
+        },
+
+         {
+            "question": "882, 776, 672, 570, 470, ___________",
+         "incorrect_answers": [
+                "(a) 721",
+                "(b) 425",
+                "(d) 384"
+            ],
+            "correct_answer": "(c) 372",
+        "explanation:"99*9-9=882, 98*8-8=776, 97*7-7=672, 96*6-6=570, 95*5-5=470, 94*4-4=372"
+        },
+
+         {
+            "question": "98, 12, 87, 23, 76, 34, 65, ___________",
+         "incorrect_answers": [
+                "(b) 63",
+                "(c) 54",
+                "(d) 72"
+            ],
+            "correct_answer": "(a) 45",
+        "explanation:"Series I - 11*9-1, 11*8-1, 11*7-1, 11*6-1 ---- 98,87,76,65
+ Series II - 11*1+1, 11*2+1, 11*3+1, 11*4+1 ---- 12,23,34,45"
+        },
+
+         {
+            "question": "11, 31, 69, 131, 223, ___________",
+         "incorrect_answers": [
+                "(a) 341",
+                "(c) 296",
+                "(d) 310"
+            ],
+            "correct_answer": "(b) 351",
+        "explanation:"2^3+3=11, 3^3+4=31, 4^3+5=69, 5^3+6=131, 6^3+7=223, 7^3+8=351"
+        },
+
+         {
+            "question": "4, 9, 25, 49, 121, 169, 289, ___________",
+         "incorrect_answers": [
+                "(a) 341 (b) 351 (c) 391 (d) 361",
                 "",
                 ""
             ],
@@ -344,9 +400,9 @@
         },
 
          {
-            "question": "",
+            "question": "5, 10, 17, 26, 37, ___________",
          "incorrect_answers": [
-                "",
+                "(a) 49 (b) 50 (c) 48 (d) 56",
                 "",
                 ""
             ],
@@ -355,9 +411,9 @@
         },
 
          {
-            "question": "",
+            "question": "99, 96, 91, 84, 75, 64, 51, ___________",
          "incorrect_answers": [
-                "",
+                "(a) 38 (b) 32 (c) 36 (d) 30",
                 "",
                 ""
             ],
@@ -366,9 +422,9 @@
         },
 
          {
-            "question": "",
+            "question": "24, 36, 58, 79, 1110, 1312 ___________",
          "incorrect_answers": [
-                "",
+                "(a) 1714 (b) 1713 (c) 1711 (d) 1715",
                 "",
                 ""
             ],
@@ -377,64 +433,9 @@
         },
 
          {
-            "question": "",
+            "question": "6, 6, 20, 20, 42, 42, ___________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
+                "(a) 68 (b) 72 (c) 76 (d) 78",
                 "",
                 ""
             ],
