@@ -391,386 +391,390 @@
          {
             "question": "4, 9, 25, 49, 121, 169, 289, ___________",
          "incorrect_answers": [
-                "(a) 341 (b) 351 (c) 391 (d) 361",
-                "",
-                ""
+                "(a) 341",
+                "(b) 351",
+                "(c) 391"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "(d) 361",
+        "explanation:"Prime numbers squares. "
         },
 
          {
             "question": "5, 10, 17, 26, 37, ___________",
          "incorrect_answers": [
-                "(a) 49 (b) 50 (c) 48 (d) 56",
-                "",
-                ""
+                "(a) 49",
+                "(c) 48",
+                "(d) 56"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "(b) 50",
+        "explanation:"1*2+3 = 5, 2*3+4=10, 3*4+5=17, 4*5+6=26, 5*6+7=37, 6*7+8=50"
         },
 
          {
             "question": "99, 96, 91, 84, 75, 64, 51, ___________",
          "incorrect_answers": [
-                "(a) 38 (b) 32 (c) 36 (d) 30",
-                "",
-                ""
+                "(a) 38",
+                "(b) 32",
+                "(d) 30"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "(c) 36",
+        "explanation:"100-1=99, 100-4=96, 100-9=91, 100-16=84, 100-25=75, 100-36=64, 100-49=51, 100-64=36"
         },
 
          {
             "question": "24, 36, 58, 79, 1110, 1312 ___________",
          "incorrect_answers": [
-                "(a) 1714 (b) 1713 (c) 1711 (d) 1715",
-                "",
-                ""
+                "(b) 1713",
+                "(c) 1711",
+                "(d) 1715"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "(a) 1714",
+        "explanation:"(a) Prime number composite number
+ (Excluding the number) it self"
         },
 
          {
             "question": "6, 6, 20, 20, 42, 42, ___________",
          "incorrect_answers": [
-                "(a) 68 (b) 72 (c) 76 (d) 78",
-                "",
-                ""
+                "(a) 68",
+                "(c) 76",
+                "(d) 78"
             ],
-            "correct_answer": "",
+            "correct_answer": "(b) 72",
+        "explanation:"2*2+2=6, 3*3-3=6, 4*4+4=20, 5*5-5=20, 6*6+6=42, 7*7-7=42, 8*8+8=72"
+        },
+
+         {
+            "question": "4096, 3375, 2740, 2197, 1728, 1331",
+         "incorrect_answers": [
+                "a. 3375",
+                "c. 2197",
+                "d. 1331"
+            ],
+            "correct_answer": "b. 2740",
+        "explanation:"16^3=4096, 15^3=3375, 14^3=2744, 13^3=2197, 12^3=1728, 11^3=1331"
+        },
+
+         {
+            "question": "288,168,121,48,24,8,3",
+         "incorrect_answers": [
+                "a. 168",
+                "b. 48",
+                "c. 24"
+            ],
+            "correct_answer": "d. 121",
+        "explanation:"17^2-1=288, 13^2-1=168, 11^2-1=120, 7^2-1=48, 5^2-1=24, 3^2-1=8, 2^2-1=3"
+        },
+
+         {
+            "question": "10, 34, 84,144, 230, 318",
+         "incorrect_answers": [
+                "a. 318",
+                "b. 230",
+                "d. 34"
+            ],
+            "correct_answer": "c. 144",
+        "explanation:"3^2+1=10, 6^2-2=34, 9^2+3=84, 12^2-4=140, 15^2+5=230, 18^2-6=318"
+        },
+
+         {
+            "question": "2, 6, 12, 20, 36, 42, 56",
+         "incorrect_answers": [
+                "a.12",
+                "c.56",
+                "d.42"
+            ],
+            "correct_answer": "b.36",
+        "explanation:"1^2+1=2, 2^2+2=6, 3^2+3=12, 4^2+4=20, 5^2+5=30, 6^2+6=42, 7^2+7=56"
+        },
+
+         {
+            "question": "3, 15, 35, 65, 99, 143, 195",
+         "incorrect_answers": [
+                "a. 35",
+                "c. 99",
+                "d. 195"
+            ],
+            "correct_answer": "b. 65",
+        "explanation:"1x3=3, 3x5=15, 5x7=35, 7x9=63, 9x11=99, 11x13=143, 13x15=195"
+        },
+
+         {
+            "question": "7, 13, 20, 27, 35, 43, 52, 59",
+         "incorrect_answers": [
+                "a. 13",
+                "b. 27",
+                "d. 52"
+            ],
+            "correct_answer": "c. 35",
+        "explanation:"5+2=7, 10+3=13, 15+5=20, 20+7=27, 25+11=36, 30+13=43, 35+17=52, 40+19=59"
+        },
+
+         {
+            "question": "2, 8, 18, 32, 54, 72, 98",
+         "incorrect_answers": [
+                "b. 72",
+                "c. 98",
+                "d. 18"
+            ],
+            "correct_answer": "a. 54",
+        "explanation:"1x2=2, 4x2=8, 9x2=18, 16x2=32, 25x2=50, 36x2=72, 49x2=98"
+        },
+
+         {
+            "question": "486.7, 48.77, 4.977, 0.5977, 0.15977, 0.25977",
+         "incorrect_answers": [
+                "a. 0.15977",
+                "b.0.5977",
+                "d. 48.77"
+            ],
+            "correct_answer": "c. 0.25977",
+        "explanation:"(486.7+1)/10=48.77, (48.77+1)/10=4.977, (4.977+1)/10=0.5977, (0.5977+1)/10=0.15977, (0.15977+1)/10=0.115977"
+        },
+
+         {
+            "question": "64, 74, 94, 124, 164, 204, 274, 344",
+         "incorrect_answers": [
+                "a. 94",
+                "b. 164",
+                "d. 344"
+            ],
+            "correct_answer": "c. 204",
+        "explanation:"64+10=74, 74+20=94, 94+30=124, 124+40=164, 164+50=214, 214+60=274, 274+70=344 "
+        },
+
+         {
+            "question": "10, 15, 25, 35, 50, 65, 85, 95",
+         "incorrect_answers": [
+                "a.15",
+                "c. 85",
+                "d. 95"
+            ],
+            "correct_answer": "b. 50",
+        "explanation:"2x5=10, 3x5=15, 5x5=25, 7x5=35, 11x5=55, 13x5=65, 17x5=85, 19x5=95 "
+        },
+
+         {
+            "question": "8.9, 5.8, 2.7, ____,-3.5,-6.6",
+         "incorrect_answers": [
+                "a) -0.3",
+                "b) -0.6",
+                "d) -0.8"
+            ],
+            "correct_answer": "c) -0.4",
+        "explanation:"8.9-3.1=5.8, 5.8-3.1=2.7, 2.7-3.1=-0.4, -0.4-3.1=-3.5, -3.5-3.1=-6.6"
+        },
+
+         {
+            "question": "1, 3, 10, ___, 39, 61",
+         "incorrect_answers": [
+                "b) 32",
+                "c) 17",
+                "d) 27"
+            ],
+            "correct_answer": "a) 22",
         "explanation:""
         },
 
          {
-            "question": "",
+            "question": "10, 15, 21, 28, 36, ___, 55",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 43",
+                "c) 48",
+                "d) 50"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "b) 45",
+        "explanation:"Triangle numbers from 10,15,21,28,36,45,55"
         },
 
          {
-            "question": "",
+            "question": "4, 16, 36, 64, 100, ____",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 121",
+                "b) 169",
+                "d) 81"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "c) 144",
+        "explanation:"2^2, 4^2, 6^2, 8^2, 10^2, 12^2"
         },
 
          {
-            "question": "",
+            "question": "2, 9, 64, 625, ____",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b) 7896",
+                "c) 5496",
+                "d) 4969"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a) 7776",
+        "explanation:"2^1, 3^2, 4^3, 5^4, 6^5"
         },
 
          {
-            "question": "",
+            "question": "2, 3, 12, 18, 72, ____, 432",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 106",
+                "b) 122",
+                "c) 110"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "d) 108",
+        "explanation:"Series I - 2*6=12, 12*6=72, 72*6=432
+ Series II - 3*6=18, 18*6=108 "
         },
 
          {
-            "question": "",
+            "question": "11, 12, 17, 24, 33, ____, 57, 72",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 42",
+                "b) 40",
+                "c) 46"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "d) 44",
+        "explanation:"11+1^2=12, 13+2^2=17, 15+3^2=24
+     17+4^2=33, 19+5^2=44, 21+6^2=57, 23+7^2=72"
         },
 
          {
-            "question": "",
+            "question": "81, 72, 72, 63, 63, ____, 54",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 72",
+                "b) 63",
+                "d) 57"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "c) 54",
+        "explanation:"97-(9+7)=81, 89-(8+9)=72, 83-(8+3)=72, 79-(7+9)=63, 73-(7+3)=63, 71-(7+1)=63, 67-(6+7)=54"
         },
 
          {
-            "question": "",
+            "question": "6, 21, 52, ____, 186,301",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b) 101",
+                "c) 98",
+                "d) 112"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a) 105",
+        "explanation:"2^2*1+2=6, 3^2*2+3=21, 4^2*3+4=52, 5^2*4+5=105, 6^2*5+6=186, 7^2*6+7=301"
         },
 
          {
-            "question": "",
+            "question": "41, 43, 47, 53, 59, ____",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) 63",
+                "b) 71",
+                "d) 67"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "c) 61",
+        "explanation:" Prime numbers from 41 "
         },
 
          {
-            "question": "",
+            "question": "8000, 6859, ________4913, 4096, 3375",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. 5824",
+                "c. 5852",
+                "d. 5812"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a. 5832",
+        "explanation:"20^3, 19^3, 18^3, 17^3, 16^3, 15^3"
         },
 
          {
-            "question": "",
+            "question": "45, 54, 63, 36, 49, 94, 83,_______",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. 36",
+                "c.81",
+                "d. 64"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a. 38",
+        "explanation:" Reverse the digits of previous number"
         },
 
          {
-            "question": "",
+            "question": "2, 10, 37, 101, 226,______,785",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 498",
+                "c. 464",
+                "d. 396"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "b. 442",
+        "explanation:"1+1^3=2, 2+2^3=10, 10+3^3=37, 37+4^3=101, 101+5^3=226, 226+6^3=442, 442+7^3=785"
         },
 
          {
-            "question": "",
+            "question": "11, 12, 15, 16, 19, 20, 23,__________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 32",
+                "b. 26",
+                "c. 22"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "d. 24",
+        "explanation:"Series I =>11, 11+4, 15+4, 19+4, => 11,15,19,23
+ Series II => 12, 12+4, 16+4, 20+4, => 12,16,20,24 "
         },
 
          {
-            "question": "",
+            "question": "0, 2, 6, 12, 20,________42",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 28",
+                "b. 27",
+                "d. 25"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "c. 30",
+        "explanation:"1^2-1=0, 2^2-2=2, 3^2-3=6, 4^2-4=12, 5^2-5=20, 6^2-6=30, 7^2-7=42"
         },
 
          {
-            "question": "",
+            "question": "7, 13, 21, 31, 43,__________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. 62",
+                "c. 49",
+                "d. 54"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a. 57",
+        "explanation:"2^2+3=7, 3^2+4=13, 4^2+5=21, 5^2+6=31, 6^2+7=43, 7^2+8=57"
         },
 
          {
-            "question": "",
+            "question": "10, 9, 14, 1, 26, ________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. +9",
+                "c. -7",
+                "d. +15"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a. -15",
+        "explanation:"10+0^2=10, 10-1^2=9, 10+2^2=14, 10-3^2=1, 10+4^2=26, 10-5^2=-15 "
         },
 
          {
-            "question": "",
+            "question": "200, 220, 242, 266.2, 292.82,_______",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 324.102",
+                "b. 320.102",
+                "c. 322.106"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "d. 322.102",
+        "explanation:"200+10%of200, 220+10%of220, 242+10%of242, 266.2+10%of266.2, 292.82+10%of292.82=322.102"
         },
 
          {
-            "question": "",
+            "question": "5, 11, 29, 55, 131, __________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. 145",
+                "c. 150",
+                "d. 165"
             ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "a. 181",
+        "explanation:"2+2^2-1=5, 3+3^2-1=11, 5+5^2-1=29, 7+7^2-1=55, 11+11^2-1=131, 13+13^2-1=181 ( 2,3,5,7,11,13 are primes ) "
         },
 
          {
-            "question": "",
+            "question": "6, 12, 30, 56, 132, 182, 306, __________",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 370",
+                "c. 349",
+                "d. 327"
             ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
-        },
-
-         {
-            "question": "",
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation:""
+            "correct_answer": "b. 380",
+        "explanation:"2^2+2=6, 3^2+3=12, 5^2+5=30, 7^2+7=56, 11^2+11=132, 13^2+13=182, 17^2+17=306, 19^2+19=380"
         },
 
          {
