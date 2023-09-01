@@ -2,104 +2,105 @@
     "results": [
      
       {
-            "question": "",
+            "question": "Anemometer: Wind direction : : Odometer:? ",
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Odour",
+                "b. Speed",
+                "c. Time"
             ],
-            "correct_answer": "",
-        "explanation":"",
+            "correct_answer": "d. Distance",
+        "explanation":"Anemometer is a device used to measure wind direction. Odometer
+is used to measure distance travelled by a vehicle.",
         },
       {
-            "question": " "
+            "question": "Energy : Joule :: Force :? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Watt",
+                "c. Hertz",
+                "d. Ampere"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Newton",
+        "explanation":"Second one is unit of first one"
         },
         {
-            "question": " "
+            "question": "Soldiers : Army : : Flowers : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Flock",
+                "c. Troupe",
+                "d. Swarm"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. Bouquet",
+        "explanation":"Group of first one is called as second one"
         },
         {
-            "question": " "
+            "question": "Butter fly : Insect : : Snake : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Mollusca",
+                "b. Mammal",
+                "c. Rodent"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Reptile",
+        "explanation":"Individual - class"
         },
         {
-            "question": " "
+            "question": "Mars : Red : : Neptune : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Brown",
+                "c. Gray",
+                "d. White"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. Blue",
+        "explanation":"Planet - colours"
         },
         {
-            "question": " "
+            "question": "Kilogram : Mass : : Ampere : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Temperature",
+                "c. Power",
+                "d. Velocity"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Current",
+        "explanation":"All are units"
         },
         {
-            "question": " "
+            "question": "New Delhi : India : : Dhaka : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Poland",
+                "c. Afghanisthan",
+                "d.Singapore"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. Bangaladesh",
+        "explanation":"Capitals of countries"
         },
         {
-            "question": " "
+            "question": "Wolfrum : Tungstan : : Copper : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Iron",
+                "b. Lead",
+                "d. Sodium"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Cuprum",
+        "explanation":"All are Latin names of elements"
         },
         {
-            "question": " "
+            "question": "125 : 5 ::___?__: 7 "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. 49",
+                "c. 81",
+                "d. 216"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a.343",
+        "explanation":"Cube and cube root"
         },
         {
-            "question": " "
+            "question": "Teacher : School : : Doctor : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Nurse",
+                "b. Pharmacy",
+                "d. Medicine"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Hospital",
+        "explanation":"Profession and working place"
         },
         {
             "question": " "
