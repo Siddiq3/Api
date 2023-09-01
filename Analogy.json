@@ -153,155 +153,157 @@ is used to measure distance travelled by a vehicle."
         "explanation":"National bird country."
         },
         {
-            "question": " "
+            "question": "Darwin : Evolution :: Archimedes : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Friction",
+                "b. Liquids",
+                "c. Lubrication"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Buoyancy",
+        "explanation":"Scientist and theory, he proposed"
         },
         {
-            "question": " "
+            "question": "Muslim : Mosque :: Sikh : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Golden Temple",
+                "b. Lotus Temple",
+                "c. Medina"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Gurudwara",
+        "explanation":"The place of worship"
         },
         {
-            "question": " "
+            "question": "Horse : pony :: Dog : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Insect : Caterpillar",
+                "c. Sheep : Calf",
+                "d. Lion : Lamb"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Dog : Puppy",
+        "explanation":"Animal and its young one"
         },
         {
-            "question": " "
+            "question": "Wood cutter : axe :: Tailor : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. pen",
+                "c. Wheel",
+                "d. Stethe scope"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. needle",
+        "explanation":"Worker and tool"
         },
         {
-            "question": " "
+            "question": "Gold : Silver :: Carbon : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Cadmium",
+                "b. Tungsten",
+                "c. Barium"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Sulphur",
+        "explanation":"Reason : Gold, silver -> Metal
+Carbon, Sulphur -> Non Metal"
         },
         {
-            "question": " "
+            "question": "Flower : Bud : : Plant : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b) leaf"
+                "c) Flower",
+                "d) Twig"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a) Seed",
+        "explanation":"First one comes from second"
         },
         {
-            "question": " "
+            "question": "Melt : Liquid : : Freeze : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b) Condens",
+                "c) Gas",
+                "d) Crystal"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a) Solid",
+        "explanation":"A solid melts, it becomes liquid
+A liquid freezes to become solid"
         },
         {
-            "question": " "
+            "question": "Chef : Kitchen "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) Farmer : Hospital",
+                "c) Pilot : School",
+                "d) Actor : Parlour"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b) Sailor : Ship",
+        "explanation":"Worker and working place"
         },
         {
-            "question": " "
+            "question": "Blue : Green : Red "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) Traffic light",
+                "b) Colours in Indian National Flag",
+                "d) Secondary colours"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c) Primary colours",
+        "explanation":"Reason : Blue, Green, Red are primary colours."
         },
         
         {
-            "question": " "
+            "question": "Common Salt :: Water : Vinegar "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) Metals",
+                "b) Non-metals",
+                "c) Elements"
             ],
-            "correct_answer": "",
+            "correct_answer": "d) Compounds",
+        "explanation":"Reason :"
+        },
+        {
+            "question": "Triangle : Square : Rectangle "
+         "incorrect_answers": [
+                "a) Sphere",
+                "c) Cylinder",
+                "d) Cone"
+            ],
+            "correct_answer": "b) Circle",
+        "explanation":"All are 2D shapes"
+        },
+        {
+            "question": "Crane : Crow : Sparrow "
+         "incorrect_answers": [
+                "b) Kiwi",
+                "c) Hen",
+                "d) Ostrich"
+            ],
+            "correct_answer": "a) Eagle",
+        "explanation":"Fly long distances in air"
+        },
+        {
+            "question": "972 : 4 : : 375 : ? "
+         "incorrect_answers": [
+                "a) 10",
+                "b) 12",
+                "c) 14"
+            ],
+            "correct_answer": "d) 15",
+        "explanation":"First one is divisibel by second"
+        },
+        {
+            "question": "DEH : JKN : : PQT : ? "
+         "incorrect_answers": [
+                "b) UVX",
+                "c) UVZ",
+                "d) VWX"
+            ],
+            "correct_answer": "a) VWZ",
         "explanation":""
         },
         {
-            "question": " "
+            "question": "Furniture : wood "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a) Butter : Ghee",
+                "b) Flour : Roti",
+                "d) Brick : Wall"
             ],
-            "correct_answer": "",
-        "explanation":""
-        },
-        {
-            "question": " "
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-        },
-        {
-            "question": " "
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-        },
-        {
-            "question": " "
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-        },
-        {
-            "question": " "
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c) Prism : Glass",
+        "explanation":"Furniture is made up of wood.(first one made from second one)"
         },
         {
             "question": " "
