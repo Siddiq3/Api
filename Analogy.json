@@ -103,54 +103,54 @@ is used to measure distance travelled by a vehicle."
         "explanation":"Profession and working place"
         },
         {
-            "question": " "
+            "question": "Temperature : Thermometer :: Pressure : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Lactometer",
+                "b. Anemometer",
+                "d. Hydrometer"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Barometer",
+        "explanation":"Reason : Devices use to measure physical quantity."
         },
         {
-            "question": " "
+            "question": "Kilogram : Mass :: Ohm : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Electric current",
+                "c. Potential Difference",
+                "d. Conductivity"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Resistance",
+        "explanation":"First one unit of second."
         },
         {
-            "question": " "
+            "question": "Bees : Swarm :: Fish: ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Army",
+                "b. Bunch",
+                "d. Shook"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Shoal",
+        "explanation":"Group of first one is called as second one."
         },
         {
-            "question": " "
+            "question": "Dog : Kennel :: Horse : ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Shed",
+                "b. Den",
+                "d. Farm"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Stable",
+        "explanation":"Animal and Dwelling places."
         },
         {
-            "question": " "
+            "question": "Peacock : India :: Emu: ? "
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Russia",
+                "b. England",
+                "c. Bhutan"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Australia",
+        "explanation":"National bird country."
         },
         {
             "question": " "
