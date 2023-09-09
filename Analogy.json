@@ -445,43 +445,43 @@ A liquid freezes to become solid"
         "explanation":"Reverse order of alphabets"
       },
         {
-            "question": ""
+            "question": "Ammonium Ion : 1 :: Aluminium Ion : ?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 1",
+                "b. 2",
+                "d. 4"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. 3",
+        "explanation":"Second one is the valency of first one"
       },
         {
-            "question": ""
+            "question": "Clock : Alarm"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Library : Book",
+                "b. Motor car : Engine",
+                "c. House : Room"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Factory : Siren",
+        "explanation":"Second one is sound of first one."
       },
         {
-            "question": ""
+            "question": "Duck : Waddle"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Cock : Swoop",
+                "c. Cat : Hew",
+                "d. Dog : Bark"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Bird : Fly",
+        "explanation":"Second one is movement of first one."
       },
         {
-            "question": ""
+            "question": "Femur : Tibia : Fibula"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Plants",
+                "c. Roots",
+                "d. Glands"
             ],
-            "correct_answer": "",
+            "correct_answer": "b. Bones",
         "explanation":""
       },
         {
