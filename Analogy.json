@@ -293,19 +293,159 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "a) VWZ",
         "explanation":""
-        },
+       },
         {
-            "question": "Furniture : wood "
+            "question": "Sodium chloride : Ionic Bond :: Water:?"
          "incorrect_answers": [
-                "a) Butter : Ghee",
-                "b) Flour : Roti",
-                "d) Brick : Wall"
+                "a. Ionic Bond",
+                "c. Coordinate Covalent Bond",
+                "d. Metalic Bond"
             ],
-            "correct_answer": "c) Prism : Glass",
-        "explanation":"Furniture is made up of wood.(first one made from second one)"
-        },
+            "correct_answer": "b. Covalent Bond",
+        "explanation":"Second one indicates the bond present in first one"
+      },
         {
-            "question": " "
+            "question": "Pen : Write :: Spade : ?"
+         "incorrect_answers": [
+                "a. Feed",
+                "b. Shoot",
+                "c. Row"
+            ],
+            "correct_answer": "d. Dig",
+        "explanation":"Second one indicate the action of first one."
+      },
+        {
+            "question": "Blend : Mix"
+         "incorrect_answers": [
+                "a. Fierce : Force",
+                "b. Alight : Lighting",
+                "d. Vacant : Full"
+            ],
+            "correct_answer": "c. Assign : Allot",
+        "explanation":"word and its synonym"
+      },
+        {
+            "question": "Cricket : Bat"
+         "incorrect_answers": [
+                "b. Golf : Field",
+                "c. Boxing : Ring",
+                "d. Shuttle : coart"
+            ],
+            "correct_answer": "a. Hockey : Stick",
+        "explanation":"Second one is used to play first one"
+      },
+        {
+            "question": "Mew : Hiss : Bray"
+         "incorrect_answers": [
+                "a. Movements of animals",
+                "b. Dwelling places",
+                "c. Type of animals"
+            ],
+            "correct_answer": "d. Sound of animals",
+        "explanation":""
+      },
+        {
+            "question": "Methane : Tetrahedral: : Ammonia : ?"
+         "incorrect_answers": [
+                "(a) Tetrahedral",
+                "(c) V-shape",
+                "(d) Linear"
+            ],
+            "correct_answer": "(b) Pyramidal",
+        "explanation":"Second one indicates the shape of first one."
+      },
+        {
+            "question": "Lock : Key : : Door : ?"
+         "incorrect_answers": [
+                "(b) Table",
+                "(c) wood",
+                "(d) Chair"
+            ],
+            "correct_answer": "(a) Window",
+        "explanation":"Pair relationship"
+      },
+        {
+            "question": "Touch : Push ?"
+         "incorrect_answers": [
+                "(a) Speak : silence",
+                "(b) Error : Correction",
+                "(d) Unhappy : Happy"
+            ],
+            "correct_answer": "(c) Refuse : Deny",
+        "explanation":"Word - intensity relationship"
+      },
+        {
+            "question": "Best : Worst ?"
+         "incorrect_answers": [
+                "(b) Brim : Edge",
+                "(c) Assign : Allot",
+                "(d) Ban : Prohibition"
+            ],
+            "correct_answer": "(a) Lend : Borrow",
+        "explanation":"Word and its antonym"
+      },
+        {
+            "question": "Yen : Rand : Pound ?"
+         "incorrect_answers": [
+                "(a) Weight measurement",
+                "(c) Capitals",
+                "(d) Countries"
+            ],
+            "correct_answer": "(b) Currencies",
+        "explanation":""
+      },
+        {
+            "question": "Cartosat : GSAT : INSAT ?"
+         "incorrect_answers": [
+                "(b) Launch vehicles",
+                "(c) Space stations",
+                "(d) Planets"
+            ],
+            "correct_answer": "(a) Satellites",
+        "explanation":"All are Indian made satellites"
+      },
+        {
+            "question": "Narendra modi : manmohan singh : A.B.Vajpayee ?"
+         "incorrect_answers": [
+                "(a) A.P.J Abdul Kalam",
+                "(c) Ramnad Kovind",
+                "(d) Pratibha Patil"
+            ],
+            "correct_answer": "(b) P.V Narasimha Rao",
+        "explanation":"All are Prime ministers of India"
+      },
+        {
+            "question": "Lemon juice : Blue litmus : Red ?"
+         "incorrect_answers": [
+                "(a) Lime water : Blue litmus : Red",
+                "(b) Vinegar : Red litmus : Blue",
+                "(c) Tamarind : Red litmus : Blue"
+            ],
+            "correct_answer": "(d) Detergent : Red litmus : Blue",
+        "explanation":"First and Second one react to give third"
+      },
+        {
+            "question": "3 : 243 : : 2 : ?"
+         "incorrect_answers": [
+                "(a) 24",
+                "(b) 34",
+                "(d) 43"
+            ],
+            "correct_answer": "(c) 32",
+        "explanation":"3^5=243; 2^5=32"
+      },
+        {
+            "question": "ABC : ZYX : : DEF : ?"
+         "incorrect_answers": [
+                "(a) UVW",
+                "(b) UWV",
+                "(d) WUV"
+            ],
+            "correct_answer": "(c) WVU",
+        "explanation":"Reverse order of alphabets"
+      },
+        {
+            "question": ""
          "incorrect_answers": [
                 "",
                 "",
@@ -313,9 +453,9 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "",
         "explanation":""
-        },
+      },
         {
-            "question": " "
+            "question": ""
          "incorrect_answers": [
                 "",
                 "",
@@ -323,9 +463,9 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "",
         "explanation":""
-        },
+      },
         {
-            "question": " "
+            "question": ""
          "incorrect_answers": [
                 "",
                 "",
@@ -333,9 +473,9 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "",
         "explanation":""
-        },
+      },
         {
-            "question": " "
+            "question": ""
          "incorrect_answers": [
                 "",
                 "",
@@ -343,9 +483,9 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "",
         "explanation":""
-        },
+      },
         {
-            "question": " "
+            "question": ""
          "incorrect_answers": [
                 "",
                 "",
@@ -353,5 +493,324 @@ A liquid freezes to become solid"
             ],
             "correct_answer": "",
         "explanation":""
-        }
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
+      },
+        {
+            "question": ""
+         "incorrect_answers": [
+                "",
+                "",
+                ""
+            ],
+            "correct_answer": "",
+        "explanation":""
       }
