@@ -586,54 +586,54 @@ Electricity"
         "explanation":"Type of motion"
       },
         {
-            "question": ""
+            "question": "Ichthyology : Fishes : : Haematology : ?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Heart",
+                "b. Humans",
+                "d. Floods"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Blood",
+        "explanation":"Study and topic"
       },
         {
-            "question": ""
+            "question": "If car is related to garage, animals related to"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Cellar",
+                "c. Aviary",
+                "d. Museum"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Zoo",
+        "explanation":"Animal/thing and keeping place."
       },
         {
-            "question": ""
+            "question": "Fox : Vixen"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Bull : Buffalo",
+                "c. Dog : Drake",
+                "d. Horse : Pony"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. Drone : Bee",
+        "explanation":"Male and female animals"
       },
         {
-            "question": ""
+            "question": "Triads related to Doberiener, Similarly Octaves related to ?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Mosley",
+                "b. Mendeleev",
+                "c. Neils Bhor"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Newlands",
+        "explanation":"Theory and scientist"
       },
         {
-            "question": ""
+            "question": "Becl2 : NH3 : H2O"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Double Bonds",
+                "c. Triple Bonds",
+                "d. Ionic Bonds"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Single Bonds",
+        "explanation":"All consists of only single bonds."
       },
         {
             "question": ""
