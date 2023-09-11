@@ -485,104 +485,105 @@ A liquid freezes to become solid"
         "explanation":""
       },
         {
-            "question": ""
+            "question": "81 : 64 : : 49 : ?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. 17",
+                "b. 18",
+                "d. 34"
             ],
-            "correct_answer": "",
+            "correct_answer": "c. 36",
+        "explanation":"92=81, 82=64, 72=49, 62=36"
+      },
+        {
+            "question": "Thermo settings : Bakelite : : Thermo Plastic : ?"
+         "incorrect_answers": [
+                "a. Melamine",
+                "c. Wood",
+                "d. Tungsten"
+            ],
+            "correct_answer": "b. Polythene",
+        "explanation":"Second one is example for first one."
+      },
+        {
+            "question": "Coin : Mint : :"
+         "incorrect_answers": [
+                "a. Church : Pray",
+                "c. School : Study",
+                "d. Horse : Stable"
+            ],
+            "correct_answer": "b. Grain : Field",
+        "explanation":"First one is produced in second one."
+      },
+        {
+            "question": "Cock : Strut : :"
+         "incorrect_answers": [
+                "b. Frog : Croak",
+                "c. Snake : Hiss",
+                "d. Elephant : trumpet"
+            ],
+            "correct_answer": "a. Eagle : Swoop",
+        "explanation":"Second is the movement of first one."
+      },
+        {
+            "question": "Thyroid : Adrenaline : : Pitutory :"
+         "incorrect_answers": [
+                "a) Plants",
+                "b) Bones",
+                "c) Roots"
+            ],
+            "correct_answer": "d) Glands",
         "explanation":""
       },
         {
-            "question": ""
+            "question": "China : Asia :: ? : Africa"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Japan",
+                "b. Malaysia",
+                "c. India"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "d. Kenya",
+        "explanation":"Country and continent"
       },
         {
-            "question": ""
+            "question": "Copper : Metal Conducting Electricity :: ? : Non metal conducting
+Electricity"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "b. Iron",
+                "c. Silver",
+                "d. Zinc"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "a. Graphite",
+        "explanation":"First one is example of second one"
       },
         {
-            "question": ""
+            "question": "Ornithology is related to Birds. Similarly Seismology is related to?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Stars",
+                "b. Satellites",
+                "d. Fishes"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Earth quakes",
+        "explanation":"Study and Topic"
       },
         {
-            "question": ""
+            "question": "Thomson is to electron as Chadwick is to?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Proton",
+                "c. Positron",
+                "d. Nutrino"
             ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "b. Neutron",
+        "explanation":"Scientist and discovery"
       },
         {
-            "question": ""
+            "question": "Bicycle : Translatory :: Pendulum : ?"
          "incorrect_answers": [
-                "",
-                "",
-                ""
+                "a. Translatory",
+                "b. Rotatory",
+                "d. Circular"
             ],
-            "correct_answer": "",
-        "explanation":""
-      },
-        {
-            "question": ""
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-      },
-        {
-            "question": ""
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-      },
-        {
-            "question": ""
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
-      },
-        {
-            "question": ""
-         "incorrect_answers": [
-                "",
-                "",
-                ""
-            ],
-            "correct_answer": "",
-        "explanation":""
+            "correct_answer": "c. Oscillatory",
+        "explanation":"Type of motion"
       },
         {
             "question": ""
