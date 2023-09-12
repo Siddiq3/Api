@@ -53,6 +53,31 @@
                "test4":"TEST PAPER-4",
                "test5":"TEST PAPER-5",
                "test6":"TEST PAPER-6",
+
+
+             "nmmsme1":"NUMBER SYSTEM -EM",
+             "nmmsme2":"ALGEBRA-EM",
+             "nmmsme3":"RATIO AND PROPORATION-EM",
+             "nmmsme4":"LINES AND ANGLES-EM",
+             "nmmsme5":"TRIANGLES-EM",
+             "nmmsme6":"QUADRILATERALS-EM",
+             "nmmsme7":"CIRLES-EM",
+             "nmmsme8":"2D AND 3D SHAPES-EM",
+             "nmmsme9":"MENSURATION-EM",
+             "nmmsme10":"STATISTICS-EM",
+
+            "nmmsmt1":"NUMBER SYSTEM -TM",
+             "nmmsmt2":"ALGEBRA-TM",
+             "nmmsmt3":"RATIO AND PROPORATION-T",
+             "nmmsmt4":"LINES AND ANGLES-TM",
+             "nmmsmt5":"TRIANGLES-TM",
+             "nmmsmt6":"QUADRILATERALS-TM",
+             "nmmsmt7":"CIRLES-TM",
+             "nmmsmt8":"2D AND 3D SHAPES-TM",
+             "nmmsmt9":"MENSURATION-TM",
+             "nmmsmt10":"STATISTICS-TM",
+
+            
             
             
            
