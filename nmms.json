@@ -27,15 +27,25 @@
            "nmms2018tm2":"2018-TM PAPER-2",
            "nmms2018tm3":"2018-TM PAPER-3",
            "nmms2018tm4":"2018-TM PAPER-4",
-          
-      "nmms2017em":"2017-EM PAPER",
+           "nmms2017em":"2017-EM PAPER",
            "nmms2017tm":"2017-TM PAPER",
            "nmms2016em":"2016-EM PAPER",
            "nmms2016tm":"2016-TM PAPER",
            "nmms2015em":"2015-EM PAPER",
            "nmms2015tm":"2015-TM PAPER",
            "nmms2014em":"2014-EM PAPER",
-           "nmms2014tm":"2014-TM PAPER"
+           "nmms2014tm":"2014-TM PAPER",
+
+            "nmmsme":"MATHS -EM",
+             "nmmsmT":"MATHS -TM",
+            "nmmspe":"PHYSICS -EM",
+             "nmmspt":"PHYSICS -TM",
+             "nmmsbe":"BIOLOGY -EM",
+             "nmmsbt":"BIOLOGY -TM",
+             "nmmsce":"CHEMISTRY -EM",
+            "nmmsct":"CHEMISTRY -TM",
+              "nmmsse":"SOCIAL -EM",
+              "nmmsst":"SOCIAL -TM",
             
             
            
