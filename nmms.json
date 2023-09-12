@@ -77,6 +77,36 @@
              "nmmsmt9":"MENSURATION-TM",
              "nmmsmt10":"STATISTICS-TM",
 
+
+
+            "nmmssie1":"8th BIOLOGY-EM",
+             "nmmssie1":"7th BIOLOGY-EM",
+             "nmmssie1":"PHYSICS-EM",
+             "nmmssie1":"CHEMISTRY-EM",
+
+              "nmmssit1":"8th BIOLOGY-TM",
+             "nmmssit1":"7th BIOLOGY-TM",
+             "nmmssit1":"PHYSICS-TM",
+             "nmmssit1":"CHEMISTRY-TM",
+
+            "nmmssoe1":"8th ECONAMICS-EM",
+             "nmmssoe2":"7th ECONAMICS-EM",
+             "nmmssoe3":"8th CIVICS-EM",
+             "nmmssoe4":"7th CIVICS-EM",
+             "nmmssoe5":"8th HISTORY-EM",
+             "nmmssoe6":"7th HISTORY-EM",
+             "nmmssoe7":"8th GEOGRAPHY-EM",
+             "nmmssoe8":"7th GEOGRAPHY-EM",
+
+              "nmmssot1":"8th ECONAMICS-TM",
+             "nmmssot2":"7th ECONAMICS-TM",
+             "nmmssot3":"8th CIVICS-TM",
+             "nmmssot4":"7th CIVICS-TM",
+             "nmmssot5":"8th HISTORY-TM",
+             "nmmssot6":"7th HISTORY-TM",
+             "nmmssot7":"8th GEOGRAPHY-TM",
+             "nmmssot8":"7th GEOGRAPHY-TM"
+
             
             
             
