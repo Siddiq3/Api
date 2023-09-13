@@ -2,63 +2,71 @@
  {
     "results": [
      
-      {
-            "question": "1.How many digits are in our number system?",
+   
+        {
+            "question": "4, 9, 25, 49, 121, ______  ",
          "incorrect_answers": [
-                "8",
-                "9",
-                "11"
+                "a. 144",
+                "b. 196",
+                "d. 100"
             ],
-            "correct_answer": "10"
+            "correct_answer": "c. 169"
+      
         },
      
-       {
-            "question": "2.Which is the least among the digits?",
-            "incorrect_answers": [
-                " 1",
-                "9",
-                "10"
+ {
+            "question": "48, 120, 168, 288, 360, ________ ",
+         "incorrect_answers": [
+                "b. 516",
+                "c. 384",
+                "d. 624"
             ],
-            "correct_answer": "0"
+            "correct_answer": "a. 528"
+     
         },
+
+         {
+            "question": "11, 41, 88, 155, 238, _______ ",
+         "incorrect_answers": [
+                "a. 329",
+                "c. 386",
+                "d. 385"
+            ],
+            "correct_answer": "b. 341"
+     
+        },
+
+         {
+            "question": "4, 11, 22, 45, 66, ______ ",
+         "incorrect_answers": [
+                "a. 82",
+                "b. 95",
+                "c. 134"
+            ],
+            "correct_answer": "d. 103"
+        
+        },
+
+         {
+            "question": "81, 72, 72 63, 63, 63, ______",
+         "incorrect_answers": [
+                "a. 72",
+                "b. 61",
+                "d. 63"
+            ],
+            "correct_answer": "c. 54"
+        
+        },
+
+         {
+            "question": "112,100,76,64,40,28,_______ ",
+         "incorrect_answers": [
+                "a. 18",
+                "b. 16",
+                "d. 63"
+            ],
+            "correct_answer": "b. 16"
        
-        {
-           "question": "3.Place value of 5 in the number 786054 IS?",
-             "incorrect_answers": [
-               "100",
-                "10",
-                "5"
-            ],
-            "correct_answer": "50"
-        },
-       
-        {
-            "question": "4.Total numbers from 100 to 999 are",
-          "incorrect_answers": [
-               "899",
-                "800",
-                "990"
-            ],
-            "correct_answer": "900"
-        },
-        {
-            "question": "5.10 crores= millions?",
-           "incorrect_answers": [
-                "10",
-                "10000",
-                "1000"
-            ],
-            "correct_answer": "100"
-        },
-        { "question": "6.How many zeroes does 100 crores have?.",
-             "incorrect_answers": [
-               "8",
-                "7",
-                "6"
-            ],
-            "correct_answer": "9"
-         
-          
         }
       
     ]
