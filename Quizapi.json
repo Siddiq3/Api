@@ -31,30 +31,30 @@
         },
 
         {
-            "question": "4.The number of a bonds in methane is (OR)మీథేన్‌లోని బంధాల సంఖ్య?",
+            "question": "4.Which is the three digit number divisible by 7 ? (OR)7చే భాగించబడే మూడు అంకెల సంఖ్య ఏది?",
           "incorrect_answers": [
-               "2",
-                "1",
-                "3"
+               "143",
+                "137",
+                "100"
             ],
-            "correct_answer": "4"
+            "correct_answer": "133"
         },
         {
-            "question": "5.Hydrocarbons contains the following elements(OR)?హైడ్రోకార్బన్‌లు క్రింది మూలకాలను కలిగి ఉంటాయి",
+            "question": "5.The HCF of 1.2 and 0.12 is(OR)?HCF 1.2 మరియు 0.12?",
            "incorrect_answers": [
-                " H, CO",
-                "N, C",
-                "H, Cl"
+                "12",
+                "120",
+                "1.2"
             ],
-            "correct_answer": "H, C"
+            "correct_answer": " 0.12"
         },
-        { "question": "6.The number of hydrogen atoms in octane is (OR)ఆక్టేన్‌లోని హైడ్రోజన్ పరమాణువుల సంఖ్య",
+        { "question": "6.The value of log3 243 = (OR)లాగ్3 విలువ 243 =?",
              "incorrect_answers": [
                " 8",
-                "16",
-                "14"
+                "6",
+                "4"
             ],
-            "correct_answer": "18"
+            "correct_answer": "5"
 
 
         }
