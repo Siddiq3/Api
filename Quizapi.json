@@ -1,13 +1,13 @@
 {
     "results": [
     {
-            "question": "1.The electronegativity of carbon is(or)కార్బన్ యొక్క ఎలెక్ట్రోనెగటివిటీ?",
+            "question": "1.The HCF of two consecutive natural numbers is(or)రెండు వరుస సహజ సంఖ్యల HCF?",
          "incorrect_answers": [
-                " 1.5",
-                " 3.5",
-                " 2"
+                "3",
+                "4",
+                "2"
             ],
-            "correct_answer": " 2.5"
+            "correct_answer": "1"
         },
 
        {
