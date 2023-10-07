@@ -21,13 +21,13 @@
         },
 
         {
-           "question": "3.Number of sigma and pi bonds in ethyne are (OR)ఇథైన్‌లోని సిగ్మా మరియు పై బంధాల సంఖ్య?",
+           "question": "3.A rational number that equals to 2.6¯¯¯ is (OR)2.6¯¯¯కి సమానమైన హేతుబద్ధ సంఖ్య?",
              "incorrect_answers": [
-               "2, 3",
-                "4,1",
-                "1, 4"
+               " 3",
+                "1",
+                "2"
             ],
-            "correct_answer": " 3, 2"
+            "correct_answer": "B) 6"
         },
 
         {
