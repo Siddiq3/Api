@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.The word geometry is derived from?",
+            "question": "1.The decimal form of 1/18 ix? (or)1/18 ix యొక్క దశాంశ రూపం?",
          "incorrect_answers": [
-                "Latin",
-                "English",
-                "Sanskrit"
+                " 0.05¯¯¯¯¯",
+                "0.5¯¯¯",
+                "0.06"
             ],
-            "correct_answer": " Greek"
+            "correct_answer": " 0.05¯¯¯"
         },
      
        {
-            "question": "2.The author of The Elements.?",
+            "question": "2.If p3 = 216, then p is? (or)p3 = 216 అయితే, p అనేది?",
             "incorrect_answers": [
-                "Pythagoras",
-                "Thales",
-                " Plato"
+                "a perfect number",
+                "an irrational number",
+                "an odd nuipber"
             ],
-            "correct_answer": "Euclid"
+            "correct_answer": " a rational number"
         },
        
         {
-           "question": "3.Statements which are self evident?",
+           "question": "3.The decimal value of 22/7 is?(or)22/7 యొక్క దశాంశ విలువ?",
              "incorrect_answers": [
-               "Theorems",
-                "Conjectures",
-                "Riders"
+               "3.421s",
+                "3.421",
+                "3.421s"
             ],
-            "correct_answer": "Axioms"
+            "correct_answer": "3.142"
         },
        
         {
-            "question": "4.The number of dimensions of a rect-angle is?",
+            "question": "4.The collection of negative numbers and whole numbers is denoted by?(or)ప్రతికూల సంఖ్యలు మరియు పూర్ణ సంఖ్యల సేకరణ దీని ద్వారా సూచించబడుతుంది?",
           "incorrect_answers": [
-               "1",
-                "2",
-                "3"
+               "N",
+                "Q",
+                "W"
             ],
-            "correct_answer": "4"
+            "correct_answer": "Z or l"
         },
         {
-            "question": "5.The number of dimensions of a solid is.",
+            "question": "5.π is?(or)π ఉంది?",
            "incorrect_answers": [
-               "1",
-                "2",
-                "3"
+               "a naturaF number",
+                "a rational number",
+                "none of these"
             ],
-            "correct_answer": "4"
+            "correct_answer": "an irrational number"
         },
-        { "question": "6.Which of the following is a simple Pythagorean triple ?",
+        { "question": "6.The square root of which number is a rational number ?(or)ఏ సంఖ్య యొక్క వర్గమూలం హేతుబద్ధ సంఖ్య?",
              "incorrect_answers": [
-               " 5, 12, 16",
-                " 6, 10, 15",
-                "8, 15, 20"
+               "14",
+                " 80",
+                " 0.004"
             ],
-            "correct_answer": " 3, 4, 5"
+            "correct_answer": "1.96"
          
           
         }
