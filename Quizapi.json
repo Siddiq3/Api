@@ -1,60 +1,60 @@
 {
     "results": [
     {
-            "question": "1.The HCF of two consecutive natural numbers is(or)రెండు వరుస సహజ సంఖ్యల HCF?",
+            "question": "1.Calorimetry is the measurement of?(or)క్యాలరీమెట్రీ అనేది కొలత?",
          "incorrect_answers": [
-                "3",
-                "4",
-                "2"
+                "temperature",
+                " pressure",
+                "mass"
             ],
-            "correct_answer": "1"
+            "correct_answer": "heat"
         },
 
        {
-            "question": "2.The fundamental theorem of arithmetic is applicable to(OR)అంకగణితం యొక్క ప్రాథమిక సిద్ధాంతం వర్తిస్తుంది?",
+            "question": "2.…………….. flows from a body at higher temperature to a body at lower temperature?(OR)………….. అధిక ఉష్ణోగ్రత వద్ద ఉన్న శరీరం నుండి తక్కువ ఉష్ణోగ్రత వద్ద ఉన్న శరీరానికి ప్రవహిస్తుంది.?",
             "incorrect_answers": [
-                "1",
-                "2",
-                "3"
+                "Temperature",
+                " Light",
+                "Electricity"
             ],
-            "correct_answer": "4"
+            "correct_answer": " Heat"
         },
 
         {
-           "question": "3.A rational number that equals to 2.6¯¯¯ is (OR)2.6¯¯¯కి సమానమైన హేతుబద్ధ సంఖ్య?",
+           "question": "3.The degree of hotness or coldness is …………………?(OR)వేడి లేదా చల్లదనం యొక్క డిగ్రీ ……………………?",
              "incorrect_answers": [
-               " 3",
-                "1",
-                "2"
+               " heat",
+                "evaporation",
+                "boiling"
             ],
-            "correct_answer": "B) 6"
+            "correct_answer": " temperature"
         },
 
         {
-            "question": "4.Which is the three digit number divisible by 7 ? (OR)7చే భాగించబడే మూడు అంకెల సంఖ్య ఏది?",
+            "question": "4.Elow of heat energy between two bodies or systems requires …………………….? (OR)రెండు శరీరాలు లేదా వ్యవస్థల మధ్య తక్కువ ఉష్ణ శక్తి అవసరం …………………….?",
           "incorrect_answers": [
-               "143",
-                "137",
-                "100"
+               " pressure difference",
+                "potential difference",
+                "all of these"
             ],
-            "correct_answer": "133"
+            "correct_answer": " temperature difference"
         },
         {
-            "question": "5.The HCF of 1.2 and 0.12 is(OR)?HCF 1.2 మరియు 0.12?",
+            "question": "5.……………… is a measure of thermal equilibrium?(OR)…………… అనేది ఉష్ణ సమతుల్యత యొక్క కొలత?",
            "incorrect_answers": [
-                "12",
-                "120",
-                "1.2"
+                " Heat",
+                "Mass",
+                " None"
             ],
-            "correct_answer": " 0.12"
+            "correct_answer": " Temperature"
         },
-        { "question": "6.The value of log3 243 = (OR)లాగ్3 విలువ 243 =?",
+        { "question": "6.Three bodies A, B and C are in thermal equilibrium, the temperature of B is 45°C, then the temperature of C is?(OR)A, B మరియు C అనే మూడు శరీరాలు ఉష్ణ సమతుల్యతలో ఉంటాయి, B యొక్క ఉష్ణోగ్రత 45 ° C, అప్పుడు C యొక్క ఉష్ణోగ్రత?",
              "incorrect_answers": [
-               " 8",
-                "6",
-                "4"
+               " 50° C",
+                "40°C",
+                " any temperature"
             ],
-            "correct_answer": "5"
+            "correct_answer": "45° C"
 
 
         }
