@@ -1,60 +1,60 @@
 {
     "results": [
     {
-            "question": "1.Calorimetry is the measurement of?(or)క్యాలరీమెట్రీ అనేది కొలత?",
+            "question": "1.The highest peak in Eastern Ghats?(or)తూర్పు కనుమలలో ఎత్తైన శిఖరం?",
          "incorrect_answers": [
-                "temperature",
-                " pressure",
-                "mass"
+                "Gursikhar",
+                "DodaBetta",
+                "Anaimudi"
             ],
-            "correct_answer": "heat"
+            "correct_answer": "Aroya Kondat"
         },
 
        {
-            "question": "2.…………….. flows from a body at higher temperature to a body at lower temperature?(OR)………….. అధిక ఉష్ణోగ్రత వద్ద ఉన్న శరీరం నుండి తక్కువ ఉష్ణోగ్రత వద్ద ఉన్న శరీరానికి ప్రవహిస్తుంది.?",
+            "question": "2.The latitude that does NOT pass through India.?(OR)భారతదేశం గుండా వెళ్ళని అక్షాంశం.?",
             "incorrect_answers": [
-                "Temperature",
-                " Light",
-                "Electricity"
+                "36° N.L.e",
+                " 12° N.L.",
+                "8° N.L."
             ],
-            "correct_answer": " Heat"
+            "correct_answer": "48° N.L."
         },
 
         {
-           "question": "3.The degree of hotness or coldness is …………………?(OR)వేడి లేదా చల్లదనం యొక్క డిగ్రీ ……………………?",
+           "question": "3.The latitude that passes through India?(OR)భారతదేశం గుండా వెళుతున్న అక్షాంశం?",
              "incorrect_answers": [
-               " heat",
-                "evaporation",
-                "boiling"
+               " Equator",
+                " Tropic of Capricorn",
+                "36°N"
             ],
-            "correct_answer": " temperature"
+            "correct_answer": "Tropic of Cancer"
         },
 
         {
-            "question": "4.Elow of heat energy between two bodies or systems requires …………………….? (OR)రెండు శరీరాలు లేదా వ్యవస్థల మధ్య తక్కువ ఉష్ణ శక్తి అవసరం …………………….?",
+            "question": "4.The difference between the Greenwich Mean Time and the Indian Standard Time is? (OR)గ్రీన్విచ్ మీన్ టైమ్ మరియు ఇండియన్ స్టాండర్డ్ టైమ్ మధ్య వ్యత్యాసం?",
           "incorrect_answers": [
-               " pressure difference",
-                "potential difference",
-                "all of these"
+               "+4.30 minutes",
+                "-5.30 minutes",
+                "-4.30 minutes"
             ],
-            "correct_answer": " temperature difference"
+            "correct_answer": "+ 5.30 minutes"
         },
         {
-            "question": "5.……………… is a measure of thermal equilibrium?(OR)…………… అనేది ఉష్ణ సమతుల్యత యొక్క కొలత?",
+            "question": "5.The distance between North and South extremes of India is …………………?(OR)భారతదేశం యొక్క ఉత్తర మరియు దక్షిణ తీవ్రతల మధ్య దూరం ………………………?",
            "incorrect_answers": [
-                " Heat",
-                "Mass",
-                " None"
+                " 2933 kms",
+                "15,200 kms",
+                " 7516.6 kms"
             ],
-            "correct_answer": " Temperature"
+            "correct_answer": "3214 kms"
         },
-        { "question": "6.Three bodies A, B and C are in thermal equilibrium, the temperature of B is 45°C, then the temperature of C is?(OR)A, B మరియు C అనే మూడు శరీరాలు ఉష్ణ సమతుల్యతలో ఉంటాయి, B యొక్క ఉష్ణోగ్రత 45 ° C, అప్పుడు C యొక్క ఉష్ణోగ్రత?",
+        { "question": "6.The Pirpanjal ranges are situated in this region.?(OR)పిర్పంజల్ శ్రేణులు ఈ ప్రాంతంలో ఉన్నాయి.?",
              "incorrect_answers": [
-               " 50° C",
-                "40°C",
-                " any temperature"
+               " Greater Himalayas",
+                "Shivalik ranges",
+                "Purvanchal"
             ],
-            "correct_answer": "45° C"
+            "correct_answer": " Lesser Himalayas"
 
 
         }
