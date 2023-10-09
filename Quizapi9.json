@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.Ratio of the distance travelled in 1 second, 2 seconds, 3 seconds? (or)1 సెకను, 2 సెకన్లు, 3 సెకన్లలో ప్రయాణించిన దూరం యొక్క నిష్పత్తి?",
+            "question": "1.Which of the following is not an environmental crisis? (or)కింది వాటిలో పర్యావరణ సంక్షోభం కానిది ఏది?",
          "incorrect_answers": [
-                "1 : 3 : 5",
-                "1: 5 : 9",
-                "1 : 2 : 3"
+                "Global warming",
+                "1Air pollution",
+                "The rise of water levels in oceans"
             ],
-            "correct_answer": "1^2 : 2^2 : 3^2"
+            "correct_answer": "Collision of asteroids"
         },
      
        {
-            "question": "2.A freely falling body describes a distance x in first 2 seconds and a distance y in next 2 seconds. Then? (or)స్వేచ్ఛగా పడిపోయే శరీరం మొదటి 2 సెకన్లలో x దూరాన్ని మరియు తదుపరి 2 సెకన్లలో y దూరాన్ని వివరిస్తుంది. అప్పుడు?",
+            "question": "2.Which of the following is the biggest of all?(or)కింది వాటిలో అన్నింటికంటే పెద్దది ఏది?",
             "incorrect_answers": [
-                " y = x",
-                "y = 2xr",
-                "x = 2y"
+                " Galaxies",
+                "sun",
+                "Milky way"
             ],
-            "correct_answer": "y = 3x"
+            "correct_answer": "Universe"
         },
        
         {
-           "question": "3.The height from which a body is released is numerically equal to the velocity acquired finally. Then that height is?(or)శరీరం విడుదలయ్యే ఎత్తు సంఖ్యాపరంగా చివరకు పొందిన వేగానికి సమానం. అప్పుడు ఆ ఎత్తు?",
+           "question": "3.The universe started ……………… ago.?(or)విశ్వం …………………… క్రితం ప్రారంభమైంది.?",
              "incorrect_answers": [
-               "gs",
-                "4g",
-                "8g"
+               "18.7 billion years",
+                " 16.7 billion years",
+                "15.7 billion years"
             ],
-            "correct_answer": "2g"
+            "correct_answer": "13.7 billion years"
         },
        
         {
-            "question": "4.A physical quantity with magnitude as well as direction is called ………………. quantity?(or)పరిమాణం మరియు దిశతో కూడిన భౌతిక పరిమాణాన్ని ……………………. పరిమాణం?",
+            "question": "4.……………… is the path of the earth around the sun.?(or…………………… సూర్యుని చుట్టూ భూమి యొక్క మార్గం.?",
           "incorrect_answers": [
-               "scalar",
-                "linear",
-                " none of these"
+               "The axis",
+                " The tract",
+                " The milky way"
             ],
-            "correct_answer": "vector"
+            "correct_answer": "The orbit"
         },
         {
-            "question": "5.Speed of a body at any particular instance is known as ………………….?(or)ఏదైనా నిర్దిష్ట సందర్భంలో శరీరం యొక్క వేగాన్ని ……………………….",
+            "question": "5.Earth travels around the sun at a speed of …………….. per hour.?(or)భూమి సూర్యుని చుట్టూ గంటకు ............ వేగంతో ప్రయాణిస్తుంది.?",
            "incorrect_answers": [
-               "velocity",
-                "average speed",
-                "none of these"
+               "6,200 kms",
+                "152 millions kms",
+                "1,02,700 kms"
             ],
-            "correct_answer": " instantaneous speed"
+            "correct_answer": " 1,07,200 kms"
         },
-        { "question": "6.The physical quantity with only magnitude is called ………………….?(or)కేవలం పరిమాణంతో ఉన్న భౌతిక పరిమాణాన్ని ……………………….?",
+        { "question": "6.Earth takes ………………. days to complete one revolution.?(or)భూమి తీసుకుంటుంది…………………… ఒక విప్లవాన్ని పూర్తి చేయడానికి రోజులు.?",
              "incorrect_answers": [
-               "vector",
-                "axial",
-                "linear>"
+               "28 days",
+                "30 days",
+                "366 days"
             ],
-            "correct_answer": " scalar"
+            "correct_answer": "  365 1/4 days"
          
           
         }
