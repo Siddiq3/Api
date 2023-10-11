@@ -1,60 +1,61 @@
 {
     "results": [
     {
-            "question": "1.The highest peak in Eastern Ghats?(or)తూర్పు కనుమలలో ఎత్తైన శిఖరం?",
+            "question": "1.Van Neil worked on …………………..?(or)వాన్ నీల్ పని చేసాడు.?",
          "incorrect_answers": [
-                "Gursikhar",
-                "DodaBetta",
-                "Anaimudi"
+                "Hydrilla",
+                " Chloroplast",
+                "Paramoecium"
             ],
-            "correct_answer": "Aroya Kondat"
+            "correct_answer": "Purple sulphur bacteria"
         },
 
        {
-            "question": "2.The latitude that does NOT pass through India.?(OR)భారతదేశం గుండా వెళ్ళని అక్షాంశం.?",
+            "question": "2.Famous photosynthesis equation was proposed by which scientist ?(OR)ప్రసిద్ధ కిరణజన్య సంయోగక్రియ సమీకరణాన్ని ఏ శాస్త్రవేత్త ప్రతిపాదించారు?",
             "incorrect_answers": [
-                "36° N.L.e",
-                " 12° N.L.",
-                "8° N.L."
+                "Hill",
+                "Arnon",
+                "Jackson."
             ],
-            "correct_answer": "48° N.L."
+            "correct_answer": "C . B . Van Neil"
         },
 
         {
-           "question": "3.The latitude that passes through India?(OR)భారతదేశం గుండా వెళుతున్న అక్షాంశం?",
+           "question": "3.In autotrophs the energy is stored as ………………….?(OR)ఆటోట్రోఫ్స్‌లో శక్తి ………………… ఇలా నిల్వ చేయబడుతుంది.?",
              "incorrect_answers": [
-               " Equator",
-                " Tropic of Capricorn",
-                "36°N"
+               "Glycogenr",
+                " fats",
+                "Proteins"
             ],
-            "correct_answer": "Tropic of Cancer"
+            "correct_answer": "Carbohydrates"
         },
 
         {
-            "question": "4.The difference between the Greenwich Mean Time and the Indian Standard Time is? (OR)గ్రీన్విచ్ మీన్ టైమ్ మరియు ఇండియన్ స్టాండర్డ్ టైమ్ మధ్య వ్యత్యాసం?",
+            "question": "4.Instead of H2O purple sulphur bacteria use …………….. as a starting material.? (OR)H2O పర్పుల్ సల్ఫర్ బాక్టీరియాకు బదులుగా ………….. ఒక ప్రారంభ పదార్థంగా ఉపయోగించండి.?",
           "incorrect_answers": [
-               "+4.30 minutes",
-                "-5.30 minutes",
-                "-4.30 minutes"
+               "hydrogen",
+                "Chlorine gas",
+                "CO2"
             ],
-            "correct_answer": "+ 5.30 minutes"
+            "correct_answer": "H2S"
         },
         {
-            "question": "5.The distance between North and South extremes of India is …………………?(OR)భారతదేశం యొక్క ఉత్తర మరియు దక్షిణ తీవ్రతల మధ్య దూరం ………………………?",
+            "question": "5.Which part of the plant takes in carbon dioxide from the air for photosynthesis?(OR)కిరణజన్య సంయోగక్రియ కోసం మొక్కలోని ఏ భాగం గాలి నుండి కార్బన్ డయాక్సైడ్‌ను తీసుకుంటుంది??",
            "incorrect_answers": [
-                " 2933 kms",
-                "15,200 kms",
-                " 7516.6 kms"
+                "root hair",
+                "Leaf veins",
+                "sepals"
             ],
-            "correct_answer": "3214 kms"
+            "correct_answer": "Stomata"
         },
-        { "question": "6.The Pirpanjal ranges are situated in this region.?(OR)పిర్పంజల్ శ్రేణులు ఈ ప్రాంతంలో ఉన్నాయి.?",
+        { "question": "6.From which of the following, the oxygen is released in plants during photosynthesis?
+(OR)కిరణజన్య సంయోగక్రియ సమయంలో కింది వాటిలో దేని నుండి ఆక్సిజన్ మొక్కలలో విడుదలవుతుంది?",
              "incorrect_answers": [
-               " Greater Himalayas",
-                "Shivalik ranges",
-                "Purvanchal"
+               "CO2",
+                "glucose",
+                " Chlorophyll"
             ],
-            "correct_answer": " Lesser Himalayas"
+            "correct_answer": "water"
 
 
         }
