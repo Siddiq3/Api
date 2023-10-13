@@ -1,61 +1,61 @@
 {
     "results": [
     {
-            "question": "1.Van Neil worked on …………………..?(or)వాన్ నీల్ పని చేసాడు.?",
+            "question": "1.The number of subsets of a set is 16, then the set has …………………. elements.?(or)సమితి యొక్క ఉపసమితుల సంఖ్య 16, అప్పుడు సమితి ………………………. అంశాలు.?",
          "incorrect_answers": [
-                "Hydrilla",
-                " Chloroplast",
-                "Paramoecium"
+                "3",
+                "2",
+                "1"
             ],
-            "correct_answer": "Purple sulphur bacteria"
+            "correct_answer": "4"
         },
 
        {
-            "question": "2.Famous photosynthesis equation was proposed by which scientist ?(OR)ప్రసిద్ధ కిరణజన్య సంయోగక్రియ సమీకరణాన్ని ఏ శాస్త్రవేత్త ప్రతిపాదించారు?",
+            "question": "2.{x: x is a prime number and a divisor of 6} =…………………..?(OR){x: x అనేది ప్రధాన సంఖ్య మరియు 6} యొక్క భాజకం =…………………….?",
             "incorrect_answers": [
-                "Hill",
-                "Arnon",
-                "Jackson."
+                "{1,2,3,6}",
+                " {1, 2, 3}",
+                " {2, 3, 6}"
             ],
-            "correct_answer": "C . B . Van Neil"
+            "correct_answer": "{2, 3}"
         },
 
         {
-           "question": "3.In autotrophs the energy is stored as ………………….?(OR)ఆటోట్రోఫ్స్‌లో శక్తి ………………… ఇలా నిల్వ చేయబడుతుంది.?",
+           "question": "3.Number of subsets of the set A = {1, 2, 3, 4} is ………………?(OR)A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య ……………………?",
              "incorrect_answers": [
-               "Glycogenr",
-                " fats",
-                "Proteins"
+               "12r",
+                "8",
+                "4"
             ],
-            "correct_answer": "Carbohydrates"
+            "correct_answer": "16"
         },
 
         {
-            "question": "4.Instead of H2O purple sulphur bacteria use …………….. as a starting material.? (OR)H2O పర్పుల్ సల్ఫర్ బాక్టీరియాకు బదులుగా ………….. ఒక ప్రారంభ పదార్థంగా ఉపయోగించండి.?",
+            "question": "4.If n(A) = 12 and n(A ∩ B) = 5, then find n(A – B) = …………………? (OR)n(A) = 12 మరియు n(A ∩ B) = 5 అయితే, n(A – B) = ………………………?",
           "incorrect_answers": [
-               "hydrogen",
-                "Chlorine gas",
-                "CO2"
+               "4",
+                "0",
+                " 17"
             ],
-            "correct_answer": "H2S"
+            "correct_answer": "7"
         },
         {
-            "question": "5.Which part of the plant takes in carbon dioxide from the air for photosynthesis?(OR)కిరణజన్య సంయోగక్రియ కోసం మొక్కలోని ఏ భాగం గాలి నుండి కార్బన్ డయాక్సైడ్‌ను తీసుకుంటుంది??",
+            "question": "5If A ⊂ B then (A ∪ B) – A = ……………………..?(OR)A ⊂ B అయితే (A ∪ B) – A = ……………………..?",
            "incorrect_answers": [
-                "root hair",
-                "Leaf veins",
-                "sepals"
+                "B",
+                "A",
+                " Φ"
             ],
-            "correct_answer": "Stomata"
+            "correct_answer": "B – A"
         },
-        { "question": "6.From which of the following, the oxygen is released in plants during photosynthesis?
-(OR)కిరణజన్య సంయోగక్రియ సమయంలో కింది వాటిలో దేని నుండి ఆక్సిజన్ మొక్కలలో విడుదలవుతుంది?",
+        { "question": "6.If A ⊂ B and B ⊂ C then ……………………?
+(OR)A⊂ B మరియు B ⊂ C అయితే ……………………?",
              "incorrect_answers": [
-               "CO2",
-                "glucose",
-                " Chlorophyll"
+               " C ⊂ A",
+                "A = C",
+                " B = A"
             ],
-            "correct_answer": "water"
+            "correct_answer": "A ⊂ C"
 
 
         }
