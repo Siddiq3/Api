@@ -48,8 +48,7 @@
             ],
             "correct_answer": "B – A"
         },
-        { "question": "6.If A ⊂ B and B ⊂ C then ……………………?
-(OR)A⊂ B మరియు B ⊂ C అయితే ……………………?",
+        { "question": "6.If A ⊂ B and B ⊂ C then ……………………?(OR)A⊂ B మరియు B ⊂ C అయితే ……………………?",
              "incorrect_answers": [
                " C ⊂ A",
                 "A = C",
