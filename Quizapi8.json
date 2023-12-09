@@ -3,60 +3,60 @@
     "results": [
      
       {
-            "question": "1.Number of vertices in a Quadrilateral is  ?",
+            "question": "Anaximander was a ……………. geographer?",
          "incorrect_answers": [
-                "3",
-                "2",
-                "1"
+                "Italian",
+                "Indian",
+                "Canadian"
             ],
-            "correct_answer": "4"
+            "correct_answer": "Greek"
         },
      
        {
-            "question": "2.Number of diagonals in a Quadrilateral is?",
+            "question": "One famous Arab mapmaker, Al Idrisi prepared a ………………… map for his king.?",
             "incorrect_answers": [
-                "6",
-                "2",
-                "1"
+                "Arab",
+                "Indian",
+                "Australia"
             ],
-            "correct_answer": "4"
+            "correct_answer": "World"
         },
        
         {
-           "question": "3.Number of angles in a Quadrilateral is?",
+           "question": "An/A is a collection of maps?",
              "incorrect_answers": [
-                "70°",
-                "45°",
-                "100°"
+                "Mapbook",
+                "Textbook",
+                "Notebook"
             ],
-            "correct_answer": "90°"
+            "correct_answer": "Atlas"
         },
        
         {
-            "question": "4.Each angle in a square is?",
+            "question": "Relief features mean the high and low places on the surface of a",
            "incorrect_answers": [
-                "3",
-                "2",
-                "1"
+                "Star",
+                "Ocean",
+                "Core of a star"
             ],
-            "correct_answer": "4"
+            "correct_answer": "Planet"
         },
         {
-            "question": "5.Number of sides in a Quadrilateral is ",
+            "question": "They established a department called Survey of India.",
            "incorrect_answers": [
-                "3",
-                "2",
-                "1"
+                "Dutch",
+                "French",
+                "Polish"
             ],
-            "correct_answer": "4"
+            "correct_answer": "British"
         },
-        { "question": "6.Sum of 4 angles in a Quadrilateral is ",
+        { "question": "Some of the earliest surviving maps were made about …………… years ago. ",
              "incorrect_answers": [
-               "160°",
-                "250°",
-                "180°"
+               "2000",
+                "3000",
+                "1000"
             ],
-            "correct_answer": "360°"
+            "correct_answer": "4000"
          
           
         }
