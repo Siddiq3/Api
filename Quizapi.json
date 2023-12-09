@@ -1,62 +1,106 @@
 {
     "results": [
-    {
-            "question": "1.The number of subsets of a set is 16, then the set has …………………. elements.?(or)సమితి యొక్క ఉపసమితుల సంఖ్య 16, అప్పుడు సమితి ………………………. అంశాలు.?",
-         "incorrect_answers": [
-                "3",
-                "2",
-                "1"
-            ],
-            "correct_answer": "4"
-        },
-
-       {
-            "question": "2.{x: x is a prime number and a divisor of 6} =…………………..?(OR){x: x అనేది ప్రధాన సంఖ్య మరియు 6} యొక్క భాజకం =…………………….?",
-            "incorrect_answers": [
-                "{1,2,3,6}",
-                " {1, 2, 3}",
-                " {2, 3, 6}"
-            ],
-            "correct_answer": "{2, 3}"
-        },
+    
 
         {
-           "question": "3.Number of subsets of the set A = {1, 2, 3, 4} is ………………?(OR)A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య ……………………?",
-             "incorrect_answers": [
-               "12r",
-                "8",
-                "4"
-            ],
-            "correct_answer": "16"
-        },
-
-        {
-            "question": "4.If n(A) = 12 and n(A ∩ B) = 5, then find n(A – B) = …………………? (OR)n(A) = 12 మరియు n(A ∩ B) = 5 అయితే, n(A – B) = ………………………?",
-          "incorrect_answers": [
-               "4",
-                "0",
-                " 17"
-            ],
-            "correct_answer": "7"
-        },
-        {
-            "question": "5If A ⊂ B then (A ∪ B) – A = ……………………..?(OR)A ⊂ B అయితే (A ∪ B) – A = ……………………..?",
-           "incorrect_answers": [
-                "B",
-                "A",
-                " Φ"
-            ],
-            "correct_answer": "B – A"
-        },
-        { "question": "6.If A ⊂ B and B ⊂ C then ……………………?(OR)A⊂ B మరియు B ⊂ C అయితే ……………………?",
-             "incorrect_answers": [
-               " C ⊂ A",
-                "A = C",
-                " B = A"
-            ],
-            "correct_answer": "A ⊂ C"
-
-
-        }
+    
+    "question": "Internal energy of a system is",
+    "correct_answer": "all the above",
+    "incorrect_answers": [
+        "vibrational energy",
+        "linear kinetic energy",
+        "rotational and potential energy"
+    ]
+},
+{
+    "question": "Indicators are used to detect the nature of the solution for",
+    "correct_answer": "D.Both A and B",
+    "incorrect_answers": [
+        "A.Acidity",
+        "B.Basicity",
+        "C.None of these"
+    ]
+},
+{
+    "question": "……………….. taste is a characteristic property of all acids in aqueous solutions",
+    "correct_answer": "Sour",
+    "incorrect_answers": [
+        "Bitter",
+        "Salty",
+        "Sweet"
+    ]
+},
+{
+    "question": "Bases tend to taste …………….. and feel …………",
+    "correct_answer": "Bitter, slippery to touch",
+    "incorrect_answers": [
+        "Sour, pleasant to touch",
+        "Sour, slippery to touch",
+        "None of these"
+    ]
+},
+{
+    "question": "Acids turn …………… litmus to ………………..litmus",
+    "correct_answer": "Blue, red",
+    "incorrect_answers": [
+        "Red, red",
+        "Blue, red",
+        "Red, blue"
+    ]
+},
+{
+    "question": "Natural indicators are prepared from…..",
+    "correct_answer": "Both i and iii",
+    "incorrect_answers": [
+        "Plants",
+        "Petrochemicals",
+        "Minerals"
+    ]
+},
+{
+    "question": "Natural indicators among these",
+    "correct_answer": "i, ii and iv",
+    "incorrect_answers": [
+        "Litmus",
+        "Methyl orange",
+        "Turmeric"
+    ]
+},
+{
+    "question": "The colour of turmeric in basic solutions is………",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+        "Blue",
+        "Green",
+        "Orange"
+    ]
+},
+{
+    "question": "Synthetic indicator among these",
+    "correct_answer": "All of these",
+    "incorrect_answers": [
+        "Methyl red",
+        "Phenolphthalein",
+        "Methyl orange"
+    ]
+},
+{
+    "question": "The colour of turmeric in basic solutions is………",
+    "correct_answer": "Red",
+    "incorrect_answers": [
+        "Blue",
+        "Green",
+        "Orange"
+    ]
+},
+{
+    "question": "Synthetic indicator among these",
+    "correct_answer": "All of these",
+    "incorrect_answers": [
+        "Methyl red",
+        "Phenolphthalein",
+        "Methyl orange"
+    ]
+}
     ]
 }
