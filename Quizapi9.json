@@ -3,63 +3,110 @@
     "results": [
      
       {
-            "question": "1.Which of the following is not an environmental crisis? (or)కింది వాటిలో పర్యావరణ సంక్షోభం కానిది ఏది?",
-         "incorrect_answers": [
-                "Global warming",
-                "1Air pollution",
-                "The rise of water levels in oceans"
-            ],
-            "correct_answer": "Collision of asteroids"
-        },
+            
      
-       {
-            "question": "2.Which of the following is the biggest of all?(or)కింది వాటిలో అన్నింటికంటే పెద్దది ఏది?",
-            "incorrect_answers": [
-                " Galaxies",
-                "sun",
-                "Milky way"
-            ],
-            "correct_answer": "Universe"
-        },
-       
-        {
-           "question": "3.The universe started ……………… ago.?(or)విశ్వం …………………… క్రితం ప్రారంభమైంది.?",
-             "incorrect_answers": [
-               "18.7 billion years",
-                " 16.7 billion years",
-                "15.7 billion years"
-            ],
-            "correct_answer": "13.7 billion years"
-        },
-       
-        {
-            "question": "4.……………… is the path of the earth around the sun.?(or…………………… సూర్యుని చుట్టూ భూమి యొక్క మార్గం.?",
-          "incorrect_answers": [
-               "The axis",
-                " The tract",
-                " The milky way"
-            ],
-            "correct_answer": "The orbit"
-        },
-        {
-            "question": "5.Earth travels around the sun at a speed of …………….. per hour.?(or)భూమి సూర్యుని చుట్టూ గంటకు ............ వేగంతో ప్రయాణిస్తుంది.?",
-           "incorrect_answers": [
-               "6,200 kms",
-                "152 millions kms",
-                "1,02,700 kms"
-            ],
-            "correct_answer": " 1,07,200 kms"
-        },
-        { "question": "6.Earth takes ………………. days to complete one revolution.?(or)భూమి తీసుకుంటుంది…………………… ఒక విప్లవాన్ని పూర్తి చేయడానికి రోజులు.?",
-             "incorrect_answers": [
-               "28 days",
-                "30 days",
-                "366 days"
-            ],
-            "correct_answer": "  365 1/4 days"
+    
+    "question": "Which of the following is the biggest of all?",
+    "correct_answer": "D) Universe",
+    "incorrect_answers": [
+        "A) Galaxies",
+        "B) Milky way",
+        "C) Sun"
+    ]
+},
+{
+    
+    "question": "The universe started ……………… ago.",
+    "correct_answer": "B) 13.7 billion years",
+    "incorrect_answers": [
+        "A) 18.7 billion years",
+        "C) 16.7 billion years",
+        "D) 15.7 billion years"
+    ]
+},
+{
+    
+    "question": "……………… is the path of the earth around the sun.",
+    "correct_answer": "B) The orbit",
+    "incorrect_answers": [
+        "A) The axis",
+        "C) The tract",
+        "D) The milky way"
+    ]
+},
+{
+    
+    "question": "Earth travels around the sun at a speed of …………….. per hour.",
+    "correct_answer": "A) 1,07,200 kms",
+    "incorrect_answers": [
+        "B) 6,200 kms",
+        "C) 152 millions kms",
+        "D) 1,02,700 kms"
+    ]
+},
+{
+    
+    "question": "Earth takes ………………. days to complete one revolution.",
+    "correct_answer": "D) 3651/4 days",
+    "incorrect_answers": [
+        "A) 28 days",
+        "B) 30 days",
+        "C) 366 days"
+    ]
+},
+{
+    
+    "question": "Which of the following causes seasons on the earth?",
+    "correct_answer": "D) Tilt of Earth’s axis of rotation to its orbital plane",
+    "incorrect_answers": [
+        "A) Daily rotation of the earth on its axis",
+        "B) Monthly movement of the Moon around the Earth",
+        "C) Revolution of the Earth around the Sun"
+    ]
+},
+{
+    
+    "question": "The Earth began to form around years ago.",
+    "correct_answer": "C) 412 billion",
+    "incorrect_answers": [
+        "A) 13.7 billion",
+        "B) 1,07,200",
+        "D) 6 billion"
+    ]
+},
+{
+    
+    "question": "Which of the following came into existence first?",
+    "correct_answer": "D) Ocean species",
+    "incorrect_answers": [
+        "A) Human beings",
+        "B) Plants",
+        "C) Animals"
+    ]
+},
+{
+    
+    "question": "The radius of the earth is ………….",
+    "correct_answer": "D) 6000 kms",
+    "incorrect_answers": [
+        "A) 1,07,200 kms",
+        "B) 9000 kms",
+        "C) 8848 kms"
+    ]
+},
+{
+    
+    "question": "Top layer of the earth is called",
+    "correct_answer": "A) Crust",
+    "incorrect_answers": [
+        "B) Mantle",
+        "C) Outer core",
+        "D) None of these"
+    ]
+}
          
           
-        }
+        
       
     ]
 }
