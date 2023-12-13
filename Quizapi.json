@@ -4,102 +4,102 @@
 
         {
     
-    "question": "Internal energy of a system is",
-    "correct_answer": "all the above",
+    "question": "Which is the three digit number divisible by 7? or 7చే భాగించబడే మూడు అంకెల సంఖ్య ఏది?",
+    "correct_answer": "133",
     "incorrect_answers": [
-        "vibrational energy",
-        "linear kinetic energy",
-        "rotational and potential energy"
+        "110",
+        "137",
+        "130"
     ]
 },
 {
-    "question": "Indicators are used to detect the nature of the solution for",
-    "correct_answer": "D.Both A and B",
+    "question": "The HCF of 1.2 and 0.12 is Or HCF 1.2 మరియు 0.12",
+    "correct_answer": "0.12",
     "incorrect_answers": [
-        "A.Acidity",
-        "B.Basicity",
-        "C.None of these"
+        "1.2",
+        "12",
+        "120"
     ]
 },
 {
-    "question": "……………….. taste is a characteristic property of all acids in aqueous solutions",
-    "correct_answer": "Sour",
+    "question": "The value of log3 243",
+    "correct_answer": "5",
     "incorrect_answers": [
-        "Bitter",
-        "Salty",
-        "Sweet"
+        "6",
+        "7",
+        "8"
     ]
 },
 {
-    "question": "Bases tend to taste …………….. and feel …………",
-    "correct_answer": "Bitter, slippery to touch",
+    "question": "Number of two digit numbers divisible by 3 is Or 3తో భాగించబడే రెండు అంకెల సంఖ్యల సంఖ్య",
+    "correct_answer": "30",
     "incorrect_answers": [
-        "Sour, pleasant to touch",
-        "Sour, slippery to touch",
-        "None of these"
+        "10",
+        "20",
+        "40"
     ]
 },
 {
-    "question": "Acids turn …………… litmus to ………………..litmus",
-    "correct_answer": "Blue, red",
+    "question": "G.C.F. of 12,18 is",
+    "correct_answer": "6",
     "incorrect_answers": [
-        "Red, red",
-        "Blue, red",
-        "Red, blue"
+        "36",
+        "12",
+        "18"
     ]
 },
 {
-    "question": "Natural indicators are prepared from…..",
-    "correct_answer": "Both i and iii",
+    "question": "The number of prime factors of 36 isOr 36 యొక్క ప్రధాన కారకాల సంఖ్య",
+    "correct_answer": "2",
     "incorrect_answers": [
-        "Plants",
-        "Petrochemicals",
-        "Minerals"
+       "1",
+        "3",
+        "4"
     ]
 },
 {
-    "question": "Natural indicators among these",
-    "correct_answer": "i, ii and iv",
+    "question": "Find the HCF of 120 and 156.",
+    "correct_answer": "12",
     "incorrect_answers": [
-        "Litmus",
-        "Methyl orange",
-        "Turmeric"
+        "42",
+        "36",
+        "18"
     ]
 },
 {
-    "question": "The colour of turmeric in basic solutions is………",
-    "correct_answer": "Red",
+    "question": "Find the HCF of 432 and 504.",
+    "correct_answer": "72",
     "incorrect_answers": [
-        "Blue",
-        "Green",
-        "Orange"
+        "86",
+        "96",
+        "108"
     ]
 },
 {
-    "question": "Synthetic indicator among these",
-    "correct_answer": "All of these",
+    "question": "How many prime factors are there in the prime factorization of 240 ?OR 240 యొక్క ప్రధాన కారకంలో ఎన్ని ప్రధాన కారకాలు ఉన్నాయి?",
+    "correct_answer": "3",
     "incorrect_answers": [
-        "Methyl red",
-        "Phenolphthalein",
-        "Methyl orange"
+        "6",
+        "20",
+        "5"
     ]
 },
 {
-    "question": "The colour of turmeric in basic solutions is………",
-    "correct_answer": "Red",
+    "question": "If A ⊂ B, then A ∩ B =",
+    "correct_answer": "A",
     "incorrect_answers": [
-        "Blue",
-        "Green",
-        "Orange"
+        "Φ",
+        "µ",
+        "B"
     ]
 },
 {
-    "question": "Synthetic indicator among these",
-    "correct_answer": "All of these",
+    "question": "Number of subsets of the set A = {1, 2, 3, 4} is OR A = {1, 2, 3, 4} సెట్ యొక్క ఉపసమితుల సంఖ్య",
+    "correct_answer": "16",
     "incorrect_answers": [
-        "Methyl red",
-        "Phenolphthalein",
-        "Methyl orange"
+        "4",
+        "8",
+        "12"
     ]
 }
     ]
