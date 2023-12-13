@@ -1,79 +1,48 @@
 {
-     "results":[
-{
-            "title": "FA1 SYLABUSS",
-            "url": "C) Kidneys"
-            
-        },
-           {
-            "title": "TELUGU",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "HINDI",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "ENGLISH",
-            "url": "C) Kidneys"
-            
-        },
-
-       
-        {
-            "title": "MATHS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "MATHS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-        {
-            "title": "NS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "NS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-       {
-            "title": "SOCIAL-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "SOCIAL-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-
-    ]
+   "results":[
+      {
+         "title":"TELUGU",
+         "url":"https://drive.google.com/file/d/1oDLMFQgKP_OKbS003QflXkk7hwyraxSt/view?usp=share_link"
+      },
+      {
+         "title":"HINDI",
+         "url":"https://drive.google.com/file/d/14Y0omZCZt6vy17NkYpqwDL3NJj-ScaeR/view?usp=share_link"
+      },
+      {
+         "title":"ENGLISH",
+         "url":"https://drive.google.com/file/d/1Yyv2wn4BAJc-rzrksSoZa7qJDUlGJNZz/view?usp=share_link"
+      },
+      {
+         "title":"MATHS-TM",
+         "url":"https://drive.google.com/file/d/1Yyv2wn4BAJc-rzrksSoZa7qJDUlGJNZz/view?usp=share_link"
+      },
+      {
+         "title":"MATHS-EM",
+         "url":"https://drive.google.com/file/d/12KXH7s440McFb3fqNTZlzm9FnYsmQuj2/view?usp=share_link"
+      },
+      {
+         "title":"PS-EM",
+         "url":"https://drive.google.com/file/d/1XzkabINsoobsNqawaTz26egZ7OdB40Q9/view?usp=share_link"
+      },
+      {
+         "title":"PS-TM",
+         "url":"https://drive.google.com/file/d/1WTLPFiU2RYrq6NqeqpLFLwo4xmBFEhty/view?usp=share_link"
+      },
+      {
+         "title":"NS-EM",
+         "url":"https://drive.google.com/file/d/1WTLPFiU2RYrq6NqeqpLFLwo4xmBFEhty/view?usp=share_link"
+      },
+      {
+         "title":"NS-TM",
+         "url":"https://drive.google.com/file/d/1WTLPFiU2RYrq6NqeqpLFLwo4xmBFEhty/view?usp=share_link"
+      },
+      {
+         "title":"SOCIAL-EM",
+         "url":"https://drive.google.com/file/d/1yiTdMu5wAVKarxwlBZ1uixduhHypHlfQ/view?usp=share_link"
+      },
+      {
+         "title":"SOCIAL-TM",
+         "url":"https://drive.google.com/file/d/1yiTdMu5wAVKarxwlBZ1uixduhHypHlfQ/view?usp=share_link"
+      }
+   ]
 }
