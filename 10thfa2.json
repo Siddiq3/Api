@@ -1,79 +1,52 @@
 {
-     "results":[
-{
-            "title": "FA2 SYLABUSS",
-            "url": "C) Kidneys"
-            
-        },
-           {
-            "title": "TELUGU",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "HINDI",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "ENGLISH",
-            "url": "C) Kidneys"
-            
-        },
-
-       
-        {
-            "title": "MATHS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "MATHS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-        {
-            "title": "NS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "NS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-       {
-            "title": "SOCIAL-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "SOCIAL-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-
-    ]
+   "results":[
+      {
+         "title":"FA2 SYLLABUS",
+         "url":"https://drive.google.com/file/d/1ZCVfDh3GrIb2TfWQdqqvBV-ESLa0I7a8/view?usp=drive_link"
+      },
+      {
+         "title":"TELUGU",
+         "url":"https://drive.google.com/file/d/1WjHHnHguGucd14Ks_SgsUhxd-uVhzLEg/view?usp=sharing"
+      },
+      {
+         "title":"HINDI",
+         "url":"https://drive.google.com/file/d/1OERy9P6qBC7azdeeNDGCubnWYhE9xONz/view?usp=share_link"
+      },
+      {
+         "title":"ENGLISH",
+         "url":"https://drive.google.com/file/d/1gTE8ZSgB8MoA_qdfkImbSe9muSAHpgLX/view?usp=sharing"
+      },
+      {
+         "title":"MATHS-TM",
+         "url":"https://drive.google.com/file/d/1gTE8ZSgB8MoA_qdfkImbSe9muSAHpgLX/view?usp=sharing"
+      },
+      {
+         "title":"MATHS-EM",
+         "url":"https://drive.google.com/file/d/1EWuSgBDcKHWeVtR54eJwiiUoo2AS6RgF/view?usp=sharing"
+      },
+      {
+         "title":"PS-EM",
+         "url":"https://drive.google.com/file/d/1EWuSgBDcKHWeVtR54eJwiiUoo2AS6RgF/view?usp=sharing"
+      },
+      {
+         "title":"PS-TM",
+         "url":"https://drive.google.com/file/d/18vWZPu70Kt3rSMcrgx1pbRuwfkZeREaS/view?usp=sharing"
+      },
+      {
+         "title":"NS-EM",
+         "url":"https://drive.google.com/file/d/1yQAsxrIb2XHS5eyzW5CYUODTxagFNgTO/view?usp=sharing"
+      },
+      {
+         "title":"NS-TM",
+         "url":"https://drive.google.com/file/d/1yQAsxrIb2XHS5eyzW5CYUODTxagFNgTO/view?usp=sharing"
+      },
+      {
+         "title":"SOCIAL-EM",
+         "url":"https://drive.google.com/file/d/1jkzAuZ-oX1NvQq_j3SPfPP42UL4MmAuU/view?usp=sharing"
+      },
+      {
+         "title":"SOCIAL-TM",
+         "url":"https://drive.google.com/file/d/1jkzAuZ-oX1NvQq_j3SPfPP42UL4MmAuU/view?usp=sharing"
+      }
+   ]
 }
