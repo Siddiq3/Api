@@ -1,79 +1,42 @@
+
 {
-     "results":[
-{
-            "title": "FA1 SYLABUSS",
-            "url": "C) Kidneys"
-            
-        },
-           {
-            "title": "TELUGU",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "HINDI",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "ENGLISH",
-            "url": "C) Kidneys"
-            
-        },
-
-       
-        {
-            "title": "MATHS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "MATHS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-        {
-            "title": "NS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "NS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-       {
-            "title": "SOCIAL-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "SOCIAL-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-
-    ]
+  "results": [
+    {
+      "title": "Telugu Revision 2",
+      "url": "https://drive.google.com/file/d/1s_J16CWmZmnwHwpA2yctOxeQ3M3ZGq5g/view?usp=share_link"
+    },
+    {
+      "title": "Hindi Revision 2",
+      "url": "https://drive.google.com/file/d/1Qw4Ofd17jmwHEPUn8O80_EudsCoQXgV2/view?usp=share_link"
+    },
+    {
+      "title": "English Revision 2",
+      "url": "https://drive.google.com/file/d/1Boe1KBxZmZ7xwrNuT5eF8xvZMLvjCavi/view?usp=share_link"
+    },
+    {
+      "title": "Maths-EM Revision 2",
+      "url": "https://drive.google.com/file/d/1f_N_InLyIB-9AFCN0-Ycelu8RuupDsr2/view?usp=sharing"
+    },
+    {
+      "title": "Maths-TM Revision 2",
+      "url": "https://drive.google.com/file/d/1f_N_InLyIB-9AFCN0-Ycelu8RuupDsr2/view?usp=sharing"
+    },
+    {
+      "title": "Physics-EM Revision 2",
+      "url": "https://drive.google.com/file/d/1dyg6j4KFLE-Tz7mWXg8JuDuaUA9rZE5Q/view?usp=share_link"
+    },
+    {
+      "title": "Physics-TM Revision 2",
+      "url": "https://drive.google.com/file/d/1dyg6j4KFLE-Tz7mWXg8JuDuaUA9rZE5Q/view?usp=share_link"
+    },
+   
+    {
+      "title": "Social-EM Revision 2",
+      "url": "https://drive.google.com/file/d/1Ee_hTZcmnHLwqM5Sl_WsH-kvfpxkQt6M/view?usp=share_link"
+    },
+    {
+      "title": "Social-TM Revision 2",
+      "url": "https://drive.google.com/file/d/1Ee_hTZcmnHLwqM5Sl_WsH-kvfpxkQt6M/view?usp=share_link"
+    }
+  ]
 }
