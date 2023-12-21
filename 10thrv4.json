@@ -1,79 +1,41 @@
 {
-     "results":[
-{
-            "title": "FA1 SYLABUSS",
-            "url": "C) Kidneys"
-            
-        },
-           {
-            "title": "TELUGU",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "HINDI",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "ENGLISH",
-            "url": "C) Kidneys"
-            
-        },
-
-       
-        {
-            "title": "MATHS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "MATHS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-        {
-            "title": "NS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "NS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-       {
-            "title": "SOCIAL-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "SOCIAL-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-
-    ]
+  "results": [
+    {
+      "title": "Telugu Revision 4",
+      "url": "https://drive.google.com/file/d/1a-0Do9yFuA2seF9Dmd_NY8iUyYu-gGuS/view?usp=share_link"
+    },
+    {
+      "title": "Hindi Revision 4",
+      "url": "https://drive.google.com/file/d/1va2RZ5n_Kq1aaNf-_TTyCHixaXD7c3a8/view?usp=share_link"
+    },
+    {
+      "title": "English Revision 4",
+      "url": "https://drive.google.com/file/d/1ngShgp2a5YhmfSlOqePyddMiFG1LOJgE/view?usp=share_link"
+    },
+    {
+      "title": "Maths-EM Revision 4",
+      "url": "https://drive.google.com/file/d/1f_N_InLyIB-9AFCN0-Ycelu8RuupDsr2/view?usp=sharing"
+    },
+    {
+      "title": "Maths-TM Revision 4",
+      "url": "https://drive.google.com/file/d/1ngShgp2a5YhmfSlOqePyddMiFG1LOJgE/view?usp=share_link"
+    },
+    {
+      "title": "Science-EM Revision 4",
+      "url": "https://drive.google.com/file/d/13QpY-OXyZHg98Rj0fHtdSChzMn3zNtOk/view?usp=share_link"
+    },
+    {
+      "title": "Science-TM Revision 4",
+      "url": "https://drive.google.com/file/d/13QpY-OXyZHg98Rj0fHtdSChzMn3zNtOk/view?usp=share_link"
+    },
+   
+    {
+      "title": "Social-EM Revision 4",
+      "url": "https://drive.google.com/file/d/1VGyziQd1bM1GBl7rLtdcUf7m1eNClpJT/view?usp=share_link"
+    },
+    {
+      "title": "Social-TM Revision 4",
+      "url": "https://drive.google.com/file/d/1VGyziQd1bM1GBl7rLtdcUf7m1eNClpJT/view?usp=share_link"
+    }
+  ]
 }
