@@ -1,79 +1,56 @@
 {
-     "results":[
-{
-            "title": "FA4 SYLABUSS",
-            "url": "C) Kidneys"
-            
-        },
-           {
-            "title": "TELUGU",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "HINDI",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "ENGLISH",
-            "url": "C) Kidneys"
-            
-        },
-
-       
-        {
-            "title": "MATHS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "MATHS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "PS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-        {
-            "title": "NS-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "NS-TM",
-            "url": "C) Kidneys"
-            
-        },
-
+   "results":[
+      {
+         "title":"FA4 SYLLABUS",
+         "url":"https://drive.google.com/file/d/15PKZM-Gtq4k9RzL-kEVynx6IIjoqE8md/view?usp=sharing"
+      },
+      {
+         "title":"TELUGU",
+         "url":"https://drive.google.com/file/d/1SSPItV1kVM2dw66IIl2GnZUXiCwJDVzv/view?usp=sharing"
+      },
+      {
+         "title":"HINDI",
+         "url":"https://drive.google.com/file/d/1Uf7modFxALHl-7lZ3OJtspLio9Pr8Bk7/view?usp=sharing"
+      },
+      {
+         "title":"ENGLISH",
+         "url":"https://drive.google.com/file/d/1pHyEx_i8fvt6idWwUbBj_7KDevh7Zeay/view?usp=share_link"
+      },
+      {
+         "title":"MATHS-TM",
+         "url":"https://drive.google.com/file/d/1BNEaH_lhesZD6zHPPMet8RQIMX8EUqDJ/view?usp=sharing"
+      },
+      {
+         "title":"MATHS-EM",
+         "url":"https://drive.google.com/file/d/1BNEaH_lhesZD6zHPPMet8RQIMX8EUqDJ/view?usp=sharing"
+      },
+      {
+         "title":"PS-EM",
+         "url":"https://drive.google.com/file/d/1D-zbVz_xXO0SpGUkmmF8a9li9u_vOxtb/view?usp=sharing"
+      },
+      {
+         "title":"PS-TM",
+         "url":"https://drive.google.com/file/d/1D-zbVz_xXO0SpGUkmmF8a9li9u_vOxtb/view?usp=sharing"
+      },
+      {
+         "title":"NS-EM",
+         "url":"https://drive.google.com/file/d/1UntrLfKYFwK7C_9_JGgjDytsCNitP6UA/view?usp=sharing"
+      },
+      {
+         "title":"NS-TM",
+         "url":"https://drive.google.com/file/d/1UntrLfKYFwK7C_9_JGgjDytsCNitP6UA/view?usp=sharing"
+      },
+      {
+         "title":"SOCIAL-EM",
+         "url":"https://drive.google.com/file/d/1UntrLfKYFwK7C_9_JGgjDytsCNitP6UA/view?usp=sharing"
+      },
+      {
+         "title":"SOCIAL-TM",
+         "url":"https://drive.google.com/file/d/1UntrLfKYFwK7C_9_JGgjDytsCNitP6UA/view?usp=sharing"
+      },
        {
-            "title": "SOCIAL-EM",
-            "url": "C) Kidneys"
-            
-        },
-
-        {
-            "title": "SOCIAL-TM",
-            "url": "C) Kidneys"
-            
-        },
-
-
-
-    ]
+         "title":"SOCIAL-TM1",
+         "url":"https://drive.google.com/file/d/1UntrLfKYFwK7C_9_JGgjDytsCNitP6UA/view?usp=sharing"
+      }
+   ]
 }
