@@ -1,85 +1,48 @@
-
 {
    "results":[
-      { "title":"FA4 SYLLABUS", 
+     { "title":"FA4 SYLLABUS", 
         "url":"https://drive.google.com/file/d/17ckFLSgvEEw5_0gwi6LXmWJ0rqmYlwJJ/view?usp=drive_link" 
      },
       {
-         "title":"TELUGU MODEL PAPER-1",
+         "title":"TELUGU",
          "url":"https://drive.google.com/file/d/17CdvsW5C5LV_megx7A2UD21tZ1k8QFja/view?usp=sharing"
       },
-       {
-         "title":"TELUGU MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/1HGY8ynqm5EZjr5xBLUeW5B1DVX_oyLjR/view?usp=sharing"
+      {
+         "title":"HINDI",
+         "url":"https://drive.google.com/file/d/138uSn37iNUDOlFo308Xwke7p8Ig88mMC/view?usp=share_link"
       },
       {
-         "title":"HINDI MODEL PAPER-1",
-         "url":"https://drive.google.com/file/d/1XSW7FrPGE9-zq8Yqn5nxCA1xtW-Dbt-Z/view?usp=sharing"
-      },
-       {
-         "title":"HINDI MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/1XSW7FrPGE9-zq8Yqn5nxCA1xtW-Dbt-Z/view?usp=sharing"
-      },
-      {
-         "title":"ENGLISH MODEL PAPER-1",
+         "title":"ENGLISH",
          "url":"https://drive.google.com/file/d/1PSrrE6rK3sA7If3qvLZmbpOh6v6kUSwA/view?usp=sharing"
-      },
-         {
-         "title":"ENGLISH MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/1EJJYC4l-pYAvlWWWUHLpSGvcr9nAjFfW/view?usp=sharing"
       },
       {
          "title":"MATHS-TM",
-         "url":"https://drive.google.com/file/d/16wB-r1xfZFS2pMIPvHUqe4BWZfu0cNAr/view?usp=sharing"
-      },
-       {
-         "title":"MATHS-TM MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/16wB-r1xfZFS2pMIPvHUqe4BWZfu0cNAr/view?usp=sharing"
+         "url":"https://drive.google.com/file/d/1OGMsAWJH6SA9xZF18kJer5NtyUOHRQwa/view?usp=sharing"
       },
       {
          "title":"MATHS-EM",
-         "url":"https://drive.google.com/file/d/16wB-r1xfZFS2pMIPvHUqe4BWZfu0cNAr/view?usp=sharing"
-      },
-       {
-         "title":"MATHS-EM MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/16wB-r1xfZFS2pMIPvHUqe4BWZfu0cNAr/view?usp=sharing"
+         "url":"https://drive.google.com/file/d/1OGMsAWJH6SA9xZF18kJer5NtyUOHRQwa/view?usp=sharing"
       },
       {
          "title":"SCIENCE-EM",
-         "url":"https://drive.google.com/file/d/16VrWidr2BU-9BREuymV-q551uIoZ5exW/view?usp=sharing"
-      },
-        {
-         "title":"SCIENCE-EM MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/1exUGBj2P3jYCI1ZH4oYLdzrVftjPjNhP/view?usp=sharing"
+         "url":"https://drive.google.com/file/d/1ufMukfEDO0LrIumv5bjtTAj0_UWb-VhF/view?usp=sharing"
       },
       {
          "title":"SCIENCE-TM",
-         "url":"https://drive.google.com/file/d/16VrWidr2BU-9BREuymV-q551uIoZ5exW/view?usp=sharing"
-      },
-        {
-         "title":"SCIENCE-TM MODEL PAPER-2",
-         "url":"https://drive.google.com/file/d/1C_eeiqcI3UBZxrzwnSzg0F17P6aytqCH/view?usp=sharing"
+         "url":"https://drive.google.com/file/d/1ufMukfEDO0LrIumv5bjtTAj0_UWb-VhF/view?usp=sharing"
       },
       
       {
          "title":"SOCIAL-EM",
-         "url":"https://drive.google.com/file/d/167JCevAcJeVfLOiH8OXtANLHhcK9WKRi/view?usp=sharing"
-      },
-       {
-         "title":"SOCIAL-EM MODEL PAPER-2",
-         "url":"https://docs.google.com/document/d/1TEtrx_f1wVUvkOU9nlaRuohPzYdBVWB5/edit?usp=sharing&ouid=112919018265009295971&rtpof=true&sd=true"
+         "url":"https://drive.google.com/file/d/1l0XMIOgIcMwlam-VC-Q_ypjEktrCOjv-/view?usp=sharing"
       },
       {
          "title":"SOCIAL-TM",
-         "url":"https://drive.google.com/file/d/167JCevAcJeVfLOiH8OXtANLHhcK9WKRi/view?usp=sharing"
-      },
-        {
-         "title":"SOCIAL-TM MODEL PAPER-2",
-         "url":"https://docs.google.com/document/d/1a3qpy7rgI3WrJFRqLc4U_ukM0wozh8qG/edit?usp=sharing&ouid=112919018265009295971&rtpof=true&sd=true"
+         "url":"https://drive.google.com/file/d/1l0XMIOgIcMwlam-VC-Q_ypjEktrCOjv-/view?usp=sharing"
       },
       {
-         "title":"SOCIAL-TM MODEL PAPER-2",
-         "url":"https://docs.google.com/document/d/1a3qpy7rgI3WrJFRqLc4U_ukM0wozh8qG/edit?usp=sharing&ouid=112919018265009295971&rtpof=true&sd=true"
+         "title":"SOCIAL-TM",
+         "url":"https://drive.google.com/file/d/1l0XMIOgIcMwlam-VC-Q_ypjEktrCOjv-/view?usp=sharing"
       }
    ]
 }
