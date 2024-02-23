@@ -1,1 +1,30 @@
-10thblue.json
+{
+    "results":[
+       {
+          "title":"MATHS BLUEPRINT",
+          "url":"https://drive.google.com/file/d/1JnEXkwce5ncKrHooU555x1yauRTLepNX/view?usp=sharing"
+       },
+       {
+          "title":"MATHS CHAPTERWISE WEIGHTAGE",
+          "url":"https://drive.google.com/file/d/1aJfuVHkk2t-9sZaQ0a6B2Lw5BpVfx4ZP/view?usp=sharing"
+       },
+       {
+          "title":"SCIENCE BLUEPRINT",
+          "url":"https://drive.google.com/file/d/1Xjs_6vn60ZgJtJ82CKyIYrjRZ7zKqUkm/view?usp=sharing"
+       },
+       {
+          "title":"SCIENCE CHAPTERWISE WEIGHTAGE",
+          "url":"https://drive.google.com/file/d/1PIjaAiAkohucN4pK_BOru2iJ2C8iWhcG/view?usp=sharing"
+       },
+       {
+          "title":"SOCIAL BLUEPRINT",
+          "url":"https://drive.google.com/file/d/1L3Gk7jyeWsj2oz00ImLA18GI6zmnI_O0/view?usp=sharing"
+       },
+       {
+          "title":"SOCIAL CHAPTERWISE WEIGHTAGE",
+          "url":"https://drive.google.com/file/d/1A7FNthRiPJipC9z5nrmFynoT5cGHItq1/view?usp=sharing"
+       }
+      
+      
+    ]
+ }
