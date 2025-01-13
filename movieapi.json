@@ -58,65 +58,6 @@
     "title": "Jersey",
     "year": 2022,
     "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Jersey_2021_film_poster.jpg"
-  },
-  {
-    "id": 11,
-    "title": "Sita Ramam",
-    "year": 2022,
-    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Sita_Ramam_film_poster.jpg"
-  },
-  {
-    "id": 12,
-    "title": "Bheemla Nayak",
-    "year": 2022,
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Bheemla_Nayak_movie_poster.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Major",
-    "year": 2022,
-    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Major_movie_poster.jpg"
-  },
-  {
-    "id": 14,
-    "title": "Acharya",
-    "year": 2022,
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Acharya_film_poster.jpg"
-  },
-  {
-    "id": 15,
-    "title": "F3: Fun and Frustration",
-    "year": 2022,
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/F3_Movie_Poster.jpg"
-  },
-  {
-    "id": 16,
-    "title": "Raja Vikramarka",
-    "year": 2021,
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Raja_Vikramarka_poster.jpg"
-  },
-  {
-    "id": 17,
-    "title": "Shyam Singha Roy",
-    "year": 2021,
-    "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Shyam_Singha_Roy_film_poster.jpg"
-  },
-  {
-    "id": 18,
-    "title": "Nani's Tuck Jagadish",
-    "year": 2021,
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Tuck_Jagadish_2021_film_poster.jpg"
-  },
-  {
-    "id": 19,
-    "title": "Love Story",
-    "year": 2021,
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Love_Story_%282021%29_film_poster.jpg"
-  },
-  {
-    "id": 20,
-    "title": "Sooryavanshi",
-    "year": 2021,
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/Sooryavanshi_Poster.jpg"
   }
+  
 ]
