@@ -1,29 +1,28 @@
-
 [
-    {
-      id: 1,
-      title: "RRR",
-      year: 2022,
-      image: "https://th.bing.com/th/id/OIP.MgQUlkAWtm6_DL-pSz-NnAHaLH?rs=1&pid=ImgDetMain",
-    },
-    {
-      id: 2,
-      title: "Pushpa: The Rise",
-      year: 2021,
-      image: "https://lehren.com/wp-content/uploads/2023/04/pushpa-the-rule-allu-arjun-looks-unrecognisable-in-first-look-poster.jpg",
-    },
-    {
-      id: 3,
-      title: "Pathaan",
-      year: 2023,
-      image: "https://m.media-amazon.com/images/M/MV5BMmZjMzI5MDItOWMzMi00ZTk0LWI5ZWQtM2QzODRmNjAyYTYyXkEyXkFqcGdeQXVyMTU4MzI5NzYw._V1_.jpg",
-    },
-    {
-      id: 4,
-      title: "Brahmāstra: Part One - Shiva",
-      year: 2022,
-      image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Brahmastra_Teaser_Poster.jpg",
-    },
+  {
+    "id": 1,
+    "title": "RRR",
+    "year": 2022,
+    "image": "https://th.bing.com/th/id/OIP.MgQUlkAWtm6_DL-pSz-NnAHaLH?rs=1&pid=ImgDetMain"
+  },
+  {
+    "id": 2,
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "image": "https://lehren.com/wp-content/uploads/2023/04/pushpa-the-rule-allu-arjun-looks-unrecognisable-in-first-look-poster.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pathaan",
+    "year": 2023,
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZjMzI5MDItOWMzMi00ZTk0LWI5ZWQtM2QzODRmNjAyYTYyXkEyXkFqcGdeQXVyMTU4MzI5NzYw._V1_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Brahmāstra: Part One - Shiva",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7f/Brahmastra_Teaser_Poster.jpg"
+  },
   {
     "id": 5,
     "title": "KGF: Chapter 2",
