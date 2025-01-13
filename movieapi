@@ -1,0 +1,123 @@
+
+[
+    {
+      id: 1,
+      title: "RRR",
+      year: 2022,
+      image: "https://th.bing.com/th/id/OIP.MgQUlkAWtm6_DL-pSz-NnAHaLH?rs=1&pid=ImgDetMain",
+    },
+    {
+      id: 2,
+      title: "Pushpa: The Rise",
+      year: 2021,
+      image: "https://lehren.com/wp-content/uploads/2023/04/pushpa-the-rule-allu-arjun-looks-unrecognisable-in-first-look-poster.jpg",
+    },
+    {
+      id: 3,
+      title: "Pathaan",
+      year: 2023,
+      image: "https://m.media-amazon.com/images/M/MV5BMmZjMzI5MDItOWMzMi00ZTk0LWI5ZWQtM2QzODRmNjAyYTYyXkEyXkFqcGdeQXVyMTU4MzI5NzYw._V1_.jpg",
+    },
+    {
+      id: 4,
+      title: "Brahmāstra: Part One - Shiva",
+      year: 2022,
+      image: "https://upload.wikimedia.org/wikipedia/en/7/7f/Brahmastra_Teaser_Poster.jpg",
+    },
+  {
+    "id": 5,
+    "title": "KGF: Chapter 2",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ae/K.G.F_Chapter_2_Poster.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Vikram",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Vikram_2022_film_poster.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Laal Singh Chaddha",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Laal_Singh_Chaddha_Poster.jpg"
+  },
+  {
+    "id": 8,
+    "title": "RRR (Telugu)",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/SS_Rajamouli_RRR_poster.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Radhe Shyam",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Radhe_Shyam_film_poster.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Jersey",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Jersey_2021_film_poster.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Sita Ramam",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/50/Sita_Ramam_film_poster.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Bheemla Nayak",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Bheemla_Nayak_movie_poster.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Major",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Major_movie_poster.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Acharya",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/Acharya_film_poster.jpg"
+  },
+  {
+    "id": 15,
+    "title": "F3: Fun and Frustration",
+    "year": 2022,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/F3_Movie_Poster.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Raja Vikramarka",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Raja_Vikramarka_poster.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Shyam Singha Roy",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/31/Shyam_Singha_Roy_film_poster.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Nani's Tuck Jagadish",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/Tuck_Jagadish_2021_film_poster.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Love Story",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Love_Story_%282021%29_film_poster.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Sooryavanshi",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/Sooryavanshi_Poster.jpg"
+  }
+]
