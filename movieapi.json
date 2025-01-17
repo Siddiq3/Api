@@ -1,61 +1,67 @@
 [
   {
     "id": 1,
+    "title": "Vidaamuyarchi",
+    "year": 2025,
+    "image": "https://www.wallsnapy.com/img_gallery/vidamuyarchi-movie-poster-4k-wallpaper-9871468.jpg"
+  },
+  {
+    "id": 2,
     "title": "RRR",
     "year": 2022,
     "image": "https://th.bing.com/th/id/OIP.MgQUlkAWtm6_DL-pSz-NnAHaLH?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Pushpa: The Rise",
     "year": 2021,
     "image": "https://lehren.com/wp-content/uploads/2023/04/pushpa-the-rule-allu-arjun-looks-unrecognisable-in-first-look-poster.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Pathaan",
     "year": 2023,
     "image": "https://m.media-amazon.com/images/M/MV5BNDUyODIzZGUtYmU3OS00MGZlLTgwZGItOTQxOWMwZDliOWRmXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Brahmāstra: Part One - Shiva",
     "year": 2022,
     "image": "https://flxt.tmsimg.com/assets/p17432198_v_v13_ad.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "KGF: Chapter 2",
     "year": 2022,
     "image": "https://1.bp.blogspot.com/-l01GIldlZ5g/XpWfOqgZZBI/AAAAAAAAugA/bQ3b6vItB_gIHgOjfIUdv7NKGqzOGgc0ACNcBGAsYHQ/s1600/KGF-Chapter-2-Poster-5.jpg"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Vikram",
     "year": 2022,
     "image": "https://starsunfolded.com/wp-content/uploads/2023/06/Poster-of-Jaffer-Sadiqs-debut-film-Vikram.jpg"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Laal Singh Chaddha",
     "year": 2022,
     "image": "https://m.media-amazon.com/images/M/MV5BZTUxMTI2NGItZjJkZi00NzJmLTk3MWEtMDM2MWE1NzQ3YmQ1XkEyXkFqcGdeQXVyODY3NzQyNDk@._V1_.jpg"
   },
  
   {
-    "id": 8,
+    "id": 9,
     "title": "Radhe Shyam",
     "year": 2022,
     "image": "https://pbs.twimg.com/ext_tw_video_thumb/1470703200718123008/pu/img/RoVCRMDFp2C2R_i4?format=jpg&name=900x900"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Jersey",
     "year": 2022,
     "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/04/17/Nani-s-JERSEY-Movie-Super-HD-Posters-2.jpg?fit=1429%2C2000&quality=90&zoom=1&ssl=1"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Sita Ramam",
     "year": 2022,
     "image": "https://assets.gadgets360cdn.com/pricee/assets/product/202206/Sita-Ramam-poster_1656325728.jpg"
