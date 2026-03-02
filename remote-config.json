@@ -1,5 +1,6 @@
 {
   "version": 1,
+  "updatedAt": "2026-03-02",
   "features": {
     "remoteConfigEnabled": true,
     "dailyClaimEnabled": true,
@@ -7,7 +8,18 @@
     "referralEnabled": true,
     "adsEnabled": true
   },
- "rewards": {
+  "rewards": {
+    "welcomeCoins": 50,
+    "correctAnswerCoins": 5,
+
+    "watchAdRewardCoins": 10,
+    "watchAd": {
+      "coinsPerView": 10,
+      "maxPerDay": 2
+    },
+
+    "streakDays": 7,
+    "streakBonusCoins": 10,
     "streak": {
       "requiresQuiz": true,
       "requiresUsageMinutes": 30,
@@ -17,11 +29,13 @@
         { "days": 10, "bonusCoins": 15, "label": "10 days" },
         { "days": 30, "bonusCoins": 30, "label": "30 days" }
       ]
-    }
-  },
+    },
+
+    "referralRewardCoins": 100,
+    "newUserExtraReferralCoins": 0,
     "referral": {
-      "referrerCoins": 100,
-      "newUserExtraCoins": 0
+      "referrerRewardCoins": 100,
+      "newUserExtraReferralCoins": 0
     }
   }
 }
