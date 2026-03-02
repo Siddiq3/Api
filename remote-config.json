@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "features": {
+    "remoteConfigEnabled": true,
+    "dailyClaimEnabled": true,
+    "streakEnabled": true,
+    "referralEnabled": true,
+    "adsEnabled": true
+  },
+ "rewards": {
+    "streak": {
+      "requiresQuiz": true,
+      "requiresUsageMinutes": 30,
+      "milestones": [
+        { "days": 3, "bonusCoins": 5, "label": "3 days" },
+        { "days": 7, "bonusCoins": 10, "label": "7 days" },
+        { "days": 10, "bonusCoins": 15, "label": "10 days" },
+        { "days": 30, "bonusCoins": 30, "label": "30 days" }
+      ]
+    }
+  },
+    "referral": {
+      "referrerCoins": 100,
+      "newUserExtraCoins": 0
+    }
+  }
+}
