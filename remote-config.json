@@ -15,7 +15,9 @@
     "watchAdRewardCoins": 10,
     "watchAd": {
       "coinsPerView": 10,
-      "maxPerDay": 2
+      "maxPerDay": 2,
+      "cooldownSeconds": 43200
+
     },
 
     "streakDays": 7,
