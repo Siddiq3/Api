@@ -1,7 +1,6 @@
-
 {
   "version": 1,
-  "updatedAt": "2026-03-02",
+  "updatedAt": "2026-03-04",
   "categories": [
     {
       "id": "google",
@@ -9,7 +8,7 @@
       "brand": "Google Play",
       "icon": "playstore",
       "items": [
-        { "id": "google_10", "amount": 10, "coins": 20, "label": "Redeem Code", "enabled": true },
+        { "id": "google_10", "amount": 10, "coins": 1020, "label": "Redeem Code", "enabled": true },
         { "id": "google_20", "amount": 20, "coins": 2350, "label": "Redeem Code", "enabled": true },
         { "id": "google_30", "amount": 30, "coins": 3400, "label": "Redeem Code", "enabled": true },
         { "id": "google_50", "amount": 50, "coins": 5600, "label": "Redeem Code", "enabled": true },
@@ -43,7 +42,11 @@
       "brand": "UPI",
       "icon": "upi",
       "items": [
-        { "id": "upi_10", "amount": 10, "coins": 1020, "label": "UPI Transfer", "enabled": true }
+        { "id": "upi_10", "amount": 10, "coins": 10, "label": "UPI Transfer", "enabled": true },
+        { "id": "upi_20", "amount": 20, "coins": 2350, "label": "UPI Transfer", "enabled": true },
+        { "id": "upi_30", "amount": 30, "coins": 3400, "label": "UPI Transfer", "enabled": true },
+        { "id": "upi_50", "amount": 50, "coins": 5600, "label": "UPI Transfer", "enabled": true },
+        { "id": "upi_100", "amount": 100, "coins": 10200, "label": "UPI Transfer", "enabled": true }
       ]
     }
   ]
