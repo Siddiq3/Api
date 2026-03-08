@@ -1,0 +1,13 @@
+{
+  "latestVersion": "2.8.85",
+  "minRequiredVersion": "2.8.84",
+  "latestBuildNumber": 265,
+  "minRequiredBuildNumber": 264,
+  "forceUpdate": false,
+  "title": "Update available",
+  "message": "New improvements are available.",
+  "updateNowLabel": "Update now",
+  "laterLabel": "Later",
+  "optionalCooldownHours": 12,
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=siddiqkolimidev.tenth_app"
+}
