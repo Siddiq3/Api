@@ -8,7 +8,7 @@
       "brand": "Google Play",
       "icon": "playstore",
       "items": [
-        { "id": "google_10", "amount": 10, "coins": 1020, "label": "Redeem Code", "enabled": true },
+        { "id": "google_10", "amount": 1020, "coins": 1020, "label": "Redeem Code", "enabled": true },
         { "id": "google_20", "amount": 20, "coins": 2350, "label": "Redeem Code", "enabled": true },
         { "id": "google_30", "amount": 30, "coins": 3400, "label": "Redeem Code", "enabled": true },
         { "id": "google_50", "amount": 50, "coins": 5600, "label": "Redeem Code", "enabled": true },
