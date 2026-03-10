@@ -9,6 +9,16 @@
       "url": "https://photopromptshub.com",
       "isActive": true,
       "priority": 1
+    },
+    {
+      "id": "exam_planner_tool",
+      "title": "Smart Exam Planner",
+      "description": "Generate a daily study plan in seconds for your exams.",
+      "image": "https://example.com/exam-planner-banner.png",
+      "buttonText": "Try Planner",
+      "url": "https://example.com/exam-planner",
+      "isActive": true,
+      "priority": 2
     }
   ]
 }
