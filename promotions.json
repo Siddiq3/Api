@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "id": "ai_prompt_library",
+      "title": "AI Photo Prompt Library",
+      "description": "Discover hundreds of AI photo prompts for Midjourney, DALL·E, and Stable Diffusion.",
+      "image": "https://photopromptshub.com/banner.png",
+      "buttonText": "Explore Now",
+      "url": "https://photopromptshub.com",
+      "isActive": true,
+      "priority": 1
+    }
+  ]
+}
