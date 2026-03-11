@@ -1,18 +1,1 @@
-{
-  "cards": [
-    {
-      "id": "ai_prompt_library",
-      "image": "https://raw.githubusercontent.com/Siddiq3/Api/main/banner.webp",
-      "url": "https://photopromptshub.com",
-      "isActive": true,
-      "priority": 1
-    },
-    {
-      "id": "exam_planner_dummy",
-      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1536&q=80",
-      "url": "https://example.com/exam-planner",
-      "isActive": true,
-      "priority": 2
-    }
-  ]
-}
+
