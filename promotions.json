@@ -3,8 +3,8 @@
     {
       "id": "ai_prompt_library",
       "title": "AI Photo Prompt Library",
-      "description": "Discover hundreds of AI photo prompts for Midjourney, DALL·E, and Stable Diffusion.",
-      "image": "https://photopromptshub.com/banner.png",
+      "description": "Discover hundreds of AI photo prompts and create stunning images.",
+      "image": "https://raw.githubusercontent.com/Siddiq3/Api/main/banner.webp",
       "buttonText": "Explore Now",
       "url": "https://photopromptshub.com",
       "isActive": true,
