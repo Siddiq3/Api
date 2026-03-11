@@ -2,20 +2,14 @@
   "cards": [
     {
       "id": "ai_prompt_library",
-      "title": "AI Photo Prompt Library",
-      "description": "Discover hundreds of AI photo prompts and create stunning images.",
       "image": "https://raw.githubusercontent.com/Siddiq3/Api/main/banner.webp",
-      "buttonText": "Explore Now",
       "url": "https://photopromptshub.com",
       "isActive": true,
       "priority": 1
     },
     {
-      "id": "exam_planner_tool",
-      "title": "Smart Exam Planner",
-      "description": "Generate a daily study plan in seconds for your exams.",
-      "image": "https://example.com/exam-planner-banner.png",
-      "buttonText": "Try Planner",
+      "id": "exam_planner_dummy",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1536&q=80",
       "url": "https://example.com/exam-planner",
       "isActive": true,
       "priority": 2
