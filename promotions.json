@@ -1,14 +1,11 @@
 {
   "cards": [
     {
-      "id": "ai_prompt_library_ap_10th",
+      "id": "ai_prompt_library_all_users",
       "image": "https://raw.githubusercontent.com/Siddiq3/Api/main/banner.webp",
       "url": "https://photopromptshub.com",
       "isActive": true,
-      "priority": 1,
-      "stateBoards": ["Andhra Pradesh"],
-      "classValues": ["10thClass"]
+      "priority": 1
     }
   ]
 }
-
