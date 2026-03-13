@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.0.1",
-  "minRequiredVersion": "3.0.1",
-  "latestBuildNumber": 267,
-  "minRequiredBuildNumber": 267,
+  "latestVersion": "3.1.0",
+  "minRequiredVersion": "3.1.0",
+  "latestBuildNumber": 268,
+  "minRequiredBuildNumber": 268,
   "forceUpdate": true,
   "title": "Update required",
   "message": "Please update to continue.",
